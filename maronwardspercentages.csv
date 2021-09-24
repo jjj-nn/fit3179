@@ -1,0 +1,113 @@
+"","Month-Year","State","Population"
+"1","Apr-20","New South Wales",-97.66545933
+"2","May-20","New South Wales",-97.62594666
+"3","Jun-20","New South Wales",-96.95752387
+"4","Jul-20","New South Wales",-97.33947975
+"5","Aug-20","New South Wales",-97.20777083
+"6","Sep-20","New South Wales",-97.0760619
+"7","Oct-20","New South Wales",-95.57128745
+"8","Nov-20","New South Wales",-94.26078367
+"9","Dec-20","New South Wales",-93.98419493
+"10","Jan-21","New South Wales",-95.71945999
+"11","Feb-21","New South Wales",-96.14092855
+"12","Mar-21","New South Wales",-94.67237405
+"13","Apr-21","New South Wales",-90.96476786
+"14","May-21","New South Wales",-81.00757326
+"15","Apr-20","Victoria",-98.1461969
+"16","May-20","Victoria",-98.34705301
+"17","Jun-20","Victoria",-98.00790254
+"18","Jul-20","Victoria",-99.31840632
+"19","Aug-20","Victoria",-99.50609154
+"20","Sep-20","Victoria",-99.36121172
+"21","Oct-20","Victoria",-99.02535397
+"22","Nov-20","Victoria",-98.82449786
+"23","Dec-20","Victoria",-97.70826473
+"24","Jan-21","Victoria",-97.50740863
+"25","Feb-21","Victoria",-98.36680935
+"26","Mar-21","Victoria",-98.02436615
+"27","Apr-21","Victoria",-96.46361541
+"28","May-21","Victoria",-93.13467237
+"29","Apr-20","Queensland",-98.61705631
+"30","May-20","Queensland",-98.82779058
+"31","Jun-20","Queensland",-98.16595324
+"32","Jul-20","Queensland",-98.89364504
+"33","Aug-20","Queensland",-99.23608824
+"34","Sep-20","Queensland",-99.17023378
+"35","Oct-20","Queensland",-98.86730326
+"36","Nov-20","Queensland",-98.73230161
+"37","Dec-20","Queensland",-98.53144551
+"38","Jan-21","Queensland",-98.35034574
+"39","Feb-21","Queensland",-98.53803095
+"40","Mar-21","Queensland",-98.48205466
+"41","Apr-21","Queensland",-96.8620349
+"42","May-21","Queensland",-91.95917023
+"43","Apr-20","South Australia",-99.68389858
+"44","May-20","South Australia",-99.74975305
+"45","Jun-20","South Australia",-99.73987488
+"46","Jul-20","South Australia",-99.81231478
+"47","Aug-20","South Australia",-99.88146197
+"48","Sep-20","South Australia",-99.8287784
+"49","Oct-20","South Australia",-99.72670398
+"50","Nov-20","South Australia",-99.68060586
+"51","Dec-20","South Australia",-99.66414225
+"52","Jan-21","South Australia",-99.58511689
+"53","Feb-21","South Australia",-99.69706948
+"54","Mar-21","South Australia",-99.69048403
+"55","Apr-21","South Australia",-99.49950609
+"56","May-21","South Australia",-99.1866974
+"57","Apr-20","Western Australia",-99.19986829
+"58","May-20","Western Australia",-99.39084623
+"59","Jun-20","Western Australia",-99.22621008
+"60","Jul-20","Western Australia",-99.20974646
+"61","Aug-20","Western Australia",-99.46328614
+"62","Sep-20","Western Australia",-99.53243332
+"63","Oct-20","Western Australia",-99.27889365
+"64","Nov-20","Western Australia",-99.19328284
+"65","Dec-20","Western Australia",-99.15377017
+"66","Jan-21","Western Australia",-99.14059928
+"67","Feb-21","Western Australia",-99.26243003
+"68","Mar-21","Western Australia",-99.03523214
+"69","Apr-21","Western Australia",-98.89364504
+"70","May-21","Western Australia",-97.87948634
+"71","Apr-20","Tasmania",-99.93085282
+"72","May-20","Tasmania",-99.95390188
+"73","Jun-20","Tasmania",-99.94402371
+"74","Jul-20","Tasmania",-99.95390188
+"75","Aug-20","Tasmania",-99.96048732
+"76","Sep-20","Tasmania",-99.96707277
+"77","Oct-20","Tasmania",-99.94402371
+"78","Nov-20","Tasmania",-99.92426737
+"79","Dec-20","Tasmania",-99.83865657
+"80","Jan-21","Tasmania",-99.83536385
+"81","Feb-21","Tasmania",-99.92097465
+"82","Mar-21","Tasmania",-99.90121831
+"83","Apr-21","Tasmania",-99.85182746
+"84","May-21","Tasmania",-99.7003622
+"85","Apr-20","Northern Territory",-99.95060915
+"86","May-20","Northern Territory",-99.94073098
+"87","Jun-20","Northern Territory",-99.86499835
+"88","Jul-20","Northern Territory",-99.96048732
+"89","Aug-20","Northern Territory",-99.95390188
+"90","Sep-20","Northern Territory",-99.8715838
+"91","Oct-20","Northern Territory",-99.94731643
+"92","Nov-20","Northern Territory",-99.92756009
+"93","Dec-20","Northern Territory",-99.95060915
+"94","Jan-21","Northern Territory",-99.89792558
+"95","Feb-21","Northern Territory",-99.94073098
+"96","Mar-21","Northern Territory",-99.82548568
+"97","Apr-21","Northern Territory",-99.91109648
+"98","May-21","Northern Territory",-99.83207112
+"99","Apr-20","Australian Capital Territory",-99.83865657
+"100","May-20","Australian Capital Territory",-99.87487652
+"101","Jun-20","Australian Capital Territory",-99.82219295
+"102","Jul-20","Australian Capital Territory",-99.83865657
+"103","Aug-20","Australian Capital Territory",-99.87816925
+"104","Sep-20","Australian Capital Territory",-99.85841291
+"105","Oct-20","Australian Capital Territory",-99.8287784
+"106","Nov-20","Australian Capital Territory",-99.80243662
+"107","Dec-20","Australian Capital Territory",-99.75304577
+"108","Jan-21","Australian Capital Territory",-99.70694765
+"109","Feb-21","Australian Capital Territory",-99.83207112
+"110","Mar-21","Australian Capital Territory",-99.83865657
+"111","Apr-21","Australian Capital Territory",-99.80572934
+"112","May-21","Australian Capital Territory",-99.60158051
