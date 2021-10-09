@@ -1,0 +1,101 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {"url": "https://raw.githubusercontent.com/jjj-nn/fit3179/main/arrivalclean.csv"},
+  "hconcat":[{"title":"Number of Arrivals in Australia by Visa Type",
+  "width": 450, "height": 200,
+  "params": [{
+    "name": "Select",
+    "select": {"type": "point", "fields": ["Visa Type"]},
+    "bind": {"input": "select", "options": [null, "Temporary Work Visas", "Temporary Visitor Visas", "Temporary Student Visas", "Temporary Skilled Visas", "Temporary Other Visas"]}
+  }],
+  "transform": [
+    {
+      "calculate": "timeParse(datum['Month'], '%b-%y')",
+      "as" : "date"
+    },
+    {
+      "calculate": "datum.Population",
+      "as" : "Population"
+    }
+  ],
+  "mark": "line",
+  "encoding": {
+    "x": {"field": "date", "timeUnit": "yearmonth", "title":"Date"},
+   "y": {"field": "Population", "type": "quantitative"},
+    "color": {
+      "condition": {
+        "param": "Select",
+        "field": "Visa Type", "type": "nominal"
+      },
+      "value": "grey"
+    },
+    "tooltip": [
+      {"field": "Population", "type": "quantitative"},
+      {"field": "Visa Type", "type" : "nominal"},
+      {"field": "date", "timeUnit": "yearmonth", "title":"Date"}
+    ]
+  }, 
+  "layer":[{
+    "mark":"line"
+  },
+  {"mark":{
+      "type":"text",
+      "align":"left",
+      "baseline":"middle",
+      "dx":1,
+      "dy":-25
+    },
+    "encoding":{
+      "text":{ "field": "date", "timeUnit": "yearmonth",
+        "condition":{
+      "test":"datum['Month'] == 'Mar-20' && datum['Population']== 198090",
+      "value":["March 20 - Australia announces entry ban for non-citizens and non-residents."],
+      "colour" :{"value": "#black"}
+    }},
+    "opacity": {
+          "condition": {
+            "test": "datum['Month'] == 'Mar-20' && datum['Population']== 198090",
+            "value": 1
+          },
+          "value": 0
+        }
+  }
+  }]
+  },{
+     "data": {"url": "https://raw.githubusercontent.com/jjj-nn/fit3179/main/departureclean.csv"},
+  "title":"Number of Departures in Australia by Visa Type",
+  "width": 450, "height": 200,
+  "params": [{
+    "name": "Select",
+    "select": {"type": "point", "fields": ["Visa Type"]},
+    "bind": {"input": "select", "options": [null, "Temporary Work Visas", "Temporary Visitor Visas", "Temporary Student Visas", "Temporary Skilled Visas", "Temporary Other Visas"]}
+  }],
+  "transform": [
+    {
+      "calculate": "timeParse(datum['Month'], '%b-%y')",
+      "as" : "date"
+    },
+    {
+      "calculate": "datum.Population",
+      "as" : "Population"
+    }
+  ],
+  "mark": "line",
+  "encoding": {
+    "x": {"field": "date", "timeUnit": "yearmonth", "title":"Date"},
+   "y": {"field": "Population", "type": "quantitative"},
+    "color": {
+      "condition": {
+        "param": "Select",
+        "field": "Visa Type", "type": "nominal"
+      },
+      "value": "grey"
+    },    
+    "tooltip": [
+      {"field": "Population", "type": "quantitative"},
+      {"field": "Visa Type", "type" : "nominal"},
+      {"field": "date", "timeUnit": "yearmonth", "title":"Date"}
+    ]
+  }
+}]
+}
