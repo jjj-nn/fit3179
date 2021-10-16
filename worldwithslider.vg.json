@@ -1,0 +1,105 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "% Change of arrivals from March 2020",
+    "width": 850,
+    "height": 400,
+    "projection": {
+      "type": "equirectangular"
+    },
+    "params": [
+      {
+        "name": "Month_selection",
+        "value": 4,
+        "bind": {
+          "input": "range",
+          "min": 1,
+          "max": 16,
+          "step": 1,
+          "name": "Month:  "
+        }
+      }
+    ],
+    "layer": [
+      {
+        "data": {
+          "url": "https://raw.githubusercontent.com/jjj-nn/fit3179/main/simplifiedworlwidecustom.geo.json",
+          "format": {"type": "topojson", "feature": "worlwidecustom.geo"}
+        },
+        "transform": [
+          {
+            "calculate": "'Data is not available.'",
+            "as": "note"
+          }
+        ],
+        "mark": {
+          "type": "geoshape",
+          "fill": "#ddd",
+          "stroke": "black",
+          "strokeWidth": 1
+        },
+        "encoding": {"tooltip": {"field": "note"}}
+      },
+      {
+        "data": {
+          "url": "https://raw.githubusercontent.com/jjj-nn/fit3179/main/manypercentcountrycleannew.csv"
+        },
+        "transform": [
+          {
+            "lookup": "Country",
+            "from": {
+              "data": {
+                "url": "https://raw.githubusercontent.com/jjj-nn/fit3179/main/simplifiedworlwidecustom.geo.json",
+                "format": {
+                  "type": "topojson",
+                  "feature": "worlwidecustom.geo"
+                }
+              },
+              "key": "properties.name"
+            },
+            "as": "geo"
+          },
+          {"filter": "datum.Month1 == Month_selection"}
+        ],
+        "mark": {"type": "geoshape", "stroke": "black", "strokeWidth": 0.5},
+        "encoding": {
+          "shape": {"field": "geo", "type": "geojson"},
+          "color": {
+            "field": "Percentage Change",
+            "type": "quantitative",
+            "scale": {
+                "type": "threshold",
+                "domain": [-99, -97, -95, -93, -91, -90, -80, -70, -60],
+                "range": [
+                  "#084081",
+                  "#0868ac",
+                  "#2b8cbe",
+                  "#4eb3d3",
+                  "#7bccc4",
+                  "#a8ddb5",
+                  "#ccebc5",
+                  "#e0f3db",
+                  "#e8fae3",
+                  "#f7fcf0"
+                ]
+              },
+            "legend": {"format": ".2s"}
+          },
+          "tooltip": [
+            {"field": "Country", "type": "nominal", "title": "Country"}, 
+        {"field": "Month1", "type": "quantitative", "title": "Month"},
+            {
+              "field": "Percentage Change",
+              "type": "quantitative",
+              "title": "Percentage Change",
+              "format": ".2f"
+            }
+          ]
+        }
+      }
+    ],
+    "config": {
+        "view": {
+            "stroke": "transparent"
+    }
+  }
+}
