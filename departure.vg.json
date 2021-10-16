@@ -1,0 +1,44 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title":"The % change in number of arrivals from March 2020 to July 2021",
+    "width": 400,
+    "height": 300,
+    "data": {
+      "url": "https://raw.githubusercontent.com/jjj-nn/fit3179/main/simplifiedaust.json",
+      "format": {"type": "topojson", "feature": "STE_2016_AUST"}
+    },
+    "transform": [
+      {
+        "lookup": "properties.STE_NAME16",
+        "from": {
+          "data": {
+            "url": "https://raw.githubusercontent.com/jjj-nn/fit3179/main/percentagesmaronwardsnamedeparture.csv"
+          },
+          "key": "State",
+          "fields": ["Percentage Change"]
+        }
+      }
+    ],
+    "projection": {"type": "equirectangular"},
+    "mark": {
+      "type": "geoshape",
+      "stroke": "white"
+    }, 
+    "encoding": {
+      "color": {
+        "field": "Percentage Change",
+        "type": "quantitative",
+        "sort":"descending"
+      },
+      "tooltip": [
+        {"field": "properties.STE_NAME16", "type": "nominal", "title": "State"},
+        {"field": "Percentage Change", "type": "quantitative"}
+      ],
+      "config": {
+  
+        "background": "#F3FAF9"
+       
+       }
+            
+    }
+  }
