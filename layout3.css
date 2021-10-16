@@ -1,0 +1,114 @@
+body {
+    background-color:lightblue;
+    line-height: 1.4;
+}
+  
+.page{
+  width: 1000px;    
+  background-color: white;   
+  margin: auto;
+  padding: 50px;
+}
+
+.carrycell {
+    width: 65%;
+
+}
+
+.supportcell {
+  width: 40%;
+  padding-left: 10px;
+}
+
+.carrycell1 {
+  width: 65%;
+
+}
+
+.supportcell1 {
+  width: 35%;
+
+}
+
+.carrycell2 {
+  width: 10%;
+
+}
+
+.supportcell2 {
+  width: 80%;
+}
+  .description-left {
+    /*margin-left: 50px; 
+    margin-right: 50px;*/
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .description-aus {
+    margin-left: 50px; /* left margin*/
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .description-visa {
+
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .description-world {
+    /*margin-left: 66px; */ /* left margin*/
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .vis-container {
+    width: 100%;
+  }
+  
+  h1 {
+    color:black;
+    text-align: center;
+    font-weight: 1000;
+    font-size:40px;
+  }
+
+  h2 {
+      color:navy;
+      font-family: Arial, Helvetica, sans-serif;
+
+    }
+
+    
+  h3 {
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:18px;
+
+  }
+
+  h4{
+    font-size:50px;
+  }
+
+  h5{
+    color: black;
+    font-size:18px;
+    text-align: center;
+  }
+
+  p.detail { color:black;font-weight:bold;font-family:Arial, Helvetica, sans-serif;font-size:18px }
+  span.dark { color:#0868ac;font-weight:bold;font-family:Arial, Helvetica, sans-serif;font-size:18px }
+
+  p.change { color:black;font-weight:bold;font-family:Arial, Helvetica, sans-serif;font-size:18px }
+  span.light { color:#7bccc4;font-weight:bold;font-family:Arial, Helvetica, sans-serif;font-size:18px }
+
+  p.visa { color:black;font-weight:bold;font-family:Arial, Helvetica, sans-serif;font-size:18px }
+  span.blue { color:#038cfc;font-weight:bold;font-family:Arial, Helvetica, sans-serif;font-size:18px }
+  span.red { color:#FF0000;font-weight:bold;font-family:Arial, Helvetica, sans-serif;font-size:18px }
+
+  p.impacted { color:black;font-weight:bold;font-family:Arial, Helvetica, sans-serif;font-size:18px }
+  span.green { color:#52a365;font-weight:bold;font-family:Arial, Helvetica, sans-serif;font-size:18px }
+
+  p.student { color:black;font-weight:bold;font-family:Arial, Helvetica, sans-serif;font-size:18px }
+  span.twenty { color:#084081;font-weight:bold;font-family:Arial, Helvetica, sans-serif;font-size:18px }
+
+  p.current { color:black;font-weight:bold;font-family:Arial, Helvetica, sans-serif;font-size:18px }
+  span.twentyone { color:#7bccc4;font-weight:bold;font-family:Arial, Helvetica, sans-serif;font-size:18px }
