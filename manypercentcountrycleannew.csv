@@ -1,0 +1,3281 @@
+,,Month,Month1,Country,Percentage Change
+1,NA,Apr-20,1,Australia,-96.90799714
+2,NA,May-20,2,Australia,-97.7093938
+3,NA,Jun-20,3,Australia,-97.09940684
+4,NA,Jul-20,4,Australia,-97.82718438
+5,NA,Aug-20,5,Australia,-98.20579698
+6,NA,Sep-20,6,Australia,-98.20369358
+7,NA,Oct-20,7,Australia,-97.52429431
+8,NA,Nov-20,8,Australia,-96.80493038
+9,NA,Dec-20,9,Australia,-96.29590678
+10,NA,Jan-21,10,Australia,-97.05733877
+11,NA,Feb-21,11,Australia,-97.6462917
+12,NA,Mar-21,12,Australia,-97.05313197
+13,NA,Apr-21,13,Australia,-95.9299146
+14,NA,May-21,14,Australia,-90.69244037
+15,NA,Jun-21,15,Australia,-91.53169829
+16,NA,Jul-21,16,Australia,-92.854739
+17,NA,Apr-20,1,New Zealand,-98.60014358
+18,NA,May-20,2,New Zealand,-97.2361809
+19,NA,Jun-20,3,New Zealand,-96.73366834
+20,NA,Jul-20,4,New Zealand,-98.15745394
+21,NA,Aug-20,5,New Zealand,-98.64800191
+22,NA,Sep-20,6,New Zealand,-98.56424982
+23,NA,Oct-20,7,New Zealand,-97.06867672
+24,NA,Nov-20,8,New Zealand,-95.56113903
+25,NA,Dec-20,9,New Zealand,-94.08949509
+26,NA,Jan-21,10,New Zealand,-94.75951184
+27,NA,Feb-21,11,New Zealand,-95.14237856
+28,NA,Mar-21,12,New Zealand,-93.94592008
+29,NA,Apr-21,13,New Zealand,-75.72385738
+30,NA,May-21,14,New Zealand,-37.47307968
+31,NA,Jun-21,15,New Zealand,-47.65494137
+32,NA,Jul-21,16,New Zealand,-67.6238335
+33,NA,Apr-20,1,Papua New Guinea,-98.07692308
+34,NA,May-20,2,Papua New Guinea,-96.15384615
+35,NA,Jun-20,3,Papua New Guinea,-96.15384615
+36,NA,Jul-20,4,Papua New Guinea,-95.51282051
+37,NA,Aug-20,5,Papua New Guinea,-98.07692308
+38,NA,Sep-20,6,Papua New Guinea,-96.15384615
+39,NA,Oct-20,7,Papua New Guinea,-96.15384615
+40,NA,Nov-20,8,Papua New Guinea,-96.15384615
+41,NA,Dec-20,9,Papua New Guinea,-93.58974359
+42,NA,Jan-21,10,Papua New Guinea,-94.87179487
+43,NA,Feb-21,11,Papua New Guinea,-94.23076923
+44,NA,Mar-21,12,Papua New Guinea,-94.23076923
+45,NA,Apr-21,13,Papua New Guinea,-96.79487179
+46,NA,May-21,14,Papua New Guinea,-96.15384615
+47,NA,Jun-21,15,Papua New Guinea,-94.87179487
+48,NA,Jul-21,16,Papua New Guinea,-96.7948718
+49,NA,Apr-20,1,Solomon Islands,-100
+50,NA,May-20,2,Solomon Islands,-100
+51,NA,Jun-20,3,Solomon Islands,-100
+52,NA,Jul-20,4,Solomon Islands,-95.83333333
+53,NA,Aug-20,5,Solomon Islands,-100
+54,NA,Sep-20,6,Solomon Islands,-100
+55,NA,Oct-20,7,Solomon Islands,-95.83333333
+56,NA,Nov-20,8,Solomon Islands,-25
+57,NA,Dec-20,9,Solomon Islands,-95.83333333
+58,NA,Jan-21,10,Solomon Islands,-95.83333333
+59,NA,Feb-21,11,Solomon Islands,-91.66666667
+60,NA,Mar-21,12,Solomon Islands,-33.33333333
+61,NA,Apr-21,13,Solomon Islands,50
+62,NA,May-21,14,Solomon Islands,37.5
+63,NA,Jun-21,15,Solomon Islands,-25
+64,NA,Jul-21,16,Solomon Islands,-25
+65,NA,Apr-20,1,Vanuatu,-100
+66,NA,May-20,2,Vanuatu,-100
+67,NA,Jun-20,3,Vanuatu,-100
+68,NA,Jul-20,4,Vanuatu,-100
+69,NA,Aug-20,5,Vanuatu,-100
+70,NA,Sep-20,6,Vanuatu,-60.46511628
+71,NA,Oct-20,7,Vanuatu,-60.46511628
+72,NA,Nov-20,8,Vanuatu,-97.6744186
+73,NA,Dec-20,9,Vanuatu,-62.79069767
+74,NA,Jan-21,10,Vanuatu,32.55813953
+75,NA,Feb-21,11,Vanuatu,-97.6744186
+76,NA,Mar-21,12,Vanuatu,-60.46511628
+77,NA,Apr-21,13,Vanuatu,18.60465116
+78,NA,May-21,14,Vanuatu,39.53488372
+79,NA,Jun-21,15,Vanuatu,79.06976744
+80,NA,Jul-21,16,Vanuatu,-6.9767442
+81,NA,Apr-20,1,Kiribati,-100
+82,NA,May-20,2,Kiribati,-100
+83,NA,Jun-20,3,Kiribati,-100
+84,NA,Jul-20,4,Kiribati,-100
+85,NA,Aug-20,5,Kiribati,-100
+86,NA,Sep-20,6,Kiribati,-100
+87,NA,Oct-20,7,Kiribati,0
+88,NA,Nov-20,8,Kiribati,-100
+89,NA,Dec-20,9,Kiribati,-100
+90,NA,Jan-21,10,Kiribati,-100
+91,NA,Feb-21,11,Kiribati,-100
+92,NA,Mar-21,12,Kiribati,-83.33333333
+93,NA,Apr-21,13,Kiribati,-100
+94,NA,May-21,14,Kiribati,233.3333333
+95,NA,Jun-21,15,Kiribati,-100
+96,NA,Jul-21,16,Kiribati,-100
+97,NA,Apr-20,1,Marshall Is,0
+98,NA,May-20,2,Marshall Is,0
+99,NA,Jun-20,3,Marshall Is,0
+100,NA,Jul-20,4,Marshall Is,0
+101,NA,Aug-20,5,Marshall Is,0
+102,NA,Sep-20,6,Marshall Is,0
+103,NA,Oct-20,7,Marshall Is,0
+104,NA,Nov-20,8,Marshall Is,0
+105,NA,Dec-20,9,Marshall Is,0
+106,NA,Jan-21,10,Marshall Is,0
+107,NA,Feb-21,11,Marshall Is,0
+108,NA,Mar-21,12,Marshall Is,0
+109,NA,Apr-21,13,Marshall Is,0
+110,NA,May-21,14,Marshall Is,0
+111,NA,Jun-21,15,Marshall Is,0
+112,NA,Jul-21,16,Marshall Is,0
+113,NA,Apr-20,1,Micronesia,0
+114,NA,May-20,2,Micronesia,0
+115,NA,Jun-20,3,Micronesia,0
+116,NA,Jul-20,4,Micronesia,0
+117,NA,Aug-20,5,Micronesia,0
+118,NA,Sep-20,6,Micronesia,0
+119,NA,Oct-20,7,Micronesia,0
+120,NA,Nov-20,8,Micronesia,0
+121,NA,Dec-20,9,Micronesia,0
+122,NA,Jan-21,10,Micronesia,0
+123,NA,Feb-21,11,Micronesia,0
+124,NA,Mar-21,12,Micronesia,0
+125,NA,Apr-21,13,Micronesia,0
+126,NA,May-21,14,Micronesia,0
+127,NA,Jun-21,15,Micronesia,0
+128,NA,Jul-21,16,Micronesia,0
+129,NA,Apr-20,1,Nauru,-92.30769231
+130,NA,May-20,2,Nauru,-100
+131,NA,Jun-20,3,Nauru,-84.61538462
+132,NA,Jul-20,4,Nauru,-92.30769231
+133,NA,Aug-20,5,Nauru,-92.30769231
+134,NA,Sep-20,6,Nauru,-84.61538462
+135,NA,Oct-20,7,Nauru,-84.61538462
+136,NA,Nov-20,8,Nauru,-92.30769231
+137,NA,Dec-20,9,Nauru,-92.30769231
+138,NA,Jan-21,10,Nauru,-84.61538462
+139,NA,Feb-21,11,Nauru,-92.30769231
+140,NA,Mar-21,12,Nauru,-92.30769231
+141,NA,Apr-21,13,Nauru,-92.30769231
+142,NA,May-21,14,Nauru,-92.30769231
+143,NA,Jun-21,15,Nauru,-92.30769231
+144,NA,Jul-21,16,Nauru,-100
+145,NA,Apr-20,1,Palau,0
+146,NA,May-20,2,Palau,0
+147,NA,Jun-20,3,Palau,0
+148,NA,Jul-20,4,Palau,0
+149,NA,Aug-20,5,Palau,0
+150,NA,Sep-20,6,Palau,0
+151,NA,Oct-20,7,Palau,0
+152,NA,Nov-20,8,Palau,0
+153,NA,Dec-20,9,Palau,0
+154,NA,Jan-21,10,Palau,0
+155,NA,Feb-21,11,Palau,0
+156,NA,Mar-21,12,Palau,0
+157,NA,Apr-21,13,Palau,0
+158,NA,May-21,14,Palau,0
+159,NA,Jun-21,15,Palau,0
+160,NA,Jul-21,16,Palau,0
+161,NA,Apr-20,1,Cook Islands,0
+162,NA,May-20,2,Cook Islands,0
+163,NA,Jun-20,3,Cook Islands,0
+164,NA,Jul-20,4,Cook Islands,0
+165,NA,Aug-20,5,Cook Islands,0
+166,NA,Sep-20,6,Cook Islands,0
+167,NA,Oct-20,7,Cook Islands,0
+168,NA,Nov-20,8,Cook Islands,0
+169,NA,Dec-20,9,Cook Islands,0
+170,NA,Jan-21,10,Cook Islands,0
+171,NA,Feb-21,11,Cook Islands,0
+172,NA,Mar-21,12,Cook Islands,0
+173,NA,Apr-21,13,Cook Islands,0
+174,NA,May-21,14,Cook Islands,0
+175,NA,Jun-21,15,Cook Islands,0
+176,NA,Jul-21,16,Cook Islands,0
+177,NA,Apr-20,1,Fiji,-98.46153846
+178,NA,May-20,2,Fiji,-98.46153846
+179,NA,Jun-20,3,Fiji,-98.46153846
+180,NA,Jul-20,4,Fiji,-99.48717949
+181,NA,Aug-20,5,Fiji,-98.97435897
+182,NA,Sep-20,6,Fiji,-98.97435897
+183,NA,Oct-20,7,Fiji,-96.92307692
+184,NA,Nov-20,8,Fiji,-88.20512821
+185,NA,Dec-20,9,Fiji,-97.43589744
+186,NA,Jan-21,10,Fiji,-86.66666667
+187,NA,Feb-21,11,Fiji,-96.41025641
+188,NA,Mar-21,12,Fiji,-88.71794872
+189,NA,Apr-21,13,Fiji,-88.71794872
+190,NA,May-21,14,Fiji,-95.38461538
+191,NA,Jun-21,15,Fiji,-92.82051282
+192,NA,Jul-21,16,Fiji,-97.4358974
+193,NA,Apr-20,1,Samoa,-88.88888889
+194,NA,May-20,2,Samoa,-96.2962963
+195,NA,Jun-20,3,Samoa,-100
+196,NA,Jul-20,4,Samoa,-100
+197,NA,Aug-20,5,Samoa,-100
+198,NA,Sep-20,6,Samoa,-100
+199,NA,Oct-20,7,Samoa,-96.2962963
+200,NA,Nov-20,8,Samoa,-100
+201,NA,Dec-20,9,Samoa,-96.2962963
+202,NA,Jan-21,10,Samoa,-100
+203,NA,Feb-21,11,Samoa,-100
+204,NA,Mar-21,12,Samoa,-100
+205,NA,Apr-21,13,Samoa,22.22222222
+206,NA,May-21,14,Samoa,-25.92592593
+207,NA,Jun-21,15,Samoa,96.2962963
+208,NA,Jul-21,16,Samoa,-14.8148148
+209,NA,Apr-20,1,Tonga,-90.90909091
+210,NA,May-20,2,Tonga,-98.48484848
+211,NA,Jun-20,3,Tonga,-98.48484848
+212,NA,Jul-20,4,Tonga,-98.48484848
+213,NA,Aug-20,5,Tonga,-100
+214,NA,Sep-20,6,Tonga,-100
+215,NA,Oct-20,7,Tonga,-75.75757576
+216,NA,Nov-20,8,Tonga,-78.78787879
+217,NA,Dec-20,9,Tonga,-72.72727273
+218,NA,Jan-21,10,Tonga,-75.75757576
+219,NA,Feb-21,11,Tonga,-54.54545455
+220,NA,Mar-21,12,Tonga,-63.63636364
+221,NA,Apr-21,13,Tonga,-39.39393939
+222,NA,May-21,14,Tonga,-39.39393939
+223,NA,Jun-21,15,Tonga,-46.96969697
+224,NA,Jul-21,16,Tonga,-71.2121212
+225,NA,Apr-20,1,Tuvalu,-100
+226,NA,May-20,2,Tuvalu,-100
+227,NA,Jun-20,3,Tuvalu,-100
+228,NA,Jul-20,4,Tuvalu,-100
+229,NA,Aug-20,5,Tuvalu,-100
+230,NA,Sep-20,6,Tuvalu,-100
+231,NA,Oct-20,7,Tuvalu,-100
+232,NA,Nov-20,8,Tuvalu,-100
+233,NA,Dec-20,9,Tuvalu,-100
+234,NA,Jan-21,10,Tuvalu,-100
+235,NA,Feb-21,11,Tuvalu,-50
+236,NA,Mar-21,12,Tuvalu,-100
+237,NA,Apr-21,13,Tuvalu,-100
+238,NA,May-21,14,Tuvalu,-100
+239,NA,Jun-21,15,Tuvalu,-100
+240,NA,Jul-21,16,Tuvalu,-100
+241,NA,Apr-20,1,United Kingdom,-98.952155
+242,NA,May-20,2,United Kingdom,-98.91261368
+243,NA,Jun-20,3,United Kingdom,-98.41834717
+244,NA,Jul-20,4,United Kingdom,-98.71490708
+245,NA,Aug-20,5,United Kingdom,-98.73467774
+246,NA,Sep-20,6,United Kingdom,-98.31949387
+247,NA,Oct-20,7,United Kingdom,-97.7066034
+248,NA,Nov-20,8,United Kingdom,-97.46935548
+249,NA,Dec-20,9,United Kingdom,-97.74614472
+250,NA,Jan-21,10,United Kingdom,-97.84499802
+251,NA,Feb-21,11,United Kingdom,-98.10201661
+252,NA,Mar-21,12,United Kingdom,-97.94385132
+253,NA,Apr-21,13,United Kingdom,-97.62752076
+254,NA,May-21,14,United Kingdom,-95.13641756
+255,NA,Jun-21,15,United Kingdom,-95.59114274
+256,NA,Jul-21,16,United Kingdom,-96.5599051
+257,NA,Apr-20,1,Ireland,-98.89298893
+258,NA,May-20,2,Ireland,-98.70848708
+259,NA,Jun-20,3,Ireland,-98.33948339
+260,NA,Jul-20,4,Ireland,-98.70848708
+261,NA,Aug-20,5,Ireland,-98.33948339
+262,NA,Sep-20,6,Ireland,-97.04797048
+263,NA,Oct-20,7,Ireland,-97.04797048
+264,NA,Nov-20,8,Ireland,-97.78597786
+265,NA,Dec-20,9,Ireland,-97.60147601
+266,NA,Jan-21,10,Ireland,-96.12546125
+267,NA,Feb-21,11,Ireland,-97.78597786
+268,NA,Mar-21,12,Ireland,-97.60147601
+269,NA,Apr-21,13,Ireland,-97.04797048
+270,NA,May-21,14,Ireland,-95.20295203
+271,NA,Jun-21,15,Ireland,-94.83394834
+272,NA,Jul-21,16,Ireland,-94.8339483
+273,NA,Apr-20,1,Austria,-98.4
+274,NA,May-20,2,Austria,-100
+275,NA,Jun-20,3,Austria,-99.2
+276,NA,Jul-20,4,Austria,-98.4
+277,NA,Aug-20,5,Austria,-99.2
+278,NA,Sep-20,6,Austria,-98.4
+279,NA,Oct-20,7,Austria,-97.6
+280,NA,Nov-20,8,Austria,-98.4
+281,NA,Dec-20,9,Austria,-98.4
+282,NA,Jan-21,10,Austria,-95.2
+283,NA,Feb-21,11,Austria,-98.4
+284,NA,Mar-21,12,Austria,-97.6
+285,NA,Apr-21,13,Austria,-97.6
+286,NA,May-21,14,Austria,-96
+287,NA,Jun-21,15,Austria,-97.6
+288,NA,Jul-21,16,Austria,-97.6
+289,NA,Apr-20,1,Belgium,-99.19354839
+290,NA,May-20,2,Belgium,-99.19354839
+291,NA,Jun-20,3,Belgium,-99.19354839
+292,NA,Jul-20,4,Belgium,-99.19354839
+293,NA,Aug-20,5,Belgium,-98.38709677
+294,NA,Sep-20,6,Belgium,-98.38709677
+295,NA,Oct-20,7,Belgium,-97.58064516
+296,NA,Nov-20,8,Belgium,-97.58064516
+297,NA,Dec-20,9,Belgium,-97.58064516
+298,NA,Jan-21,10,Belgium,-96.77419355
+299,NA,Feb-21,11,Belgium,-98.38709677
+300,NA,Mar-21,12,Belgium,-98.38709677
+301,NA,Apr-21,13,Belgium,-96.77419355
+302,NA,May-21,14,Belgium,-95.96774194
+303,NA,Jun-21,15,Belgium,-96.77419355
+304,NA,Jul-21,16,Belgium,-96.7741935
+305,NA,Apr-20,1,France,-99.15809167
+306,NA,May-20,2,France,-99.25163704
+307,NA,Jun-20,3,France,-98.97100094
+308,NA,Jul-20,4,France,-98.97100094
+309,NA,Aug-20,5,France,-98.59681946
+310,NA,Sep-20,6,France,-98.59681946
+311,NA,Oct-20,7,France,-97.38072965
+312,NA,Nov-20,8,France,-97.66136576
+313,NA,Dec-20,9,France,-97.8484565
+314,NA,Jan-21,10,France,-97.10009355
+315,NA,Feb-21,11,France,-97.94200187
+316,NA,Mar-21,12,France,-97.94200187
+317,NA,Apr-21,13,France,-97.94200187
+318,NA,May-21,14,France,-96.91300281
+319,NA,Jun-21,15,France,-96.16463985
+320,NA,Jul-21,16,France,-97.0065482
+321,NA,Apr-20,1,Germany,-98.4206748
+322,NA,May-20,2,Germany,-99.56927495
+323,NA,Jun-20,3,Germany,-99.06676238
+324,NA,Jul-20,4,Germany,-99.28212491
+325,NA,Aug-20,5,Germany,-99.28212491
+326,NA,Sep-20,6,Germany,-99.06676238
+327,NA,Oct-20,7,Germany,-98.56424982
+328,NA,Nov-20,8,Germany,-98.4206748
+329,NA,Dec-20,9,Germany,-98.77961235
+330,NA,Jan-21,10,Germany,-98.49246231
+331,NA,Feb-21,11,Germany,-98.77961235
+332,NA,Mar-21,12,Germany,-98.34888729
+333,NA,Apr-21,13,Germany,-98.49246231
+334,NA,May-21,14,Germany,-97.77458722
+335,NA,Jun-21,15,Germany,-97.77458722
+336,NA,Jul-21,16,Germany,-98.0617373
+337,NA,Apr-20,1,Liechtenstein,-100
+338,NA,May-20,2,Liechtenstein,-100
+339,NA,Jun-20,3,Liechtenstein,-100
+340,NA,Jul-20,4,Liechtenstein,-100
+341,NA,Aug-20,5,Liechtenstein,-100
+342,NA,Sep-20,6,Liechtenstein,-100
+343,NA,Oct-20,7,Liechtenstein,-100
+344,NA,Nov-20,8,Liechtenstein,-100
+345,NA,Dec-20,9,Liechtenstein,-100
+346,NA,Jan-21,10,Liechtenstein,-100
+347,NA,Feb-21,11,Liechtenstein,-100
+348,NA,Mar-21,12,Liechtenstein,-100
+349,NA,Apr-21,13,Liechtenstein,-100
+350,NA,May-21,14,Liechtenstein,-100
+351,NA,Jun-21,15,Liechtenstein,-100
+352,NA,Jul-21,16,Liechtenstein,-100
+353,NA,Apr-20,1,Luxembourg,-100
+354,NA,May-20,2,Luxembourg,-100
+355,NA,Jun-20,3,Luxembourg,-100
+356,NA,Jul-20,4,Luxembourg,-100
+357,NA,Aug-20,5,Luxembourg,-100
+358,NA,Sep-20,6,Luxembourg,-100
+359,NA,Oct-20,7,Luxembourg,-100
+360,NA,Nov-20,8,Luxembourg,-100
+361,NA,Dec-20,9,Luxembourg,-100
+362,NA,Jan-21,10,Luxembourg,-100
+363,NA,Feb-21,11,Luxembourg,-100
+364,NA,Mar-21,12,Luxembourg,-100
+365,NA,Apr-21,13,Luxembourg,-100
+366,NA,May-21,14,Luxembourg,-100
+367,NA,Jun-21,15,Luxembourg,-100
+368,NA,Jul-21,16,Luxembourg,-100
+369,NA,Apr-20,1,Monaco,-100
+370,NA,May-20,2,Monaco,-100
+371,NA,Jun-20,3,Monaco,-100
+372,NA,Jul-20,4,Monaco,-100
+373,NA,Aug-20,5,Monaco,-100
+374,NA,Sep-20,6,Monaco,-100
+375,NA,Oct-20,7,Monaco,-100
+376,NA,Nov-20,8,Monaco,-100
+377,NA,Dec-20,9,Monaco,-100
+378,NA,Jan-21,10,Monaco,-100
+379,NA,Feb-21,11,Monaco,-100
+380,NA,Mar-21,12,Monaco,-100
+381,NA,Apr-21,13,Monaco,-100
+382,NA,May-21,14,Monaco,-100
+383,NA,Jun-21,15,Monaco,-100
+384,NA,Jul-21,16,Monaco,-100
+385,NA,Apr-20,1,Netherlands,-99.3166287
+386,NA,May-20,2,Netherlands,-98.86104784
+387,NA,Jun-20,3,Netherlands,-98.6332574
+388,NA,Jul-20,4,Netherlands,-98.40546697
+389,NA,Aug-20,5,Netherlands,-98.86104784
+390,NA,Sep-20,6,Netherlands,-97.72209567
+391,NA,Oct-20,7,Netherlands,-97.72209567
+392,NA,Nov-20,8,Netherlands,-97.72209567
+393,NA,Dec-20,9,Netherlands,-97.03872437
+394,NA,Jan-21,10,Netherlands,-96.81093394
+395,NA,Feb-21,11,Netherlands,-97.26651481
+396,NA,Mar-21,12,Netherlands,-97.9498861
+397,NA,Apr-21,13,Netherlands,-96.35535308
+398,NA,May-21,14,Netherlands,-94.30523918
+399,NA,Jun-21,15,Netherlands,-96.12756264
+400,NA,Jul-21,16,Netherlands,-96.5831435
+401,NA,Apr-20,1,Switzerland,-99.20318725
+402,NA,May-20,2,Switzerland,-99.20318725
+403,NA,Jun-20,3,Switzerland,-99.60159363
+404,NA,Jul-20,4,Switzerland,-99.20318725
+405,NA,Aug-20,5,Switzerland,-99.60159363
+406,NA,Sep-20,6,Switzerland,-99.20318725
+407,NA,Oct-20,7,Switzerland,-98.80478088
+408,NA,Nov-20,8,Switzerland,-99.20318725
+409,NA,Dec-20,9,Switzerland,-98.80478088
+410,NA,Jan-21,10,Switzerland,-98.4063745
+411,NA,Feb-21,11,Switzerland,-98.80478088
+412,NA,Mar-21,12,Switzerland,-98.80478088
+413,NA,Apr-21,13,Switzerland,-99.20318725
+414,NA,May-21,14,Switzerland,-98.4063745
+415,NA,Jun-21,15,Switzerland,-98.4063745
+416,NA,Jul-21,16,Switzerland,-98.8047809
+417,NA,Apr-20,1,Denmark,-98.7654321
+418,NA,May-20,2,Denmark,-98.14814815
+419,NA,Jun-20,3,Denmark,-98.7654321
+420,NA,Jul-20,4,Denmark,-99.38271605
+421,NA,Aug-20,5,Denmark,-98.7654321
+422,NA,Sep-20,6,Denmark,-98.14814815
+423,NA,Oct-20,7,Denmark,-97.5308642
+424,NA,Nov-20,8,Denmark,-97.5308642
+425,NA,Dec-20,9,Denmark,-97.5308642
+426,NA,Jan-21,10,Denmark,-97.5308642
+427,NA,Feb-21,11,Denmark,-98.14814815
+428,NA,Mar-21,12,Denmark,-98.14814815
+429,NA,Apr-21,13,Denmark,-98.14814815
+430,NA,May-21,14,Denmark,-96.91358025
+431,NA,Jun-21,15,Denmark,-96.91358025
+432,NA,Jul-21,16,Denmark,-98.1481481
+433,NA,Apr-20,1,Faroe Islands,0
+434,NA,May-20,2,Faroe Islands,0
+435,NA,Jun-20,3,Faroe Islands,0
+436,NA,Jul-20,4,Faroe Islands,0
+437,NA,Aug-20,5,Faroe Islands,0
+438,NA,Sep-20,6,Faroe Islands,0
+439,NA,Oct-20,7,Faroe Islands,0
+440,NA,Nov-20,8,Faroe Islands,0
+441,NA,Dec-20,9,Faroe Islands,0
+442,NA,Jan-21,10,Faroe Islands,0
+443,NA,Feb-21,11,Faroe Islands,0
+444,NA,Mar-21,12,Faroe Islands,0
+445,NA,Apr-21,13,Faroe Islands,0
+446,NA,May-21,14,Faroe Islands,0
+447,NA,Jun-21,15,Faroe Islands,0
+448,NA,Jul-21,16,Faroe Islands,0
+449,NA,Apr-20,1,Finland,-98.7654321
+450,NA,May-20,2,Finland,-98.7654321
+451,NA,Jun-20,3,Finland,-98.7654321
+452,NA,Jul-20,4,Finland,-97.5308642
+453,NA,Aug-20,5,Finland,-97.5308642
+454,NA,Sep-20,6,Finland,-98.7654321
+455,NA,Oct-20,7,Finland,-97.5308642
+456,NA,Nov-20,8,Finland,-98.7654321
+457,NA,Dec-20,9,Finland,-96.2962963
+458,NA,Jan-21,10,Finland,-97.5308642
+459,NA,Feb-21,11,Finland,-98.7654321
+460,NA,Mar-21,12,Finland,-97.5308642
+461,NA,Apr-21,13,Finland,-97.5308642
+462,NA,May-21,14,Finland,-95.0617284
+463,NA,Jun-21,15,Finland,-96.2962963
+464,NA,Jul-21,16,Finland,-96.2962963
+465,NA,Apr-20,1,Iceland,-100
+466,NA,May-20,2,Iceland,-100
+467,NA,Jun-20,3,Iceland,-100
+468,NA,Jul-20,4,Iceland,-100
+469,NA,Aug-20,5,Iceland,-100
+470,NA,Sep-20,6,Iceland,-100
+471,NA,Oct-20,7,Iceland,-83.33333333
+472,NA,Nov-20,8,Iceland,-100
+473,NA,Dec-20,9,Iceland,-100
+474,NA,Jan-21,10,Iceland,-100
+475,NA,Feb-21,11,Iceland,-100
+476,NA,Mar-21,12,Iceland,-100
+477,NA,Apr-21,13,Iceland,-100
+478,NA,May-21,14,Iceland,-100
+479,NA,Jun-21,15,Iceland,-100
+480,NA,Jul-21,16,Iceland,-100
+481,NA,Apr-20,1,Norway,-98.24561404
+482,NA,May-20,2,Norway,-98.24561404
+483,NA,Jun-20,3,Norway,-98.24561404
+484,NA,Jul-20,4,Norway,-98.24561404
+485,NA,Aug-20,5,Norway,-99.12280702
+486,NA,Sep-20,6,Norway,-98.24561404
+487,NA,Oct-20,7,Norway,-97.36842105
+488,NA,Nov-20,8,Norway,-97.36842105
+489,NA,Dec-20,9,Norway,-96.49122807
+490,NA,Jan-21,10,Norway,-97.36842105
+491,NA,Feb-21,11,Norway,-98.24561404
+492,NA,Mar-21,12,Norway,-98.24561404
+493,NA,Apr-21,13,Norway,-98.24561404
+494,NA,May-21,14,Norway,-95.61403509
+495,NA,Jun-21,15,Norway,-96.49122807
+496,NA,Jul-21,16,Norway,-97.3684211
+497,NA,Apr-20,1,Sweden,-99.49748744
+498,NA,May-20,2,Sweden,-98.99497487
+499,NA,Jun-20,3,Sweden,-98.99497487
+500,NA,Jul-20,4,Sweden,-98.49246231
+501,NA,Aug-20,5,Sweden,-98.49246231
+502,NA,Sep-20,6,Sweden,-98.49246231
+503,NA,Oct-20,7,Sweden,-97.98994975
+504,NA,Nov-20,8,Sweden,-97.48743719
+505,NA,Dec-20,9,Sweden,-97.48743719
+506,NA,Jan-21,10,Sweden,-96.98492462
+507,NA,Feb-21,11,Sweden,-98.49246231
+508,NA,Mar-21,12,Sweden,-97.98994975
+509,NA,Apr-21,13,Sweden,-97.98994975
+510,NA,May-21,14,Sweden,-96.48241206
+511,NA,Jun-21,15,Sweden,-96.48241206
+512,NA,Jul-21,16,Sweden,-97.9899497
+513,NA,Apr-20,1,Andorra,0
+514,NA,May-20,2,Andorra,0
+515,NA,Jun-20,3,Andorra,0
+516,NA,Jul-20,4,Andorra,0
+517,NA,Aug-20,5,Andorra,0
+518,NA,Sep-20,6,Andorra,0
+519,NA,Oct-20,7,Andorra,0
+520,NA,Nov-20,8,Andorra,0
+521,NA,Dec-20,9,Andorra,0
+522,NA,Jan-21,10,Andorra,0
+523,NA,Feb-21,11,Andorra,0
+524,NA,Mar-21,12,Andorra,0
+525,NA,Apr-21,13,Andorra,0
+526,NA,May-21,14,Andorra,0
+527,NA,Jun-21,15,Andorra,0
+528,NA,Jul-21,16,Andorra,0
+529,NA,Apr-20,1,Italy,-98.99749373
+530,NA,May-20,2,Italy,-99.2481203
+531,NA,Jun-20,3,Italy,-97.7443609
+532,NA,Jul-20,4,Italy,-98.74686717
+533,NA,Aug-20,5,Italy,-98.99749373
+534,NA,Sep-20,6,Italy,-98.4962406
+535,NA,Oct-20,7,Italy,-96.74185464
+536,NA,Nov-20,8,Italy,-96.9924812
+537,NA,Dec-20,9,Italy,-97.7443609
+538,NA,Jan-21,10,Italy,-95.23809524
+539,NA,Feb-21,11,Italy,-97.49373434
+540,NA,Mar-21,12,Italy,-97.7443609
+541,NA,Apr-21,13,Italy,-96.9924812
+542,NA,May-21,14,Italy,-95.23809524
+543,NA,Jun-21,15,Italy,-94.98746867
+544,NA,Jul-21,16,Italy,-96.4912281
+545,NA,Apr-20,1,Malta,-100
+546,NA,May-20,2,Malta,-100
+547,NA,Jun-20,3,Malta,-100
+548,NA,Jul-20,4,Malta,-100
+549,NA,Aug-20,5,Malta,-100
+550,NA,Sep-20,6,Malta,-100
+551,NA,Oct-20,7,Malta,-100
+552,NA,Nov-20,8,Malta,-100
+553,NA,Dec-20,9,Malta,-100
+554,NA,Jan-21,10,Malta,-100
+555,NA,Feb-21,11,Malta,-100
+556,NA,Mar-21,12,Malta,-100
+557,NA,Apr-21,13,Malta,-100
+558,NA,May-21,14,Malta,-92.85714286
+559,NA,Jun-21,15,Malta,-92.85714286
+560,NA,Jul-21,16,Malta,-92.8571429
+561,NA,Apr-20,1,Portugal,-98.61111111
+562,NA,May-20,2,Portugal,-98.61111111
+563,NA,Jun-20,3,Portugal,-94.44444444
+564,NA,Jul-20,4,Portugal,-97.22222222
+565,NA,Aug-20,5,Portugal,-98.61111111
+566,NA,Sep-20,6,Portugal,-97.22222222
+567,NA,Oct-20,7,Portugal,-95.83333333
+568,NA,Nov-20,8,Portugal,-95.83333333
+569,NA,Dec-20,9,Portugal,-98.61111111
+570,NA,Jan-21,10,Portugal,-94.44444444
+571,NA,Feb-21,11,Portugal,-94.44444444
+572,NA,Mar-21,12,Portugal,-95.83333333
+573,NA,Apr-21,13,Portugal,-94.44444444
+574,NA,May-21,14,Portugal,-93.05555556
+575,NA,Jun-21,15,Portugal,-93.05555556
+576,NA,Jul-21,16,Portugal,-94.4444444
+577,NA,Apr-20,1,San Marino,0
+578,NA,May-20,2,San Marino,0
+579,NA,Jun-20,3,San Marino,0
+580,NA,Jul-20,4,San Marino,0
+581,NA,Aug-20,5,San Marino,0
+582,NA,Sep-20,6,San Marino,0
+583,NA,Oct-20,7,San Marino,0
+584,NA,Nov-20,8,San Marino,0
+585,NA,Dec-20,9,San Marino,0
+586,NA,Jan-21,10,San Marino,0
+587,NA,Feb-21,11,San Marino,0
+588,NA,Mar-21,12,San Marino,0
+589,NA,Apr-21,13,San Marino,0
+590,NA,May-21,14,San Marino,0
+591,NA,Jun-21,15,San Marino,0
+592,NA,Jul-21,16,San Marino,0
+593,NA,Apr-20,1,Spain,-99.59839357
+594,NA,May-20,2,Spain,-98.79518072
+595,NA,Jun-20,3,Spain,-97.59036145
+596,NA,Jul-20,4,Spain,-98.3935743
+597,NA,Aug-20,5,Spain,-98.79518072
+598,NA,Sep-20,6,Spain,-97.99196787
+599,NA,Oct-20,7,Spain,-96.78714859
+600,NA,Nov-20,8,Spain,-97.99196787
+601,NA,Dec-20,9,Spain,-96.38554217
+602,NA,Jan-21,10,Spain,-94.77911647
+603,NA,Feb-21,11,Spain,-97.99196787
+604,NA,Mar-21,12,Spain,-97.59036145
+605,NA,Apr-21,13,Spain,-97.18875502
+606,NA,May-21,14,Spain,-95.98393574
+607,NA,Jun-21,15,Spain,-95.58232932
+608,NA,Jul-21,16,Spain,-97.188755
+609,NA,Apr-20,1,Albania,-100
+610,NA,May-20,2,Albania,-100
+611,NA,Jun-20,3,Albania,-75
+612,NA,Jul-20,4,Albania,-100
+613,NA,Aug-20,5,Albania,-100
+614,NA,Sep-20,6,Albania,-100
+615,NA,Oct-20,7,Albania,-100
+616,NA,Nov-20,8,Albania,-100
+617,NA,Dec-20,9,Albania,-100
+618,NA,Jan-21,10,Albania,-100
+619,NA,Feb-21,11,Albania,-100
+620,NA,Mar-21,12,Albania,-75
+621,NA,Apr-21,13,Albania,-75
+622,NA,May-21,14,Albania,-75
+623,NA,Jun-21,15,Albania,-100
+624,NA,Jul-21,16,Albania,-100
+625,NA,Apr-20,1,Bosnia/Herzegov,-100
+626,NA,May-20,2,Bosnia/Herzegov,-100
+627,NA,Jun-20,3,Bosnia/Herzegov,-100
+628,NA,Jul-20,4,Bosnia/Herzegov,-100
+629,NA,Aug-20,5,Bosnia/Herzegov,-100
+630,NA,Sep-20,6,Bosnia/Herzegov,-100
+631,NA,Oct-20,7,Bosnia/Herzegov,-100
+632,NA,Nov-20,8,Bosnia/Herzegov,-100
+633,NA,Dec-20,9,Bosnia/Herzegov,-83.33333333
+634,NA,Jan-21,10,Bosnia/Herzegov,-83.33333333
+635,NA,Feb-21,11,Bosnia/Herzegov,-83.33333333
+636,NA,Mar-21,12,Bosnia/Herzegov,-83.33333333
+637,NA,Apr-21,13,Bosnia/Herzegov,-83.33333333
+638,NA,May-21,14,Bosnia/Herzegov,-83.33333333
+639,NA,Jun-21,15,Bosnia/Herzegov,-100
+640,NA,Jul-21,16,Bosnia/Herzegov,-83.3333333
+641,NA,Apr-20,1,Bulgaria,-100
+642,NA,May-20,2,Bulgaria,-93.33333333
+643,NA,Jun-20,3,Bulgaria,-86.66666667
+644,NA,Jul-20,4,Bulgaria,-93.33333333
+645,NA,Aug-20,5,Bulgaria,-93.33333333
+646,NA,Sep-20,6,Bulgaria,-100
+647,NA,Oct-20,7,Bulgaria,-93.33333333
+648,NA,Nov-20,8,Bulgaria,-93.33333333
+649,NA,Dec-20,9,Bulgaria,-93.33333333
+650,NA,Jan-21,10,Bulgaria,-86.66666667
+651,NA,Feb-21,11,Bulgaria,-100
+652,NA,Mar-21,12,Bulgaria,-86.66666667
+653,NA,Apr-21,13,Bulgaria,-93.33333333
+654,NA,May-21,14,Bulgaria,-86.66666667
+655,NA,Jun-21,15,Bulgaria,-93.33333333
+656,NA,Jul-21,16,Bulgaria,-93.3333333
+657,NA,Apr-20,1,Croatia,-95.23809524
+658,NA,May-20,2,Croatia,-85.71428571
+659,NA,Jun-20,3,Croatia,-80.95238095
+660,NA,Jul-20,4,Croatia,-90.47619048
+661,NA,Aug-20,5,Croatia,-90.47619048
+662,NA,Sep-20,6,Croatia,-95.23809524
+663,NA,Oct-20,7,Croatia,-90.47619048
+664,NA,Nov-20,8,Croatia,-90.47619048
+665,NA,Dec-20,9,Croatia,-90.47619048
+666,NA,Jan-21,10,Croatia,-80.95238095
+667,NA,Feb-21,11,Croatia,-85.71428571
+668,NA,Mar-21,12,Croatia,-90.47619048
+669,NA,Apr-21,13,Croatia,-85.71428571
+670,NA,May-21,14,Croatia,-85.71428571
+671,NA,Jun-21,15,Croatia,-85.71428571
+672,NA,Jul-21,16,Croatia,-90.4761905
+673,NA,Apr-20,1,Cyprus,-100
+674,NA,May-20,2,Cyprus,-100
+675,NA,Jun-20,3,Cyprus,-100
+676,NA,Jul-20,4,Cyprus,-100
+677,NA,Aug-20,5,Cyprus,-100
+678,NA,Sep-20,6,Cyprus,-100
+679,NA,Oct-20,7,Cyprus,-85.71428571
+680,NA,Nov-20,8,Cyprus,-100
+681,NA,Dec-20,9,Cyprus,-100
+682,NA,Jan-21,10,Cyprus,-100
+683,NA,Feb-21,11,Cyprus,-100
+684,NA,Mar-21,12,Cyprus,-100
+685,NA,Apr-21,13,Cyprus,-100
+686,NA,May-21,14,Cyprus,-100
+687,NA,Jun-21,15,Cyprus,-100
+688,NA,Jul-21,16,Cyprus,-100
+689,NA,Apr-20,1,North Macedonia,-91.66666667
+690,NA,May-20,2,North Macedonia,-100
+691,NA,Jun-20,3,North Macedonia,-100
+692,NA,Jul-20,4,North Macedonia,-100
+693,NA,Aug-20,5,North Macedonia,-91.66666667
+694,NA,Sep-20,6,North Macedonia,-100
+695,NA,Oct-20,7,North Macedonia,-100
+696,NA,Nov-20,8,North Macedonia,-91.66666667
+697,NA,Dec-20,9,North Macedonia,-91.66666667
+698,NA,Jan-21,10,North Macedonia,-91.66666667
+699,NA,Feb-21,11,North Macedonia,-91.66666667
+700,NA,Mar-21,12,North Macedonia,-91.66666667
+701,NA,Apr-21,13,North Macedonia,-91.66666667
+702,NA,May-21,14,North Macedonia,-91.66666667
+703,NA,Jun-21,15,North Macedonia,-91.66666667
+704,NA,Jul-21,16,North Macedonia,-91.6666667
+705,NA,Apr-20,1,Greece,-97.5
+706,NA,May-20,2,Greece,-97.5
+707,NA,Jun-20,3,Greece,-95
+708,NA,Jul-20,4,Greece,-90
+709,NA,Aug-20,5,Greece,-95
+710,NA,Sep-20,6,Greece,-95
+711,NA,Oct-20,7,Greece,-95
+712,NA,Nov-20,8,Greece,-92.5
+713,NA,Dec-20,9,Greece,-92.5
+714,NA,Jan-21,10,Greece,-90
+715,NA,Feb-21,11,Greece,-95
+716,NA,Mar-21,12,Greece,-95
+717,NA,Apr-21,13,Greece,-95
+718,NA,May-21,14,Greece,-90
+719,NA,Jun-21,15,Greece,-95
+720,NA,Jul-21,16,Greece,-95
+721,NA,Apr-20,1,Moldova,-100
+722,NA,May-20,2,Moldova,-100
+723,NA,Jun-20,3,Moldova,-100
+724,NA,Jul-20,4,Moldova,-100
+725,NA,Aug-20,5,Moldova,-100
+726,NA,Sep-20,6,Moldova,-100
+727,NA,Oct-20,7,Moldova,-100
+728,NA,Nov-20,8,Moldova,-100
+729,NA,Dec-20,9,Moldova,-100
+730,NA,Jan-21,10,Moldova,-100
+731,NA,Feb-21,11,Moldova,-100
+732,NA,Mar-21,12,Moldova,-100
+733,NA,Apr-21,13,Moldova,-100
+734,NA,May-21,14,Moldova,-100
+735,NA,Jun-21,15,Moldova,-100
+736,NA,Jul-21,16,Moldova,-100
+737,NA,Apr-20,1,Romania,-96.77419355
+738,NA,May-20,2,Romania,-93.5483871
+739,NA,Jun-20,3,Romania,-90.32258065
+740,NA,Jul-20,4,Romania,-93.5483871
+741,NA,Aug-20,5,Romania,-93.5483871
+742,NA,Sep-20,6,Romania,-96.77419355
+743,NA,Oct-20,7,Romania,-93.5483871
+744,NA,Nov-20,8,Romania,-90.32258065
+745,NA,Dec-20,9,Romania,-96.77419355
+746,NA,Jan-21,10,Romania,-87.09677419
+747,NA,Feb-21,11,Romania,-93.5483871
+748,NA,Mar-21,12,Romania,-83.87096774
+749,NA,Apr-21,13,Romania,-93.5483871
+750,NA,May-21,14,Romania,-87.09677419
+751,NA,Jun-21,15,Romania,-90.32258065
+752,NA,Jul-21,16,Romania,-96.7741935
+753,NA,Apr-20,1,Slovenia,-92.30769231
+754,NA,May-20,2,Slovenia,-100
+755,NA,Jun-20,3,Slovenia,-100
+756,NA,Jul-20,4,Slovenia,-100
+757,NA,Aug-20,5,Slovenia,-100
+758,NA,Sep-20,6,Slovenia,-100
+759,NA,Oct-20,7,Slovenia,-100
+760,NA,Nov-20,8,Slovenia,-100
+761,NA,Dec-20,9,Slovenia,-92.30769231
+762,NA,Jan-21,10,Slovenia,-92.30769231
+763,NA,Feb-21,11,Slovenia,-92.30769231
+764,NA,Mar-21,12,Slovenia,-92.30769231
+765,NA,Apr-21,13,Slovenia,-100
+766,NA,May-21,14,Slovenia,-92.30769231
+767,NA,Jun-21,15,Slovenia,-84.61538462
+768,NA,Jul-21,16,Slovenia,-100
+769,NA,Apr-20,1,Montenegro,-100
+770,NA,May-20,2,Montenegro,-100
+771,NA,Jun-20,3,Montenegro,-100
+772,NA,Jul-20,4,Montenegro,-100
+773,NA,Aug-20,5,Montenegro,-100
+774,NA,Sep-20,6,Montenegro,-100
+775,NA,Oct-20,7,Montenegro,-100
+776,NA,Nov-20,8,Montenegro,-100
+777,NA,Dec-20,9,Montenegro,-100
+778,NA,Jan-21,10,Montenegro,-100
+779,NA,Feb-21,11,Montenegro,-100
+780,NA,Mar-21,12,Montenegro,0
+781,NA,Apr-21,13,Montenegro,-100
+782,NA,May-21,14,Montenegro,-100
+783,NA,Jun-21,15,Montenegro,-100
+784,NA,Jul-21,16,Montenegro,0
+785,NA,Apr-20,1,Serbia,-100
+786,NA,May-20,2,Serbia,-100
+787,NA,Jun-20,3,Serbia,-93.75
+788,NA,Jul-20,4,Serbia,-93.75
+789,NA,Aug-20,5,Serbia,-93.75
+790,NA,Sep-20,6,Serbia,-93.75
+791,NA,Oct-20,7,Serbia,-87.5
+792,NA,Nov-20,8,Serbia,-93.75
+793,NA,Dec-20,9,Serbia,-93.75
+794,NA,Jan-21,10,Serbia,-81.25
+795,NA,Feb-21,11,Serbia,-93.75
+796,NA,Mar-21,12,Serbia,-93.75
+797,NA,Apr-21,13,Serbia,-87.5
+798,NA,May-21,14,Serbia,-93.75
+799,NA,Jun-21,15,Serbia,-93.75
+800,NA,Jul-21,16,Serbia,-93.75
+801,NA,Apr-20,1,Kosovo,-100
+802,NA,May-20,2,Kosovo,-100
+803,NA,Jun-20,3,Kosovo,-100
+804,NA,Jul-20,4,Kosovo,-100
+805,NA,Aug-20,5,Kosovo,-100
+806,NA,Sep-20,6,Kosovo,-100
+807,NA,Oct-20,7,Kosovo,-100
+808,NA,Nov-20,8,Kosovo,-100
+809,NA,Dec-20,9,Kosovo,-100
+810,NA,Jan-21,10,Kosovo,-100
+811,NA,Feb-21,11,Kosovo,-100
+812,NA,Mar-21,12,Kosovo,-100
+813,NA,Apr-21,13,Kosovo,-100
+814,NA,May-21,14,Kosovo,-100
+815,NA,Jun-21,15,Kosovo,-100
+816,NA,Jul-21,16,Kosovo,-100
+817,NA,Apr-20,1,Belarus,-100
+818,NA,May-20,2,Belarus,-100
+819,NA,Jun-20,3,Belarus,-100
+820,NA,Jul-20,4,Belarus,-100
+821,NA,Aug-20,5,Belarus,-100
+822,NA,Sep-20,6,Belarus,-100
+823,NA,Oct-20,7,Belarus,-100
+824,NA,Nov-20,8,Belarus,-85.71428571
+825,NA,Dec-20,9,Belarus,-85.71428571
+826,NA,Jan-21,10,Belarus,-71.42857143
+827,NA,Feb-21,11,Belarus,-100
+828,NA,Mar-21,12,Belarus,-100
+829,NA,Apr-21,13,Belarus,-100
+830,NA,May-21,14,Belarus,-85.71428571
+831,NA,Jun-21,15,Belarus,-85.71428571
+832,NA,Jul-21,16,Belarus,-100
+833,NA,Apr-20,1,Czech Rep.,-98.52941176
+834,NA,May-20,2,Czech Rep.,-100
+835,NA,Jun-20,3,Czech Rep.,-98.52941176
+836,NA,Jul-20,4,Czech Rep.,-98.52941176
+837,NA,Aug-20,5,Czech Rep.,-97.05882353
+838,NA,Sep-20,6,Czech Rep.,-98.52941176
+839,NA,Oct-20,7,Czech Rep.,-97.05882353
+840,NA,Nov-20,8,Czech Rep.,-97.05882353
+841,NA,Dec-20,9,Czech Rep.,-97.05882353
+842,NA,Jan-21,10,Czech Rep.,-92.64705882
+843,NA,Feb-21,11,Czech Rep.,-97.05882353
+844,NA,Mar-21,12,Czech Rep.,-100
+845,NA,Apr-21,13,Czech Rep.,-97.05882353
+846,NA,May-21,14,Czech Rep.,-92.64705882
+847,NA,Jun-21,15,Czech Rep.,-94.11764706
+848,NA,Jul-21,16,Czech Rep.,-97.0588235
+849,NA,Apr-20,1,Estonia,-96.2962963
+850,NA,May-20,2,Estonia,-100
+851,NA,Jun-20,3,Estonia,-100
+852,NA,Jul-20,4,Estonia,-96.2962963
+853,NA,Aug-20,5,Estonia,-96.2962963
+854,NA,Sep-20,6,Estonia,-96.2962963
+855,NA,Oct-20,7,Estonia,-96.2962963
+856,NA,Nov-20,8,Estonia,-96.2962963
+857,NA,Dec-20,9,Estonia,-100
+858,NA,Jan-21,10,Estonia,-96.2962963
+859,NA,Feb-21,11,Estonia,-96.2962963
+860,NA,Mar-21,12,Estonia,-96.2962963
+861,NA,Apr-21,13,Estonia,-96.2962963
+862,NA,May-21,14,Estonia,-100
+863,NA,Jun-21,15,Estonia,-96.2962963
+864,NA,Jul-21,16,Estonia,-96.2962963
+865,NA,Apr-20,1,Hungary,-97.87234043
+866,NA,May-20,2,Hungary,-100
+867,NA,Jun-20,3,Hungary,-97.87234043
+868,NA,Jul-20,4,Hungary,-97.87234043
+869,NA,Aug-20,5,Hungary,-97.87234043
+870,NA,Sep-20,6,Hungary,-97.87234043
+871,NA,Oct-20,7,Hungary,-97.87234043
+872,NA,Nov-20,8,Hungary,-97.87234043
+873,NA,Dec-20,9,Hungary,-97.87234043
+874,NA,Jan-21,10,Hungary,-95.74468085
+875,NA,Feb-21,11,Hungary,-100
+876,NA,Mar-21,12,Hungary,-97.87234043
+877,NA,Apr-21,13,Hungary,-97.87234043
+878,NA,May-21,14,Hungary,-95.74468085
+879,NA,Jun-21,15,Hungary,-95.74468085
+880,NA,Jul-21,16,Hungary,-95.7446809
+881,NA,Apr-20,1,Latvia,-100
+882,NA,May-20,2,Latvia,-100
+883,NA,Jun-20,3,Latvia,-83.33333333
+884,NA,Jul-20,4,Latvia,-100
+885,NA,Aug-20,5,Latvia,-91.66666667
+886,NA,Sep-20,6,Latvia,-91.66666667
+887,NA,Oct-20,7,Latvia,-91.66666667
+888,NA,Nov-20,8,Latvia,-100
+889,NA,Dec-20,9,Latvia,-91.66666667
+890,NA,Jan-21,10,Latvia,-83.33333333
+891,NA,Feb-21,11,Latvia,-100
+892,NA,Mar-21,12,Latvia,-100
+893,NA,Apr-21,13,Latvia,-91.66666667
+894,NA,May-21,14,Latvia,-91.66666667
+895,NA,Jun-21,15,Latvia,-83.33333333
+896,NA,Jul-21,16,Latvia,-91.6666667
+897,NA,Apr-20,1,Lithuania,-100
+898,NA,May-20,2,Lithuania,-100
+899,NA,Jun-20,3,Lithuania,-96.15384615
+900,NA,Jul-20,4,Lithuania,-96.15384615
+901,NA,Aug-20,5,Lithuania,-100
+902,NA,Sep-20,6,Lithuania,-100
+903,NA,Oct-20,7,Lithuania,-96.15384615
+904,NA,Nov-20,8,Lithuania,-96.15384615
+905,NA,Dec-20,9,Lithuania,-92.30769231
+906,NA,Jan-21,10,Lithuania,-96.15384615
+907,NA,Feb-21,11,Lithuania,-96.15384615
+908,NA,Mar-21,12,Lithuania,-96.15384615
+909,NA,Apr-21,13,Lithuania,-96.15384615
+910,NA,May-21,14,Lithuania,-96.15384615
+911,NA,Jun-21,15,Lithuania,-96.15384615
+912,NA,Jul-21,16,Lithuania,-96.1538462
+913,NA,Apr-20,1,Poland,-98.57142857
+914,NA,May-20,2,Poland,-97.85714286
+915,NA,Jun-20,3,Poland,-95.71428571
+916,NA,Jul-20,4,Poland,-97.85714286
+917,NA,Aug-20,5,Poland,-97.85714286
+918,NA,Sep-20,6,Poland,-99.28571429
+919,NA,Oct-20,7,Poland,-96.42857143
+920,NA,Nov-20,8,Poland,-97.14285714
+921,NA,Dec-20,9,Poland,-96.42857143
+922,NA,Jan-21,10,Poland,-93.57142857
+923,NA,Feb-21,11,Poland,-96.42857143
+924,NA,Mar-21,12,Poland,-97.14285714
+925,NA,Apr-21,13,Poland,-96.42857143
+926,NA,May-21,14,Poland,-94.28571429
+927,NA,Jun-21,15,Poland,-96.42857143
+928,NA,Jul-21,16,Poland,-97.1428571
+929,NA,Apr-20,1,Russia,-98.57142857
+930,NA,May-20,2,Russia,-97.85714286
+931,NA,Jun-20,3,Russia,-97.14285714
+932,NA,Jul-20,4,Russia,-97.85714286
+933,NA,Aug-20,5,Russia,-97.85714286
+934,NA,Sep-20,6,Russia,-98.57142857
+935,NA,Oct-20,7,Russia,-96.42857143
+936,NA,Nov-20,8,Russia,-95.71428571
+937,NA,Dec-20,9,Russia,-94.28571429
+938,NA,Jan-21,10,Russia,-93.57142857
+939,NA,Feb-21,11,Russia,-95.71428571
+940,NA,Mar-21,12,Russia,-95.71428571
+941,NA,Apr-21,13,Russia,-95
+942,NA,May-21,14,Russia,-92.85714286
+943,NA,Jun-21,15,Russia,-93.57142857
+944,NA,Jul-21,16,Russia,-95.7142857
+945,NA,Apr-20,1,Slovakia,-100
+946,NA,May-20,2,Slovakia,-100
+947,NA,Jun-20,3,Slovakia,-100
+948,NA,Jul-20,4,Slovakia,-96.2962963
+949,NA,Aug-20,5,Slovakia,-100
+950,NA,Sep-20,6,Slovakia,-96.2962963
+951,NA,Oct-20,7,Slovakia,-100
+952,NA,Nov-20,8,Slovakia,-100
+953,NA,Dec-20,9,Slovakia,-100
+954,NA,Jan-21,10,Slovakia,-92.59259259
+955,NA,Feb-21,11,Slovakia,-96.2962963
+956,NA,Mar-21,12,Slovakia,-100
+957,NA,Apr-21,13,Slovakia,-96.2962963
+958,NA,May-21,14,Slovakia,-96.2962963
+959,NA,Jun-21,15,Slovakia,-92.59259259
+960,NA,Jul-21,16,Slovakia,-96.2962963
+961,NA,Apr-20,1,Ukraine,-97.36842105
+962,NA,May-20,2,Ukraine,-94.73684211
+963,NA,Jun-20,3,Ukraine,-73.68421053
+964,NA,Jul-20,4,Ukraine,-81.57894737
+965,NA,Aug-20,5,Ukraine,-73.68421053
+966,NA,Sep-20,6,Ukraine,-84.21052632
+967,NA,Oct-20,7,Ukraine,-84.21052632
+968,NA,Nov-20,8,Ukraine,-84.21052632
+969,NA,Dec-20,9,Ukraine,-86.84210526
+970,NA,Jan-21,10,Ukraine,-86.84210526
+971,NA,Feb-21,11,Ukraine,-86.84210526
+972,NA,Mar-21,12,Ukraine,-76.31578947
+973,NA,Apr-21,13,Ukraine,-84.21052632
+974,NA,May-21,14,Ukraine,-73.68421053
+975,NA,Jun-21,15,Ukraine,-76.31578947
+976,NA,Jul-21,16,Ukraine,-89.4736842
+977,NA,Apr-20,1,Algeria,-100
+978,NA,May-20,2,Algeria,-100
+979,NA,Jun-20,3,Algeria,-100
+980,NA,Jul-20,4,Algeria,-100
+981,NA,Aug-20,5,Algeria,-100
+982,NA,Sep-20,6,Algeria,-100
+983,NA,Oct-20,7,Algeria,-100
+984,NA,Nov-20,8,Algeria,-100
+985,NA,Dec-20,9,Algeria,-100
+986,NA,Jan-21,10,Algeria,-100
+987,NA,Feb-21,11,Algeria,-100
+988,NA,Mar-21,12,Algeria,-100
+989,NA,Apr-21,13,Algeria,-100
+990,NA,May-21,14,Algeria,-100
+991,NA,Jun-21,15,Algeria,-100
+992,NA,Jul-21,16,Algeria,-50
+993,NA,Apr-20,1,Egypt,-97.61904762
+994,NA,May-20,2,Egypt,-95.23809524
+995,NA,Jun-20,3,Egypt,-95.23809524
+996,NA,Jul-20,4,Egypt,-88.0952381
+997,NA,Aug-20,5,Egypt,-88.0952381
+998,NA,Sep-20,6,Egypt,-90.47619048
+999,NA,Oct-20,7,Egypt,-80.95238095
+1000,NA,Nov-20,8,Egypt,-85.71428571
+1001,NA,Dec-20,9,Egypt,-83.33333333
+1002,NA,Jan-21,10,Egypt,-83.33333333
+1003,NA,Feb-21,11,Egypt,-88.0952381
+1004,NA,Mar-21,12,Egypt,-85.71428571
+1005,NA,Apr-21,13,Egypt,-85.71428571
+1006,NA,May-21,14,Egypt,-76.19047619
+1007,NA,Jun-21,15,Egypt,-76.19047619
+1008,NA,Jul-21,16,Egypt,-88.0952381
+1009,NA,Apr-20,1,Libya,-100
+1010,NA,May-20,2,Libya,-100
+1011,NA,Jun-20,3,Libya,-100
+1012,NA,Jul-20,4,Libya,-100
+1013,NA,Aug-20,5,Libya,-100
+1014,NA,Sep-20,6,Libya,0
+1015,NA,Oct-20,7,Libya,-100
+1016,NA,Nov-20,8,Libya,-100
+1017,NA,Dec-20,9,Libya,-100
+1018,NA,Jan-21,10,Libya,-100
+1019,NA,Feb-21,11,Libya,-100
+1020,NA,Mar-21,12,Libya,-100
+1021,NA,Apr-21,13,Libya,-100
+1022,NA,May-21,14,Libya,-100
+1023,NA,Jun-21,15,Libya,-100
+1024,NA,Jul-21,16,Libya,0
+1025,NA,Apr-20,1,Morocco,-100
+1026,NA,May-20,2,Morocco,-100
+1027,NA,Jun-20,3,Morocco,-100
+1028,NA,Jul-20,4,Morocco,-100
+1029,NA,Aug-20,5,Morocco,-100
+1030,NA,Sep-20,6,Morocco,-100
+1031,NA,Oct-20,7,Morocco,-75
+1032,NA,Nov-20,8,Morocco,-100
+1033,NA,Dec-20,9,Morocco,-75
+1034,NA,Jan-21,10,Morocco,-100
+1035,NA,Feb-21,11,Morocco,-100
+1036,NA,Mar-21,12,Morocco,-100
+1037,NA,Apr-21,13,Morocco,-75
+1038,NA,May-21,14,Morocco,-100
+1039,NA,Jun-21,15,Morocco,-75
+1040,NA,Jul-21,16,Morocco,-100
+1041,NA,Apr-20,1,Sudan,-88.88888889
+1042,NA,May-20,2,Sudan,-88.88888889
+1043,NA,Jun-20,3,Sudan,-88.88888889
+1044,NA,Jul-20,4,Sudan,-88.88888889
+1045,NA,Aug-20,5,Sudan,-88.88888889
+1046,NA,Sep-20,6,Sudan,-88.88888889
+1047,NA,Oct-20,7,Sudan,-88.88888889
+1048,NA,Nov-20,8,Sudan,-100
+1049,NA,Dec-20,9,Sudan,-88.88888889
+1050,NA,Jan-21,10,Sudan,-88.88888889
+1051,NA,Feb-21,11,Sudan,-88.88888889
+1052,NA,Mar-21,12,Sudan,-77.77777778
+1053,NA,Apr-21,13,Sudan,-88.88888889
+1054,NA,May-21,14,Sudan,-66.66666667
+1055,NA,Jun-21,15,Sudan,-88.88888889
+1056,NA,Jul-21,16,Sudan,-88.8888889
+1057,NA,Apr-20,1,Tunisia,-100
+1058,NA,May-20,2,Tunisia,-100
+1059,NA,Jun-20,3,Tunisia,-100
+1060,NA,Jul-20,4,Tunisia,-100
+1061,NA,Aug-20,5,Tunisia,-100
+1062,NA,Sep-20,6,Tunisia,-100
+1063,NA,Oct-20,7,Tunisia,-100
+1064,NA,Nov-20,8,Tunisia,-100
+1065,NA,Dec-20,9,Tunisia,-100
+1066,NA,Jan-21,10,Tunisia,-100
+1067,NA,Feb-21,11,Tunisia,-100
+1068,NA,Mar-21,12,Tunisia,-100
+1069,NA,Apr-21,13,Tunisia,-100
+1070,NA,May-21,14,Tunisia,-100
+1071,NA,Jun-21,15,Tunisia,-100
+1072,NA,Jul-21,16,Tunisia,0
+1073,NA,Apr-20,1,S. Sudan,-100
+1074,NA,May-20,2,S. Sudan,-100
+1075,NA,Jun-20,3,S. Sudan,-100
+1076,NA,Jul-20,4,S. Sudan,-100
+1077,NA,Aug-20,5,S. Sudan,-100
+1078,NA,Sep-20,6,S. Sudan,-100
+1079,NA,Oct-20,7,S. Sudan,-100
+1080,NA,Nov-20,8,S. Sudan,-100
+1081,NA,Dec-20,9,S. Sudan,-50
+1082,NA,Jan-21,10,S. Sudan,-100
+1083,NA,Feb-21,11,S. Sudan,-50
+1084,NA,Mar-21,12,S. Sudan,-100
+1085,NA,Apr-21,13,S. Sudan,-50
+1086,NA,May-21,14,S. Sudan,-50
+1087,NA,Jun-21,15,S. Sudan,-50
+1088,NA,Jul-21,16,S. Sudan,-100
+1089,NA,Apr-20,1,Bahrain,-100
+1090,NA,May-20,2,Bahrain,-100
+1091,NA,Jun-20,3,Bahrain,-100
+1092,NA,Jul-20,4,Bahrain,-100
+1093,NA,Aug-20,5,Bahrain,-100
+1094,NA,Sep-20,6,Bahrain,-100
+1095,NA,Oct-20,7,Bahrain,-100
+1096,NA,Nov-20,8,Bahrain,-100
+1097,NA,Dec-20,9,Bahrain,-100
+1098,NA,Jan-21,10,Bahrain,-100
+1099,NA,Feb-21,11,Bahrain,-100
+1100,NA,Mar-21,12,Bahrain,-100
+1101,NA,Apr-21,13,Bahrain,-100
+1102,NA,May-21,14,Bahrain,-100
+1103,NA,Jun-21,15,Bahrain,-100
+1104,NA,Jul-21,16,Bahrain,-100
+1105,NA,Apr-20,1,Gaza Str/W Bank,0
+1106,NA,May-20,2,Gaza Str/W Bank,0
+1107,NA,Jun-20,3,Gaza Str/W Bank,0
+1108,NA,Jul-20,4,Gaza Str/W Bank,0
+1109,NA,Aug-20,5,Gaza Str/W Bank,0
+1110,NA,Sep-20,6,Gaza Str/W Bank,0
+1111,NA,Oct-20,7,Gaza Str/W Bank,0
+1112,NA,Nov-20,8,Gaza Str/W Bank,0
+1113,NA,Dec-20,9,Gaza Str/W Bank,0
+1114,NA,Jan-21,10,Gaza Str/W Bank,0
+1115,NA,Feb-21,11,Gaza Str/W Bank,0
+1116,NA,Mar-21,12,Gaza Str/W Bank,0
+1117,NA,Apr-21,13,Gaza Str/W Bank,0
+1118,NA,May-21,14,Gaza Str/W Bank,0
+1119,NA,Jun-21,15,Gaza Str/W Bank,0
+1120,NA,Jul-21,16,Gaza Str/W Bank,0
+1121,NA,Apr-20,1,Iran,-87.93103448
+1122,NA,May-20,2,Iran,-89.65517241
+1123,NA,Jun-20,3,Iran,-84.48275862
+1124,NA,Jul-20,4,Iran,-91.37931034
+1125,NA,Aug-20,5,Iran,-89.65517241
+1126,NA,Sep-20,6,Iran,-86.20689655
+1127,NA,Oct-20,7,Iran,-81.03448276
+1128,NA,Nov-20,8,Iran,-87.93103448
+1129,NA,Dec-20,9,Iran,-74.13793103
+1130,NA,Jan-21,10,Iran,-81.03448276
+1131,NA,Feb-21,11,Iran,-72.4137931
+1132,NA,Mar-21,12,Iran,-75.86206897
+1133,NA,Apr-21,13,Iran,-72.4137931
+1134,NA,May-21,14,Iran,-62.06896552
+1135,NA,Jun-21,15,Iran,-68.96551724
+1136,NA,Jul-21,16,Iran,-68.9655172
+1137,NA,Apr-20,1,Iraq,-98.80952381
+1138,NA,May-20,2,Iraq,-97.61904762
+1139,NA,Jun-20,3,Iraq,-94.04761905
+1140,NA,Jul-20,4,Iraq,-97.61904762
+1141,NA,Aug-20,5,Iraq,-98.80952381
+1142,NA,Sep-20,6,Iraq,-96.42857143
+1143,NA,Oct-20,7,Iraq,-96.42857143
+1144,NA,Nov-20,8,Iraq,-97.61904762
+1145,NA,Dec-20,9,Iraq,-95.23809524
+1146,NA,Jan-21,10,Iraq,-96.42857143
+1147,NA,Feb-21,11,Iraq,-96.42857143
+1148,NA,Mar-21,12,Iraq,-95.23809524
+1149,NA,Apr-21,13,Iraq,-94.04761905
+1150,NA,May-21,14,Iraq,-89.28571429
+1151,NA,Jun-21,15,Iraq,-91.66666667
+1152,NA,Jul-21,16,Iraq,-94.047619
+1153,NA,Apr-20,1,Israel,-100
+1154,NA,May-20,2,Israel,-100
+1155,NA,Jun-20,3,Israel,-98.21428571
+1156,NA,Jul-20,4,Israel,-100
+1157,NA,Aug-20,5,Israel,-98.21428571
+1158,NA,Sep-20,6,Israel,-98.21428571
+1159,NA,Oct-20,7,Israel,-96.42857143
+1160,NA,Nov-20,8,Israel,-94.64285714
+1161,NA,Dec-20,9,Israel,-92.85714286
+1162,NA,Jan-21,10,Israel,-96.42857143
+1163,NA,Feb-21,11,Israel,-96.42857143
+1164,NA,Mar-21,12,Israel,-92.85714286
+1165,NA,Apr-21,13,Israel,-96.42857143
+1166,NA,May-21,14,Israel,-94.64285714
+1167,NA,Jun-21,15,Israel,-91.07142857
+1168,NA,Jul-21,16,Israel,-92.8571429
+1169,NA,Apr-20,1,Jordan,-93.75
+1170,NA,May-20,2,Jordan,-93.75
+1171,NA,Jun-20,3,Jordan,-87.5
+1172,NA,Jul-20,4,Jordan,-93.75
+1173,NA,Aug-20,5,Jordan,-93.75
+1174,NA,Sep-20,6,Jordan,-93.75
+1175,NA,Oct-20,7,Jordan,-93.75
+1176,NA,Nov-20,8,Jordan,-81.25
+1177,NA,Dec-20,9,Jordan,-93.75
+1178,NA,Jan-21,10,Jordan,-87.5
+1179,NA,Feb-21,11,Jordan,-87.5
+1180,NA,Mar-21,12,Jordan,-87.5
+1181,NA,Apr-21,13,Jordan,-81.25
+1182,NA,May-21,14,Jordan,-75
+1183,NA,Jun-21,15,Jordan,-87.5
+1184,NA,Jul-21,16,Jordan,-87.5
+1185,NA,Apr-20,1,Kuwait,-100
+1186,NA,May-20,2,Kuwait,-100
+1187,NA,Jun-20,3,Kuwait,-100
+1188,NA,Jul-20,4,Kuwait,-100
+1189,NA,Aug-20,5,Kuwait,-100
+1190,NA,Sep-20,6,Kuwait,-100
+1191,NA,Oct-20,7,Kuwait,-100
+1192,NA,Nov-20,8,Kuwait,-100
+1193,NA,Dec-20,9,Kuwait,-100
+1194,NA,Jan-21,10,Kuwait,-87.5
+1195,NA,Feb-21,11,Kuwait,-100
+1196,NA,Mar-21,12,Kuwait,-100
+1197,NA,Apr-21,13,Kuwait,-100
+1198,NA,May-21,14,Kuwait,-100
+1199,NA,Jun-21,15,Kuwait,-100
+1200,NA,Jul-21,16,Kuwait,-100
+1201,NA,Apr-20,1,Lebanon,-94
+1202,NA,May-20,2,Lebanon,-96
+1203,NA,Jun-20,3,Lebanon,-96
+1204,NA,Jul-20,4,Lebanon,-92
+1205,NA,Aug-20,5,Lebanon,-88
+1206,NA,Sep-20,6,Lebanon,-94
+1207,NA,Oct-20,7,Lebanon,-96
+1208,NA,Nov-20,8,Lebanon,-92
+1209,NA,Dec-20,9,Lebanon,-90
+1210,NA,Jan-21,10,Lebanon,-90
+1211,NA,Feb-21,11,Lebanon,-90
+1212,NA,Mar-21,12,Lebanon,-88
+1213,NA,Apr-21,13,Lebanon,-88
+1214,NA,May-21,14,Lebanon,-82
+1215,NA,Jun-21,15,Lebanon,-84
+1216,NA,Jul-21,16,Lebanon,-88
+1217,NA,Apr-20,1,Oman,-100
+1218,NA,May-20,2,Oman,-100
+1219,NA,Jun-20,3,Oman,-100
+1220,NA,Jul-20,4,Oman,-100
+1221,NA,Aug-20,5,Oman,-100
+1222,NA,Sep-20,6,Oman,-100
+1223,NA,Oct-20,7,Oman,-95
+1224,NA,Nov-20,8,Oman,-95
+1225,NA,Dec-20,9,Oman,-100
+1226,NA,Jan-21,10,Oman,-95
+1227,NA,Feb-21,11,Oman,-100
+1228,NA,Mar-21,12,Oman,-95
+1229,NA,Apr-21,13,Oman,-100
+1230,NA,May-21,14,Oman,-100
+1231,NA,Jun-21,15,Oman,-95
+1232,NA,Jul-21,16,Oman,-95
+1233,NA,Apr-20,1,Qatar,#DIV/0!
+1234,NA,May-20,2,Qatar,#DIV/0!
+1235,NA,Jun-20,3,Qatar,#DIV/0!
+1236,NA,Jul-20,4,Qatar,#DIV/0!
+1237,NA,Aug-20,5,Qatar,#DIV/0!
+1238,NA,Sep-20,6,Qatar,#DIV/0!
+1239,NA,Oct-20,7,Qatar,#DIV/0!
+1240,NA,Nov-20,8,Qatar,#DIV/0!
+1241,NA,Dec-20,9,Qatar,#DIV/0!
+1242,NA,Jan-21,10,Qatar,#DIV/0!
+1243,NA,Feb-21,11,Qatar,#DIV/0!
+1244,NA,Mar-21,12,Qatar,#DIV/0!
+1245,NA,Apr-21,13,Qatar,#DIV/0!
+1246,NA,May-21,14,Qatar,#DIV/0!
+1247,NA,Jun-21,15,Qatar,#DIV/0!
+1248,NA,Jul-21,16,Qatar,0
+1249,NA,Apr-20,1,Saudi Arabia,-100
+1250,NA,May-20,2,Saudi Arabia,-100
+1251,NA,Jun-20,3,Saudi Arabia,-98.03921569
+1252,NA,Jul-20,4,Saudi Arabia,-100
+1253,NA,Aug-20,5,Saudi Arabia,-99.01960784
+1254,NA,Sep-20,6,Saudi Arabia,-99.01960784
+1255,NA,Oct-20,7,Saudi Arabia,-97.05882353
+1256,NA,Nov-20,8,Saudi Arabia,-98.03921569
+1257,NA,Dec-20,9,Saudi Arabia,-100
+1258,NA,Jan-21,10,Saudi Arabia,-96.07843137
+1259,NA,Feb-21,11,Saudi Arabia,-97.05882353
+1260,NA,Mar-21,12,Saudi Arabia,-97.05882353
+1261,NA,Apr-21,13,Saudi Arabia,-98.03921569
+1262,NA,May-21,14,Saudi Arabia,-99.01960784
+1263,NA,Jun-21,15,Saudi Arabia,-97.05882353
+1264,NA,Jul-21,16,Saudi Arabia,-98.0392157
+1265,NA,Apr-20,1,Syria,-94.44444444
+1266,NA,May-20,2,Syria,-94.44444444
+1267,NA,Jun-20,3,Syria,-94.44444444
+1268,NA,Jul-20,4,Syria,-94.44444444
+1269,NA,Aug-20,5,Syria,-94.44444444
+1270,NA,Sep-20,6,Syria,-83.33333333
+1271,NA,Oct-20,7,Syria,-94.44444444
+1272,NA,Nov-20,8,Syria,-88.88888889
+1273,NA,Dec-20,9,Syria,-88.88888889
+1274,NA,Jan-21,10,Syria,-88.88888889
+1275,NA,Feb-21,11,Syria,-94.44444444
+1276,NA,Mar-21,12,Syria,-83.33333333
+1277,NA,Apr-21,13,Syria,-83.33333333
+1278,NA,May-21,14,Syria,-77.77777778
+1279,NA,Jun-21,15,Syria,-83.33333333
+1280,NA,Jul-21,16,Syria,-83.3333333
+1281,NA,Apr-20,1,Turkey,-97.77777778
+1282,NA,May-20,2,Turkey,-97.77777778
+1283,NA,Jun-20,3,Turkey,-93.33333333
+1284,NA,Jul-20,4,Turkey,-95.55555556
+1285,NA,Aug-20,5,Turkey,-93.33333333
+1286,NA,Sep-20,6,Turkey,-91.11111111
+1287,NA,Oct-20,7,Turkey,-82.22222222
+1288,NA,Nov-20,8,Turkey,-86.66666667
+1289,NA,Dec-20,9,Turkey,-91.11111111
+1290,NA,Jan-21,10,Turkey,-88.88888889
+1291,NA,Feb-21,11,Turkey,-91.11111111
+1292,NA,Mar-21,12,Turkey,-91.11111111
+1293,NA,Apr-21,13,Turkey,-91.11111111
+1294,NA,May-21,14,Turkey,-86.66666667
+1295,NA,Jun-21,15,Turkey,-88.88888889
+1296,NA,Jul-21,16,Turkey,-91.1111111
+1297,NA,Apr-20,1,United Arab Emirates,-100
+1298,NA,May-20,2,United Arab Emirates,-100
+1299,NA,Jun-20,3,United Arab Emirates,-91.66666667
+1300,NA,Jul-20,4,United Arab Emirates,-91.66666667
+1301,NA,Aug-20,5,United Arab Emirates,-91.66666667
+1302,NA,Sep-20,6,United Arab Emirates,-91.66666667
+1303,NA,Oct-20,7,United Arab Emirates,-91.66666667
+1304,NA,Nov-20,8,United Arab Emirates,-100
+1305,NA,Dec-20,9,United Arab Emirates,-100
+1306,NA,Jan-21,10,United Arab Emirates,-91.66666667
+1307,NA,Feb-21,11,United Arab Emirates,-91.66666667
+1308,NA,Mar-21,12,United Arab Emirates,-100
+1309,NA,Apr-21,13,United Arab Emirates,-91.66666667
+1310,NA,May-21,14,United Arab Emirates,-91.66666667
+1311,NA,Jun-21,15,United Arab Emirates,-83.33333333
+1312,NA,Jul-21,16,United Arab Emirates,-91.6666667
+1313,NA,Apr-20,1,Yemen,-100
+1314,NA,May-20,2,Yemen,-50
+1315,NA,Jun-20,3,Yemen,-100
+1316,NA,Jul-20,4,Yemen,-100
+1317,NA,Aug-20,5,Yemen,-100
+1318,NA,Sep-20,6,Yemen,-100
+1319,NA,Oct-20,7,Yemen,-50
+1320,NA,Nov-20,8,Yemen,-50
+1321,NA,Dec-20,9,Yemen,-100
+1322,NA,Jan-21,10,Yemen,-100
+1323,NA,Feb-21,11,Yemen,-100
+1324,NA,Mar-21,12,Yemen,-100
+1325,NA,Apr-21,13,Yemen,-100
+1326,NA,May-21,14,Yemen,-50
+1327,NA,Jun-21,15,Yemen,-100
+1328,NA,Jul-21,16,Yemen,-100
+1329,NA,Apr-20,1,Myanmar,-98.75
+1330,NA,May-20,2,Myanmar,-95
+1331,NA,Jun-20,3,Myanmar,-98.75
+1332,NA,Jul-20,4,Myanmar,-96.25
+1333,NA,Aug-20,5,Myanmar,-96.25
+1334,NA,Sep-20,6,Myanmar,-98.75
+1335,NA,Oct-20,7,Myanmar,-97.5
+1336,NA,Nov-20,8,Myanmar,-95
+1337,NA,Dec-20,9,Myanmar,-98.75
+1338,NA,Jan-21,10,Myanmar,-95
+1339,NA,Feb-21,11,Myanmar,-96.25
+1340,NA,Mar-21,12,Myanmar,-93.75
+1341,NA,Apr-21,13,Myanmar,-92.5
+1342,NA,May-21,14,Myanmar,-93.75
+1343,NA,Jun-21,15,Myanmar,-95
+1344,NA,Jul-21,16,Myanmar,-95
+1345,NA,Apr-20,1,Cambodia,-97.8021978
+1346,NA,May-20,2,Cambodia,-100
+1347,NA,Jun-20,3,Cambodia,-100
+1348,NA,Jul-20,4,Cambodia,-97.8021978
+1349,NA,Aug-20,5,Cambodia,-97.8021978
+1350,NA,Sep-20,6,Cambodia,-98.9010989
+1351,NA,Oct-20,7,Cambodia,-98.9010989
+1352,NA,Nov-20,8,Cambodia,-97.8021978
+1353,NA,Dec-20,9,Cambodia,-94.50549451
+1354,NA,Jan-21,10,Cambodia,-97.8021978
+1355,NA,Feb-21,11,Cambodia,-95.6043956
+1356,NA,Mar-21,12,Cambodia,-94.50549451
+1357,NA,Apr-21,13,Cambodia,-96.7032967
+1358,NA,May-21,14,Cambodia,-94.50549451
+1359,NA,Jun-21,15,Cambodia,-95.6043956
+1360,NA,Jul-21,16,Cambodia,-96.7032967
+1361,NA,Apr-20,1,Laos,-100
+1362,NA,May-20,2,Laos,-93.33333333
+1363,NA,Jun-20,3,Laos,-100
+1364,NA,Jul-20,4,Laos,-100
+1365,NA,Aug-20,5,Laos,-100
+1366,NA,Sep-20,6,Laos,-100
+1367,NA,Oct-20,7,Laos,-100
+1368,NA,Nov-20,8,Laos,-93.33333333
+1369,NA,Dec-20,9,Laos,-100
+1370,NA,Jan-21,10,Laos,-100
+1371,NA,Feb-21,11,Laos,-100
+1372,NA,Mar-21,12,Laos,-100
+1373,NA,Apr-21,13,Laos,-100
+1374,NA,May-21,14,Laos,-100
+1375,NA,Jun-21,15,Laos,-100
+1376,NA,Jul-21,16,Laos,-93.3333333
+1377,NA,Apr-20,1,Thailand,-98.35680751
+1378,NA,May-20,2,Thailand,-97.65258216
+1379,NA,Jun-20,3,Thailand,-97.65258216
+1380,NA,Jul-20,4,Thailand,-99.29577465
+1381,NA,Aug-20,5,Thailand,-99.06103286
+1382,NA,Sep-20,6,Thailand,-98.5915493
+1383,NA,Oct-20,7,Thailand,-98.12206573
+1384,NA,Nov-20,8,Thailand,-97.18309859
+1385,NA,Dec-20,9,Thailand,-97.41784038
+1386,NA,Jan-21,10,Thailand,-98.12206573
+1387,NA,Feb-21,11,Thailand,-96.94835681
+1388,NA,Mar-21,12,Thailand,-95.77464789
+1389,NA,Apr-21,13,Thailand,-96.47887324
+1390,NA,May-21,14,Thailand,-96.00938967
+1391,NA,Jun-21,15,Thailand,-95.77464789
+1392,NA,Jul-21,16,Thailand,-96.2441315
+1393,NA,Apr-20,1,Vietnam,-99.60732984
+1394,NA,May-20,2,Vietnam,-99.60732984
+1395,NA,Jun-20,3,Vietnam,-99.08376963
+1396,NA,Jul-20,4,Vietnam,-99.08376963
+1397,NA,Aug-20,5,Vietnam,-98.69109948
+1398,NA,Sep-20,6,Vietnam,-98.42931937
+1399,NA,Oct-20,7,Vietnam,-97.12041885
+1400,NA,Nov-20,8,Vietnam,-96.85863874
+1401,NA,Dec-20,9,Vietnam,-96.33507853
+1402,NA,Jan-21,10,Vietnam,-96.9895288
+1403,NA,Feb-21,11,Vietnam,-98.16753927
+1404,NA,Mar-21,12,Vietnam,-93.97905759
+1405,NA,Apr-21,13,Vietnam,-96.33507853
+1406,NA,May-21,14,Vietnam,-95.15706806
+1407,NA,Jun-21,15,Vietnam,-95.41884817
+1408,NA,Jul-21,16,Vietnam,-96.5968586
+1409,NA,Apr-20,1,Brunei,-100
+1410,NA,May-20,2,Brunei,-100
+1411,NA,Jun-20,3,Brunei,-100
+1412,NA,Jul-20,4,Brunei,-100
+1413,NA,Aug-20,5,Brunei,-100
+1414,NA,Sep-20,6,Brunei,-100
+1415,NA,Oct-20,7,Brunei,-100
+1416,NA,Nov-20,8,Brunei,-100
+1417,NA,Dec-20,9,Brunei,-100
+1418,NA,Jan-21,10,Brunei,-87.5
+1419,NA,Feb-21,11,Brunei,-100
+1420,NA,Mar-21,12,Brunei,-100
+1421,NA,Apr-21,13,Brunei,-93.75
+1422,NA,May-21,14,Brunei,-87.5
+1423,NA,Jun-21,15,Brunei,-93.75
+1424,NA,Jul-21,16,Brunei,-93.75
+1425,NA,Apr-20,1,Indonesia,-97.30538922
+1426,NA,May-20,2,Indonesia,-99.00199601
+1427,NA,Jun-20,3,Indonesia,-97.90419162
+1428,NA,Jul-20,4,Indonesia,-98.00399202
+1429,NA,Aug-20,5,Indonesia,-99.20159681
+1430,NA,Sep-20,6,Indonesia,-98.60279441
+1431,NA,Oct-20,7,Indonesia,-98.20359281
+1432,NA,Nov-20,8,Indonesia,-97.30538922
+1433,NA,Dec-20,9,Indonesia,-96.70658683
+1434,NA,Jan-21,10,Indonesia,-97.70459082
+1435,NA,Feb-21,11,Indonesia,-97.60479042
+1436,NA,Mar-21,12,Indonesia,-97.80439122
+1437,NA,Apr-21,13,Indonesia,-97.30538922
+1438,NA,May-21,14,Indonesia,-96.90618762
+1439,NA,Jun-21,15,Indonesia,-97.00598802
+1440,NA,Jul-21,16,Indonesia,-97.7045908
+1441,NA,Apr-20,1,Malaysia,-98.49785408
+1442,NA,May-20,2,Malaysia,-99.42775393
+1443,NA,Jun-20,3,Malaysia,-99.49928469
+1444,NA,Jul-20,4,Malaysia,-97.99713877
+1445,NA,Aug-20,5,Malaysia,-98.92703863
+1446,NA,Sep-20,6,Malaysia,-99.1416309
+1447,NA,Oct-20,7,Malaysia,-98.64091559
+1448,NA,Nov-20,8,Malaysia,-98.56938484
+1449,NA,Dec-20,9,Malaysia,-97.63948498
+1450,NA,Jan-21,10,Malaysia,-97.4248927
+1451,NA,Feb-21,11,Malaysia,-98.21173104
+1452,NA,Mar-21,12,Malaysia,-97.35336195
+1453,NA,Apr-21,13,Malaysia,-97.85407725
+1454,NA,May-21,14,Malaysia,-97.06723891
+1455,NA,Jun-21,15,Malaysia,-97.35336195
+1456,NA,Jul-21,16,Malaysia,-97.4964235
+1457,NA,Apr-20,1,Philippines,-95.83333333
+1458,NA,May-20,2,Philippines,-97.10648148
+1459,NA,Jun-20,3,Philippines,-96.64351852
+1460,NA,Jul-20,4,Philippines,-97.56944444
+1461,NA,Aug-20,5,Philippines,-98.49537037
+1462,NA,Sep-20,6,Philippines,-97.22222222
+1463,NA,Oct-20,7,Philippines,-96.06481481
+1464,NA,Nov-20,8,Philippines,-94.3287037
+1465,NA,Dec-20,9,Philippines,-95.02314815
+1466,NA,Jan-21,10,Philippines,-95.48611111
+1467,NA,Feb-21,11,Philippines,-95.25462963
+1468,NA,Mar-21,12,Philippines,-94.09722222
+1469,NA,Apr-21,13,Philippines,-93.40277778
+1470,NA,May-21,14,Philippines,-90.0462963
+1471,NA,Jun-21,15,Philippines,-89.93055556
+1472,NA,Jul-21,16,Philippines,-92.8240741
+1473,NA,Apr-20,1,Singapore,-99.39393939
+1474,NA,May-20,2,Singapore,-98.88888889
+1475,NA,Jun-20,3,Singapore,-98.58585859
+1476,NA,Jul-20,4,Singapore,-98.58585859
+1477,NA,Aug-20,5,Singapore,-98.68686869
+1478,NA,Sep-20,6,Singapore,-98.58585859
+1479,NA,Oct-20,7,Singapore,-98.28282828
+1480,NA,Nov-20,8,Singapore,-98.68686869
+1481,NA,Dec-20,9,Singapore,-97.27272727
+1482,NA,Jan-21,10,Singapore,-96.46464646
+1483,NA,Feb-21,11,Singapore,-97.67676768
+1484,NA,Mar-21,12,Singapore,-97.67676768
+1485,NA,Apr-21,13,Singapore,-97.97979798
+1486,NA,May-21,14,Singapore,-97.37373737
+1487,NA,Jun-21,15,Singapore,-96.96969697
+1488,NA,Jul-21,16,Singapore,-97.8787879
+1489,NA,Apr-20,1,Timor-Leste,-100
+1490,NA,May-20,2,Timor-Leste,-100
+1491,NA,Jun-20,3,Timor-Leste,-100
+1492,NA,Jul-20,4,Timor-Leste,-100
+1493,NA,Aug-20,5,Timor-Leste,-100
+1494,NA,Sep-20,6,Timor-Leste,-100
+1495,NA,Oct-20,7,Timor-Leste,-100
+1496,NA,Nov-20,8,Timor-Leste,-100
+1497,NA,Dec-20,9,Timor-Leste,0
+1498,NA,Jan-21,10,Timor-Leste,-100
+1499,NA,Feb-21,11,Timor-Leste,-87.5
+1500,NA,Mar-21,12,Timor-Leste,-100
+1501,NA,Apr-21,13,Timor-Leste,-93.75
+1502,NA,May-21,14,Timor-Leste,-87.5
+1503,NA,Jun-21,15,Timor-Leste,-93.75
+1504,NA,Jul-21,16,Timor-Leste,-93.75
+1505,NA,Apr-20,1,China,-99.18592437
+1506,NA,May-20,2,China,-98.37184874
+1507,NA,Jun-20,3,China,-96.875
+1508,NA,Jul-20,4,China,-98.37184874
+1509,NA,Aug-20,5,China,-98.34558824
+1510,NA,Sep-20,6,China,-97.95168067
+1511,NA,Oct-20,7,China,-97.40021008
+1512,NA,Nov-20,8,China,-96.875
+1513,NA,Dec-20,9,China,-96.50735294
+1514,NA,Jan-21,10,China,-96.08718487
+1515,NA,Feb-21,11,China,-97.13760504
+1516,NA,Mar-21,12,China,-96.71743697
+1517,NA,Apr-21,13,China,-95.98214286
+1518,NA,May-21,14,China,-94.95798319
+1519,NA,Jun-21,15,China,-95.06302521
+1520,NA,Jul-21,16,China,-95.9558824
+1521,NA,Apr-20,1,Hong Kong,-99.42084942
+1522,NA,May-20,2,Hong Kong,-99.22779923
+1523,NA,Jun-20,3,Hong Kong,-98.45559846
+1524,NA,Jul-20,4,Hong Kong,-98.64864865
+1525,NA,Aug-20,5,Hong Kong,-98.45559846
+1526,NA,Sep-20,6,Hong Kong,-98.45559846
+1527,NA,Oct-20,7,Hong Kong,-98.26254826
+1528,NA,Nov-20,8,Hong Kong,-97.87644788
+1529,NA,Dec-20,9,Hong Kong,-96.13899614
+1530,NA,Jan-21,10,Hong Kong,-95.75289575
+1531,NA,Feb-21,11,Hong Kong,-97.1042471
+1532,NA,Mar-21,12,Hong Kong,-96.91119691
+1533,NA,Apr-21,13,Hong Kong,-96.71814672
+1534,NA,May-21,14,Hong Kong,-94.78764479
+1535,NA,Jun-21,15,Hong Kong,-93.82239382
+1536,NA,Jul-21,16,Hong Kong,-94.2084942
+1537,NA,Apr-20,1,Macau,-100
+1538,NA,May-20,2,Macau,-100
+1539,NA,Jun-20,3,Macau,-100
+1540,NA,Jul-20,4,Macau,-100
+1541,NA,Aug-20,5,Macau,-100
+1542,NA,Sep-20,6,Macau,-100
+1543,NA,Oct-20,7,Macau,-100
+1544,NA,Nov-20,8,Macau,-100
+1545,NA,Dec-20,9,Macau,-100
+1546,NA,Jan-21,10,Macau,-100
+1547,NA,Feb-21,11,Macau,-100
+1548,NA,Mar-21,12,Macau,-100
+1549,NA,Apr-21,13,Macau,-100
+1550,NA,May-21,14,Macau,-100
+1551,NA,Jun-21,15,Macau,-100
+1552,NA,Jul-21,16,Macau,-100
+1553,NA,Apr-20,1,Mongolia,-100
+1554,NA,May-20,2,Mongolia,-100
+1555,NA,Jun-20,3,Mongolia,-93.75
+1556,NA,Jul-20,4,Mongolia,-100
+1557,NA,Aug-20,5,Mongolia,-93.75
+1558,NA,Sep-20,6,Mongolia,-93.75
+1559,NA,Oct-20,7,Mongolia,-100
+1560,NA,Nov-20,8,Mongolia,-100
+1561,NA,Dec-20,9,Mongolia,-93.75
+1562,NA,Jan-21,10,Mongolia,-100
+1563,NA,Feb-21,11,Mongolia,-100
+1564,NA,Mar-21,12,Mongolia,-93.75
+1565,NA,Apr-21,13,Mongolia,-100
+1566,NA,May-21,14,Mongolia,-93.75
+1567,NA,Jun-21,15,Mongolia,-93.75
+1568,NA,Jul-21,16,Mongolia,-100
+1569,NA,Apr-20,1,Taiwan,-99.2
+1570,NA,May-20,2,Taiwan,-98.93333333
+1571,NA,Jun-20,3,Taiwan,-97.33333333
+1572,NA,Jul-20,4,Taiwan,-98.4
+1573,NA,Aug-20,5,Taiwan,-98.93333333
+1574,NA,Sep-20,6,Taiwan,-98.93333333
+1575,NA,Oct-20,7,Taiwan,-98.4
+1576,NA,Nov-20,8,Taiwan,-98.93333333
+1577,NA,Dec-20,9,Taiwan,-98.4
+1578,NA,Jan-21,10,Taiwan,-97.86666667
+1579,NA,Feb-21,11,Taiwan,-98.93333333
+1580,NA,Mar-21,12,Taiwan,-97.6
+1581,NA,Apr-21,13,Taiwan,-98.93333333
+1582,NA,May-21,14,Taiwan,-98.4
+1583,NA,Jun-21,15,Taiwan,-97.86666667
+1584,NA,Jul-21,16,Taiwan,-97.0666667
+1585,NA,Apr-20,1,Japan,-99.57416608
+1586,NA,May-20,2,Japan,-99.21930447
+1587,NA,Jun-20,3,Japan,-99.29027679
+1588,NA,Jul-20,4,Japan,-99.14833215
+1589,NA,Aug-20,5,Japan,-98.86444287
+1590,NA,Sep-20,6,Japan,-98.93541519
+1591,NA,Oct-20,7,Japan,-98.86444287
+1592,NA,Nov-20,8,Japan,-97.9418027
+1593,NA,Dec-20,9,Japan,-98.08374734
+1594,NA,Jan-21,10,Japan,-98.15471966
+1595,NA,Feb-21,11,Japan,-98.58055358
+1596,NA,Mar-21,12,Japan,-98.22569198
+1597,NA,Apr-21,13,Japan,-97.72888573
+1598,NA,May-21,14,Japan,-97.01916253
+1599,NA,Jun-21,15,Japan,-97.87083038
+1600,NA,Jul-21,16,Japan,-98.4386089
+1601,NA,Apr-20,1,Dem. Rep. Korea,0
+1602,NA,May-20,2,Dem. Rep. Korea,0
+1603,NA,Jun-20,3,Dem. Rep. Korea,0
+1604,NA,Jul-20,4,Dem. Rep. Korea,0
+1605,NA,Aug-20,5,Dem. Rep. Korea,0
+1606,NA,Sep-20,6,Dem. Rep. Korea,0
+1607,NA,Oct-20,7,Dem. Rep. Korea,0
+1608,NA,Nov-20,8,Dem. Rep. Korea,0
+1609,NA,Dec-20,9,Dem. Rep. Korea,0
+1610,NA,Jan-21,10,Dem. Rep. Korea,0
+1611,NA,Feb-21,11,Dem. Rep. Korea,0
+1612,NA,Mar-21,12,Dem. Rep. Korea,0
+1613,NA,Apr-21,13,Dem. Rep. Korea,0
+1614,NA,May-21,14,Dem. Rep. Korea,0
+1615,NA,Jun-21,15,Dem. Rep. Korea,0
+1616,NA,Jul-21,16,Dem. Rep. Korea,0
+1617,NA,Apr-20,1,Korea,-99.25925926
+1618,NA,May-20,2,Korea,-98.02469136
+1619,NA,Jun-20,3,Korea,-97.5308642
+1620,NA,Jul-20,4,Korea,-97.28395062
+1621,NA,Aug-20,5,Korea,-97.03703704
+1622,NA,Sep-20,6,Korea,-97.5308642
+1623,NA,Oct-20,7,Korea,-96.79012346
+1624,NA,Nov-20,8,Korea,-96.79012346
+1625,NA,Dec-20,9,Korea,-95.0617284
+1626,NA,Jan-21,10,Korea,-94.81481481
+1627,NA,Feb-21,11,Korea,-95.30864198
+1628,NA,Mar-21,12,Korea,-95.30864198
+1629,NA,Apr-21,13,Korea,-94.81481481
+1630,NA,May-21,14,Korea,-93.58024691
+1631,NA,Jun-21,15,Korea,-94.56790123
+1632,NA,Jul-21,16,Korea,-95.0617284
+1633,NA,Apr-20,1,Bangladesh,-97.33333333
+1634,NA,May-20,2,Bangladesh,-96.88888889
+1635,NA,Jun-20,3,Bangladesh,-97.33333333
+1636,NA,Jul-20,4,Bangladesh,-98.66666667
+1637,NA,Aug-20,5,Bangladesh,-98.66666667
+1638,NA,Sep-20,6,Bangladesh,-97.77777778
+1639,NA,Oct-20,7,Bangladesh,-97.33333333
+1640,NA,Nov-20,8,Bangladesh,-96.88888889
+1641,NA,Dec-20,9,Bangladesh,-96
+1642,NA,Jan-21,10,Bangladesh,-96.44444444
+1643,NA,Feb-21,11,Bangladesh,-95.55555556
+1644,NA,Mar-21,12,Bangladesh,-95.55555556
+1645,NA,Apr-21,13,Bangladesh,-95.55555556
+1646,NA,May-21,14,Bangladesh,-92.88888889
+1647,NA,Jun-21,15,Bangladesh,-94.66666667
+1648,NA,Jul-21,16,Bangladesh,-96
+1649,NA,Apr-20,1,Bhutan,-100
+1650,NA,May-20,2,Bhutan,-100
+1651,NA,Jun-20,3,Bhutan,-96.875
+1652,NA,Jul-20,4,Bhutan,-100
+1653,NA,Aug-20,5,Bhutan,-100
+1654,NA,Sep-20,6,Bhutan,-100
+1655,NA,Oct-20,7,Bhutan,-100
+1656,NA,Nov-20,8,Bhutan,-100
+1657,NA,Dec-20,9,Bhutan,-93.75
+1658,NA,Jan-21,10,Bhutan,-100
+1659,NA,Feb-21,11,Bhutan,-100
+1660,NA,Mar-21,12,Bhutan,-96.875
+1661,NA,Apr-21,13,Bhutan,-100
+1662,NA,May-21,14,Bhutan,-100
+1663,NA,Jun-21,15,Bhutan,-100
+1664,NA,Jul-21,16,Bhutan,-96.875
+1665,NA,Apr-20,1,India,-97.48395379
+1666,NA,May-20,2,India,-96.63671374
+1667,NA,Jun-20,3,India,-96.48267009
+1668,NA,Jul-20,4,India,-98.76765083
+1669,NA,Aug-20,5,India,-98.4338896
+1670,NA,Sep-20,6,India,-98.22849807
+1671,NA,Oct-20,7,India,-97.25288832
+1672,NA,Nov-20,8,India,-97.07317073
+1673,NA,Dec-20,9,India,-95.58408216
+1674,NA,Jan-21,10,India,-96.22593068
+1675,NA,Feb-21,11,India,-96.02053915
+1676,NA,Mar-21,12,India,-95.0449294
+1677,NA,Apr-21,13,India,-95.37869063
+1678,NA,May-21,14,India,-96.40564827
+1679,NA,Jun-21,15,India,-95.35301669
+1680,NA,Jul-21,16,India,-95.4300385
+1681,NA,Apr-20,1,Maldives,-100
+1682,NA,May-20,2,Maldives,-100
+1683,NA,Jun-20,3,Maldives,-100
+1684,NA,Jul-20,4,Maldives,-100
+1685,NA,Aug-20,5,Maldives,-100
+1686,NA,Sep-20,6,Maldives,-100
+1687,NA,Oct-20,7,Maldives,-100
+1688,NA,Nov-20,8,Maldives,-100
+1689,NA,Dec-20,9,Maldives,-100
+1690,NA,Jan-21,10,Maldives,-100
+1691,NA,Feb-21,11,Maldives,-100
+1692,NA,Mar-21,12,Maldives,-100
+1693,NA,Apr-21,13,Maldives,-100
+1694,NA,May-21,14,Maldives,-83.33333333
+1695,NA,Jun-21,15,Maldives,-83.33333333
+1696,NA,Jul-21,16,Maldives,-100
+1697,NA,Apr-20,1,Nepal,-98.99159664
+1698,NA,May-20,2,Nepal,-97.4789916
+1699,NA,Jun-20,3,Nepal,-95.79831933
+1700,NA,Jul-20,4,Nepal,-99.83193277
+1701,NA,Aug-20,5,Nepal,-100
+1702,NA,Sep-20,6,Nepal,-99.83193277
+1703,NA,Oct-20,7,Nepal,-97.81512605
+1704,NA,Nov-20,8,Nepal,-98.48739496
+1705,NA,Dec-20,9,Nepal,-98.65546218
+1706,NA,Jan-21,10,Nepal,-98.65546218
+1707,NA,Feb-21,11,Nepal,-97.98319328
+1708,NA,Mar-21,12,Nepal,-98.1512605
+1709,NA,Apr-21,13,Nepal,-97.14285714
+1710,NA,May-21,14,Nepal,-98.1512605
+1711,NA,Jun-21,15,Nepal,-99.15966387
+1712,NA,Jul-21,16,Nepal,-98.9915966
+1713,NA,Apr-20,1,Pakistan,-94.33198381
+1714,NA,May-20,2,Pakistan,-93.72469636
+1715,NA,Jun-20,3,Pakistan,-91.29554656
+1716,NA,Jul-20,4,Pakistan,-96.96356275
+1717,NA,Aug-20,5,Pakistan,-97.9757085
+1718,NA,Sep-20,6,Pakistan,-98.58299595
+1719,NA,Oct-20,7,Pakistan,-95.951417
+1720,NA,Nov-20,8,Pakistan,-96.3562753
+1721,NA,Dec-20,9,Pakistan,-92.30769231
+1722,NA,Jan-21,10,Pakistan,-93.72469636
+1723,NA,Feb-21,11,Pakistan,-95.1417004
+1724,NA,Mar-21,12,Pakistan,-93.11740891
+1725,NA,Apr-21,13,Pakistan,-90.28340081
+1726,NA,May-21,14,Pakistan,-93.11740891
+1727,NA,Jun-21,15,Pakistan,-94.53441296
+1728,NA,Jul-21,16,Pakistan,-96.9635628
+1729,NA,Apr-20,1,Sri Lanka,-98.39142091
+1730,NA,May-20,2,Sri Lanka,-96.51474531
+1731,NA,Jun-20,3,Sri Lanka,-97.85522788
+1732,NA,Jul-20,4,Sri Lanka,-98.92761394
+1733,NA,Aug-20,5,Sri Lanka,-98.65951743
+1734,NA,Sep-20,6,Sri Lanka,-97.05093834
+1735,NA,Oct-20,7,Sri Lanka,-97.58713137
+1736,NA,Nov-20,8,Sri Lanka,-97.85522788
+1737,NA,Dec-20,9,Sri Lanka,-94.63806971
+1738,NA,Jan-21,10,Sri Lanka,-94.90616622
+1739,NA,Feb-21,11,Sri Lanka,-96.51474531
+1740,NA,Mar-21,12,Sri Lanka,-95.44235925
+1741,NA,Apr-21,13,Sri Lanka,-94.63806971
+1742,NA,May-21,14,Sri Lanka,-93.02949062
+1743,NA,Jun-21,15,Sri Lanka,-94.36997319
+1744,NA,Jul-21,16,Sri Lanka,-95.1742627
+1745,NA,Apr-20,1,Afghanistan,-87.5
+1746,NA,May-20,2,Afghanistan,-80.35714286
+1747,NA,Jun-20,3,Afghanistan,-77.67857143
+1748,NA,Jul-20,4,Afghanistan,-95.53571429
+1749,NA,Aug-20,5,Afghanistan,-97.32142857
+1750,NA,Sep-20,6,Afghanistan,-95.53571429
+1751,NA,Oct-20,7,Afghanistan,-91.96428571
+1752,NA,Nov-20,8,Afghanistan,-85.71428571
+1753,NA,Dec-20,9,Afghanistan,-84.82142857
+1754,NA,Jan-21,10,Afghanistan,-90.17857143
+1755,NA,Feb-21,11,Afghanistan,-87.5
+1756,NA,Mar-21,12,Afghanistan,-65.17857143
+1757,NA,Apr-21,13,Afghanistan,-64.28571429
+1758,NA,May-21,14,Afghanistan,-75
+1759,NA,Jun-21,15,Afghanistan,-68.75
+1760,NA,Jul-21,16,Afghanistan,-70.5357143
+1761,NA,Apr-20,1,Armenia,-100
+1762,NA,May-20,2,Armenia,-100
+1763,NA,Jun-20,3,Armenia,-100
+1764,NA,Jul-20,4,Armenia,-100
+1765,NA,Aug-20,5,Armenia,-100
+1766,NA,Sep-20,6,Armenia,-100
+1767,NA,Oct-20,7,Armenia,-100
+1768,NA,Nov-20,8,Armenia,-100
+1769,NA,Dec-20,9,Armenia,-100
+1770,NA,Jan-21,10,Armenia,-100
+1771,NA,Feb-21,11,Armenia,-100
+1772,NA,Mar-21,12,Armenia,-100
+1773,NA,Apr-21,13,Armenia,-100
+1774,NA,May-21,14,Armenia,0
+1775,NA,Jun-21,15,Armenia,-100
+1776,NA,Jul-21,16,Armenia,-100
+1777,NA,Apr-20,1,Azerbaijan,-100
+1778,NA,May-20,2,Azerbaijan,-100
+1779,NA,Jun-20,3,Azerbaijan,-100
+1780,NA,Jul-20,4,Azerbaijan,-100
+1781,NA,Aug-20,5,Azerbaijan,-100
+1782,NA,Sep-20,6,Azerbaijan,-100
+1783,NA,Oct-20,7,Azerbaijan,-100
+1784,NA,Nov-20,8,Azerbaijan,-100
+1785,NA,Dec-20,9,Azerbaijan,-100
+1786,NA,Jan-21,10,Azerbaijan,-100
+1787,NA,Feb-21,11,Azerbaijan,-100
+1788,NA,Mar-21,12,Azerbaijan,-100
+1789,NA,Apr-21,13,Azerbaijan,-100
+1790,NA,May-21,14,Azerbaijan,-100
+1791,NA,Jun-21,15,Azerbaijan,-50
+1792,NA,Jul-21,16,Azerbaijan,-100
+1793,NA,Apr-20,1,Georgia,-100
+1794,NA,May-20,2,Georgia,-100
+1795,NA,Jun-20,3,Georgia,-100
+1796,NA,Jul-20,4,Georgia,-100
+1797,NA,Aug-20,5,Georgia,-66.66666667
+1798,NA,Sep-20,6,Georgia,-100
+1799,NA,Oct-20,7,Georgia,-66.66666667
+1800,NA,Nov-20,8,Georgia,-100
+1801,NA,Dec-20,9,Georgia,-100
+1802,NA,Jan-21,10,Georgia,-66.66666667
+1803,NA,Feb-21,11,Georgia,-100
+1804,NA,Mar-21,12,Georgia,-66.66666667
+1805,NA,Apr-21,13,Georgia,-100
+1806,NA,May-21,14,Georgia,-66.66666667
+1807,NA,Jun-21,15,Georgia,-66.66666667
+1808,NA,Jul-21,16,Georgia,-66.6666667
+1809,NA,Apr-20,1,Kazakhstan,-100
+1810,NA,May-20,2,Kazakhstan,-100
+1811,NA,Jun-20,3,Kazakhstan,-100
+1812,NA,Jul-20,4,Kazakhstan,-88.88888889
+1813,NA,Aug-20,5,Kazakhstan,-100
+1814,NA,Sep-20,6,Kazakhstan,-100
+1815,NA,Oct-20,7,Kazakhstan,-100
+1816,NA,Nov-20,8,Kazakhstan,-100
+1817,NA,Dec-20,9,Kazakhstan,-88.88888889
+1818,NA,Jan-21,10,Kazakhstan,-100
+1819,NA,Feb-21,11,Kazakhstan,-88.88888889
+1820,NA,Mar-21,12,Kazakhstan,-88.88888889
+1821,NA,Apr-21,13,Kazakhstan,-77.77777778
+1822,NA,May-21,14,Kazakhstan,-88.88888889
+1823,NA,Jun-21,15,Kazakhstan,-100
+1824,NA,Jul-21,16,Kazakhstan,-88.8888889
+1825,NA,Apr-20,1,Kyrgyzstan,0
+1826,NA,May-20,2,Kyrgyzstan,0
+1827,NA,Jun-20,3,Kyrgyzstan,0
+1828,NA,Jul-20,4,Kyrgyzstan,0
+1829,NA,Aug-20,5,Kyrgyzstan,0
+1830,NA,Sep-20,6,Kyrgyzstan,0
+1831,NA,Oct-20,7,Kyrgyzstan,0
+1832,NA,Nov-20,8,Kyrgyzstan,0
+1833,NA,Dec-20,9,Kyrgyzstan,0
+1834,NA,Jan-21,10,Kyrgyzstan,0
+1835,NA,Feb-21,11,Kyrgyzstan,0
+1836,NA,Mar-21,12,Kyrgyzstan,0
+1837,NA,Apr-21,13,Kyrgyzstan,0
+1838,NA,May-21,14,Kyrgyzstan,0
+1839,NA,Jun-21,15,Kyrgyzstan,0
+1840,NA,Jul-21,16,Kyrgyzstan,0
+1841,NA,Apr-20,1,Tajikistan,0
+1842,NA,May-20,2,Tajikistan,0
+1843,NA,Jun-20,3,Tajikistan,0
+1844,NA,Jul-20,4,Tajikistan,0
+1845,NA,Aug-20,5,Tajikistan,0
+1846,NA,Sep-20,6,Tajikistan,0
+1847,NA,Oct-20,7,Tajikistan,0
+1848,NA,Nov-20,8,Tajikistan,0
+1849,NA,Dec-20,9,Tajikistan,0
+1850,NA,Jan-21,10,Tajikistan,0
+1851,NA,Feb-21,11,Tajikistan,0
+1852,NA,Mar-21,12,Tajikistan,0
+1853,NA,Apr-21,13,Tajikistan,0
+1854,NA,May-21,14,Tajikistan,0
+1855,NA,Jun-21,15,Tajikistan,0
+1856,NA,Jul-21,16,Tajikistan,0
+1857,NA,Apr-20,1,Turkmenistan,0
+1858,NA,May-20,2,Turkmenistan,0
+1859,NA,Jun-20,3,Turkmenistan,0
+1860,NA,Jul-20,4,Turkmenistan,0
+1861,NA,Aug-20,5,Turkmenistan,0
+1862,NA,Sep-20,6,Turkmenistan,0
+1863,NA,Oct-20,7,Turkmenistan,0
+1864,NA,Nov-20,8,Turkmenistan,0
+1865,NA,Dec-20,9,Turkmenistan,0
+1866,NA,Jan-21,10,Turkmenistan,0
+1867,NA,Feb-21,11,Turkmenistan,0
+1868,NA,Mar-21,12,Turkmenistan,0
+1869,NA,Apr-21,13,Turkmenistan,0
+1870,NA,May-21,14,Turkmenistan,0
+1871,NA,Jun-21,15,Turkmenistan,0
+1872,NA,Jul-21,16,Turkmenistan,0
+1873,NA,Apr-20,1,Uzbekistan,-100
+1874,NA,May-20,2,Uzbekistan,-100
+1875,NA,Jun-20,3,Uzbekistan,-100
+1876,NA,Jul-20,4,Uzbekistan,-100
+1877,NA,Aug-20,5,Uzbekistan,-100
+1878,NA,Sep-20,6,Uzbekistan,-100
+1879,NA,Oct-20,7,Uzbekistan,-100
+1880,NA,Nov-20,8,Uzbekistan,-100
+1881,NA,Dec-20,9,Uzbekistan,-75
+1882,NA,Jan-21,10,Uzbekistan,-100
+1883,NA,Feb-21,11,Uzbekistan,-100
+1884,NA,Mar-21,12,Uzbekistan,-100
+1885,NA,Apr-21,13,Uzbekistan,-100
+1886,NA,May-21,14,Uzbekistan,-75
+1887,NA,Jun-21,15,Uzbekistan,-100
+1888,NA,Jul-21,16,Uzbekistan,-100
+1889,NA,Apr-20,1,Bermuda,0
+1890,NA,May-20,2,Bermuda,0
+1891,NA,Jun-20,3,Bermuda,0
+1892,NA,Jul-20,4,Bermuda,0
+1893,NA,Aug-20,5,Bermuda,0
+1894,NA,Sep-20,6,Bermuda,0
+1895,NA,Oct-20,7,Bermuda,0
+1896,NA,Nov-20,8,Bermuda,0
+1897,NA,Dec-20,9,Bermuda,0
+1898,NA,Jan-21,10,Bermuda,0
+1899,NA,Feb-21,11,Bermuda,0
+1900,NA,Mar-21,12,Bermuda,0
+1901,NA,Apr-21,13,Bermuda,0
+1902,NA,May-21,14,Bermuda,0
+1903,NA,Jun-21,15,Bermuda,0
+1904,NA,Jul-21,16,Bermuda,0
+1905,NA,Apr-20,1,Canada,-99.43609023
+1906,NA,May-20,2,Canada,-99.34210526
+1907,NA,Jun-20,3,Canada,-98.96616541
+1908,NA,Jul-20,4,Canada,-98.77819549
+1909,NA,Aug-20,5,Canada,-99.2481203
+1910,NA,Sep-20,6,Canada,-98.59022556
+1911,NA,Oct-20,7,Canada,-98.02631579
+1912,NA,Nov-20,8,Canada,-97.7443609
+1913,NA,Dec-20,9,Canada,-97.83834586
+1914,NA,Jan-21,10,Canada,-97.46240602
+1915,NA,Feb-21,11,Canada,-98.40225564
+1916,NA,Mar-21,12,Canada,-98.12030075
+1917,NA,Apr-21,13,Canada,-98.02631579
+1918,NA,May-21,14,Canada,-96.89849624
+1919,NA,Jun-21,15,Canada,-96.89849624
+1920,NA,Jul-21,16,Canada,-97.3684211
+1921,NA,Apr-20,1,United States,-99.41894248
+1922,NA,May-20,2,United States,-99.12841371
+1923,NA,Jun-20,3,United States,-98.1696688
+1924,NA,Jul-20,4,United States,-98.46019756
+1925,NA,Aug-20,5,United States,-98.46019756
+1926,NA,Sep-20,6,United States,-98.02440442
+1927,NA,Oct-20,7,United States,-97.93724579
+1928,NA,Nov-20,8,United States,-97.73387565
+1929,NA,Dec-20,9,United States,-97.76292853
+1930,NA,Jan-21,10,United States,-97.38524114
+1931,NA,Feb-21,11,United States,-98.25682743
+1932,NA,Mar-21,12,United States,-96.949448
+1933,NA,Apr-21,13,United States,-97.6757699
+1934,NA,May-21,14,United States,-97.00755375
+1935,NA,Jun-21,15,United States,-95.00290529
+1936,NA,Jul-21,16,United States,-97.5014526
+1937,NA,Apr-20,1,Argentina,-96.1038961
+1938,NA,May-20,2,Argentina,-99.35064935
+1939,NA,Jun-20,3,Argentina,-99.35064935
+1940,NA,Jul-20,4,Argentina,-99.35064935
+1941,NA,Aug-20,5,Argentina,-99.35064935
+1942,NA,Sep-20,6,Argentina,-99.35064935
+1943,NA,Oct-20,7,Argentina,-95.45454545
+1944,NA,Nov-20,8,Argentina,-98.7012987
+1945,NA,Dec-20,9,Argentina,-98.05194805
+1946,NA,Jan-21,10,Argentina,-97.4025974
+1947,NA,Feb-21,11,Argentina,-98.05194805
+1948,NA,Mar-21,12,Argentina,-98.05194805
+1949,NA,Apr-21,13,Argentina,-98.7012987
+1950,NA,May-21,14,Argentina,-98.05194805
+1951,NA,Jun-21,15,Argentina,-97.4025974
+1952,NA,Jul-21,16,Argentina,-96.7532468
+1953,NA,Apr-20,1,Bolivia,-100
+1954,NA,May-20,2,Bolivia,-100
+1955,NA,Jun-20,3,Bolivia,-100
+1956,NA,Jul-20,4,Bolivia,-100
+1957,NA,Aug-20,5,Bolivia,-100
+1958,NA,Sep-20,6,Bolivia,-100
+1959,NA,Oct-20,7,Bolivia,-100
+1960,NA,Nov-20,8,Bolivia,-100
+1961,NA,Dec-20,9,Bolivia,-100
+1962,NA,Jan-21,10,Bolivia,-100
+1963,NA,Feb-21,11,Bolivia,-100
+1964,NA,Mar-21,12,Bolivia,-100
+1965,NA,Apr-21,13,Bolivia,-100
+1966,NA,May-21,14,Bolivia,-100
+1967,NA,Jun-21,15,Bolivia,-100
+1968,NA,Jul-21,16,Bolivia,-100
+1969,NA,Apr-20,1,Brazil,-98.78345499
+1970,NA,May-20,2,Brazil,-99.02676399
+1971,NA,Jun-20,3,Brazil,-96.83698297
+1972,NA,Jul-20,4,Brazil,-99.27007299
+1973,NA,Aug-20,5,Brazil,-99.513382
+1974,NA,Sep-20,6,Brazil,-99.27007299
+1975,NA,Oct-20,7,Brazil,-98.54014599
+1976,NA,Nov-20,8,Brazil,-98.54014599
+1977,NA,Dec-20,9,Brazil,-98.78345499
+1978,NA,Jan-21,10,Brazil,-98.05352798
+1979,NA,Feb-21,11,Brazil,-98.78345499
+1980,NA,Mar-21,12,Brazil,-98.05352798
+1981,NA,Apr-21,13,Brazil,-98.29683698
+1982,NA,May-21,14,Brazil,-96.83698297
+1983,NA,Jun-21,15,Brazil,-96.83698297
+1984,NA,Jul-21,16,Brazil,-97.810219
+1985,NA,Apr-20,1,Chile,-98.52216749
+1986,NA,May-20,2,Chile,-99.50738916
+1987,NA,Jun-20,3,Chile,-99.50738916
+1988,NA,Jul-20,4,Chile,-100
+1989,NA,Aug-20,5,Chile,-99.50738916
+1990,NA,Sep-20,6,Chile,-100
+1991,NA,Oct-20,7,Chile,-99.50738916
+1992,NA,Nov-20,8,Chile,-99.01477833
+1993,NA,Dec-20,9,Chile,-98.02955665
+1994,NA,Jan-21,10,Chile,-99.01477833
+1995,NA,Feb-21,11,Chile,-98.02955665
+1996,NA,Mar-21,12,Chile,-99.50738916
+1997,NA,Apr-21,13,Chile,-99.01477833
+1998,NA,May-21,14,Chile,-98.52216749
+1999,NA,Jun-21,15,Chile,-98.02955665
+2000,NA,Jul-21,16,Chile,-98.0295567
+2001,NA,Apr-20,1,Colombia,-98.87640449
+2002,NA,May-20,2,Colombia,-99.43820225
+2003,NA,Jun-20,3,Colombia,-98.31460674
+2004,NA,Jul-20,4,Colombia,-100
+2005,NA,Aug-20,5,Colombia,-99.43820225
+2006,NA,Sep-20,6,Colombia,-99.43820225
+2007,NA,Oct-20,7,Colombia,-98.87640449
+2008,NA,Nov-20,8,Colombia,-98.87640449
+2009,NA,Dec-20,9,Colombia,-98.31460674
+2010,NA,Jan-21,10,Colombia,-98.87640449
+2011,NA,Feb-21,11,Colombia,-98.87640449
+2012,NA,Mar-21,12,Colombia,-98.31460674
+2013,NA,Apr-21,13,Colombia,-98.87640449
+2014,NA,May-21,14,Colombia,-98.31460674
+2015,NA,Jun-21,15,Colombia,-97.75280899
+2016,NA,Jul-21,16,Colombia,-97.752809
+2017,NA,Apr-20,1,Ecuador,-100
+2018,NA,May-20,2,Ecuador,-100
+2019,NA,Jun-20,3,Ecuador,-100
+2020,NA,Jul-20,4,Ecuador,-100
+2021,NA,Aug-20,5,Ecuador,-100
+2022,NA,Sep-20,6,Ecuador,-100
+2023,NA,Oct-20,7,Ecuador,-100
+2024,NA,Nov-20,8,Ecuador,-100
+2025,NA,Dec-20,9,Ecuador,-90
+2026,NA,Jan-21,10,Ecuador,-100
+2027,NA,Feb-21,11,Ecuador,-100
+2028,NA,Mar-21,12,Ecuador,-100
+2029,NA,Apr-21,13,Ecuador,-90
+2030,NA,May-21,14,Ecuador,-100
+2031,NA,Jun-21,15,Ecuador,-100
+2032,NA,Jul-21,16,Ecuador,-100
+2033,NA,Apr-20,1,French Guiana,0
+2034,NA,May-20,2,French Guiana,0
+2035,NA,Jun-20,3,French Guiana,0
+2036,NA,Jul-20,4,French Guiana,0
+2037,NA,Aug-20,5,French Guiana,0
+2038,NA,Sep-20,6,French Guiana,0
+2039,NA,Oct-20,7,French Guiana,0
+2040,NA,Nov-20,8,French Guiana,0
+2041,NA,Dec-20,9,French Guiana,0
+2042,NA,Jan-21,10,French Guiana,0
+2043,NA,Feb-21,11,French Guiana,0
+2044,NA,Mar-21,12,French Guiana,0
+2045,NA,Apr-21,13,French Guiana,0
+2046,NA,May-21,14,French Guiana,0
+2047,NA,Jun-21,15,French Guiana,0
+2048,NA,Jul-21,16,French Guiana,0
+2049,NA,Apr-20,1,Guyana,0
+2050,NA,May-20,2,Guyana,0
+2051,NA,Jun-20,3,Guyana,0
+2052,NA,Jul-20,4,Guyana,0
+2053,NA,Aug-20,5,Guyana,0
+2054,NA,Sep-20,6,Guyana,0
+2055,NA,Oct-20,7,Guyana,0
+2056,NA,Nov-20,8,Guyana,0
+2057,NA,Dec-20,9,Guyana,0
+2058,NA,Jan-21,10,Guyana,0
+2059,NA,Feb-21,11,Guyana,0
+2060,NA,Mar-21,12,Guyana,0
+2061,NA,Apr-21,13,Guyana,0
+2062,NA,May-21,14,Guyana,0
+2063,NA,Jun-21,15,Guyana,0
+2064,NA,Jul-21,16,Guyana,0
+2065,NA,Apr-20,1,Paraguay,-100
+2066,NA,May-20,2,Paraguay,-100
+2067,NA,Jun-20,3,Paraguay,-100
+2068,NA,Jul-20,4,Paraguay,-100
+2069,NA,Aug-20,5,Paraguay,-100
+2070,NA,Sep-20,6,Paraguay,-100
+2071,NA,Oct-20,7,Paraguay,-100
+2072,NA,Nov-20,8,Paraguay,-100
+2073,NA,Dec-20,9,Paraguay,-100
+2074,NA,Jan-21,10,Paraguay,-100
+2075,NA,Feb-21,11,Paraguay,-100
+2076,NA,Mar-21,12,Paraguay,-100
+2077,NA,Apr-21,13,Paraguay,-100
+2078,NA,May-21,14,Paraguay,-100
+2079,NA,Jun-21,15,Paraguay,-100
+2080,NA,Jul-21,16,Paraguay,-100
+2081,NA,Apr-20,1,Peru,-88.57142857
+2082,NA,May-20,2,Peru,-100
+2083,NA,Jun-20,3,Peru,-91.42857143
+2084,NA,Jul-20,4,Peru,-100
+2085,NA,Aug-20,5,Peru,-100
+2086,NA,Sep-20,6,Peru,-100
+2087,NA,Oct-20,7,Peru,-97.14285714
+2088,NA,Nov-20,8,Peru,-97.14285714
+2089,NA,Dec-20,9,Peru,-97.14285714
+2090,NA,Jan-21,10,Peru,-97.14285714
+2091,NA,Feb-21,11,Peru,-97.14285714
+2092,NA,Mar-21,12,Peru,-97.14285714
+2093,NA,Apr-21,13,Peru,-97.14285714
+2094,NA,May-21,14,Peru,-97.14285714
+2095,NA,Jun-21,15,Peru,-97.14285714
+2096,NA,Jul-21,16,Peru,-97.1428571
+2097,NA,Apr-20,1,Suriname,0
+2098,NA,May-20,2,Suriname,0
+2099,NA,Jun-20,3,Suriname,0
+2100,NA,Jul-20,4,Suriname,0
+2101,NA,Aug-20,5,Suriname,0
+2102,NA,Sep-20,6,Suriname,0
+2103,NA,Oct-20,7,Suriname,0
+2104,NA,Nov-20,8,Suriname,0
+2105,NA,Dec-20,9,Suriname,0
+2106,NA,Jan-21,10,Suriname,0
+2107,NA,Feb-21,11,Suriname,0
+2108,NA,Mar-21,12,Suriname,0
+2109,NA,Apr-21,13,Suriname,0
+2110,NA,May-21,14,Suriname,0
+2111,NA,Jun-21,15,Suriname,0
+2112,NA,Jul-21,16,Suriname,0
+2113,NA,Apr-20,1,Uruguay,-97.14285714
+2114,NA,May-20,2,Uruguay,-100
+2115,NA,Jun-20,3,Uruguay,-100
+2116,NA,Jul-20,4,Uruguay,-100
+2117,NA,Aug-20,5,Uruguay,-100
+2118,NA,Sep-20,6,Uruguay,-100
+2119,NA,Oct-20,7,Uruguay,-100
+2120,NA,Nov-20,8,Uruguay,-97.14285714
+2121,NA,Dec-20,9,Uruguay,-100
+2122,NA,Jan-21,10,Uruguay,-100
+2123,NA,Feb-21,11,Uruguay,-100
+2124,NA,Mar-21,12,Uruguay,-100
+2125,NA,Apr-21,13,Uruguay,-100
+2126,NA,May-21,14,Uruguay,-97.14285714
+2127,NA,Jun-21,15,Uruguay,-97.14285714
+2128,NA,Jul-21,16,Uruguay,-100
+2129,NA,Apr-20,1,Venezuela,-100
+2130,NA,May-20,2,Venezuela,-100
+2131,NA,Jun-20,3,Venezuela,-100
+2132,NA,Jul-20,4,Venezuela,-100
+2133,NA,Aug-20,5,Venezuela,-91.66666667
+2134,NA,Sep-20,6,Venezuela,-100
+2135,NA,Oct-20,7,Venezuela,-100
+2136,NA,Nov-20,8,Venezuela,-91.66666667
+2137,NA,Dec-20,9,Venezuela,-83.33333333
+2138,NA,Jan-21,10,Venezuela,-100
+2139,NA,Feb-21,11,Venezuela,-91.66666667
+2140,NA,Mar-21,12,Venezuela,-100
+2141,NA,Apr-21,13,Venezuela,-100
+2142,NA,May-21,14,Venezuela,-75
+2143,NA,Jun-21,15,Venezuela,-91.66666667
+2144,NA,Jul-21,16,Venezuela,-91.6666667
+2145,NA,Apr-20,1,Belize,0
+2146,NA,May-20,2,Belize,0
+2147,NA,Jun-20,3,Belize,0
+2148,NA,Jul-20,4,Belize,0
+2149,NA,Aug-20,5,Belize,0
+2150,NA,Sep-20,6,Belize,0
+2151,NA,Oct-20,7,Belize,0
+2152,NA,Nov-20,8,Belize,0
+2153,NA,Dec-20,9,Belize,0
+2154,NA,Jan-21,10,Belize,0
+2155,NA,Feb-21,11,Belize,0
+2156,NA,Mar-21,12,Belize,0
+2157,NA,Apr-21,13,Belize,0
+2158,NA,May-21,14,Belize,0
+2159,NA,Jun-21,15,Belize,0
+2160,NA,Jul-21,16,Belize,0
+2161,NA,Apr-20,1,Costa Rica,-100
+2162,NA,May-20,2,Costa Rica,-100
+2163,NA,Jun-20,3,Costa Rica,-100
+2164,NA,Jul-20,4,Costa Rica,-100
+2165,NA,Aug-20,5,Costa Rica,-100
+2166,NA,Sep-20,6,Costa Rica,-100
+2167,NA,Oct-20,7,Costa Rica,-100
+2168,NA,Nov-20,8,Costa Rica,-100
+2169,NA,Dec-20,9,Costa Rica,-50
+2170,NA,Jan-21,10,Costa Rica,-50
+2171,NA,Feb-21,11,Costa Rica,-100
+2172,NA,Mar-21,12,Costa Rica,-100
+2173,NA,Apr-21,13,Costa Rica,-100
+2174,NA,May-21,14,Costa Rica,-100
+2175,NA,Jun-21,15,Costa Rica,-100
+2176,NA,Jul-21,16,Costa Rica,-50
+2177,NA,Apr-20,1,El Salvador,-100
+2178,NA,May-20,2,El Salvador,-100
+2179,NA,Jun-20,3,El Salvador,-100
+2180,NA,Jul-20,4,El Salvador,-100
+2181,NA,Aug-20,5,El Salvador,-100
+2182,NA,Sep-20,6,El Salvador,-100
+2183,NA,Oct-20,7,El Salvador,-100
+2184,NA,Nov-20,8,El Salvador,-100
+2185,NA,Dec-20,9,El Salvador,-75
+2186,NA,Jan-21,10,El Salvador,-100
+2187,NA,Feb-21,11,El Salvador,-100
+2188,NA,Mar-21,12,El Salvador,-75
+2189,NA,Apr-21,13,El Salvador,-100
+2190,NA,May-21,14,El Salvador,-100
+2191,NA,Jun-21,15,El Salvador,-100
+2192,NA,Jul-21,16,El Salvador,-100
+2193,NA,Apr-20,1,Guatemala,-100
+2194,NA,May-20,2,Guatemala,-100
+2195,NA,Jun-20,3,Guatemala,-100
+2196,NA,Jul-20,4,Guatemala,-100
+2197,NA,Aug-20,5,Guatemala,-100
+2198,NA,Sep-20,6,Guatemala,-100
+2199,NA,Oct-20,7,Guatemala,-100
+2200,NA,Nov-20,8,Guatemala,-100
+2201,NA,Dec-20,9,Guatemala,-66.66666667
+2202,NA,Jan-21,10,Guatemala,-66.66666667
+2203,NA,Feb-21,11,Guatemala,-100
+2204,NA,Mar-21,12,Guatemala,-100
+2205,NA,Apr-21,13,Guatemala,-100
+2206,NA,May-21,14,Guatemala,-100
+2207,NA,Jun-21,15,Guatemala,-100
+2208,NA,Jul-21,16,Guatemala,-100
+2209,NA,Apr-20,1,Honduras,-100
+2210,NA,May-20,2,Honduras,-100
+2211,NA,Jun-20,3,Honduras,-100
+2212,NA,Jul-20,4,Honduras,-100
+2213,NA,Aug-20,5,Honduras,-100
+2214,NA,Sep-20,6,Honduras,-100
+2215,NA,Oct-20,7,Honduras,0
+2216,NA,Nov-20,8,Honduras,-100
+2217,NA,Dec-20,9,Honduras,0
+2218,NA,Jan-21,10,Honduras,-100
+2219,NA,Feb-21,11,Honduras,-100
+2220,NA,Mar-21,12,Honduras,-100
+2221,NA,Apr-21,13,Honduras,-100
+2222,NA,May-21,14,Honduras,-100
+2223,NA,Jun-21,15,Honduras,0
+2224,NA,Jul-21,16,Honduras,-100
+2225,NA,Apr-20,1,Mexico,-98.48484848
+2226,NA,May-20,2,Mexico,-98.48484848
+2227,NA,Jun-20,3,Mexico,-96.96969697
+2228,NA,Jul-20,4,Mexico,-98.48484848
+2229,NA,Aug-20,5,Mexico,-98.48484848
+2230,NA,Sep-20,6,Mexico,-98.48484848
+2231,NA,Oct-20,7,Mexico,-98.48484848
+2232,NA,Nov-20,8,Mexico,-98.48484848
+2233,NA,Dec-20,9,Mexico,-98.48484848
+2234,NA,Jan-21,10,Mexico,-96.96969697
+2235,NA,Feb-21,11,Mexico,-98.48484848
+2236,NA,Mar-21,12,Mexico,-95.45454545
+2237,NA,Apr-21,13,Mexico,-96.96969697
+2238,NA,May-21,14,Mexico,-93.93939394
+2239,NA,Jun-21,15,Mexico,-95.45454545
+2240,NA,Jul-21,16,Mexico,-96.969697
+2241,NA,Apr-20,1,Nicaragua,-100
+2242,NA,May-20,2,Nicaragua,-100
+2243,NA,Jun-20,3,Nicaragua,-100
+2244,NA,Jul-20,4,Nicaragua,-100
+2245,NA,Aug-20,5,Nicaragua,-100
+2246,NA,Sep-20,6,Nicaragua,-100
+2247,NA,Oct-20,7,Nicaragua,-100
+2248,NA,Nov-20,8,Nicaragua,-100
+2249,NA,Dec-20,9,Nicaragua,-100
+2250,NA,Jan-21,10,Nicaragua,-100
+2251,NA,Feb-21,11,Nicaragua,-100
+2252,NA,Mar-21,12,Nicaragua,-100
+2253,NA,Apr-21,13,Nicaragua,-100
+2254,NA,May-21,14,Nicaragua,-100
+2255,NA,Jun-21,15,Nicaragua,-100
+2256,NA,Jul-21,16,Nicaragua,-100
+2257,NA,Apr-20,1,Panama,-100
+2258,NA,May-20,2,Panama,-100
+2259,NA,Jun-20,3,Panama,-100
+2260,NA,Jul-20,4,Panama,-100
+2261,NA,Aug-20,5,Panama,-100
+2262,NA,Sep-20,6,Panama,-100
+2263,NA,Oct-20,7,Panama,-100
+2264,NA,Nov-20,8,Panama,-100
+2265,NA,Dec-20,9,Panama,-100
+2266,NA,Jan-21,10,Panama,-100
+2267,NA,Feb-21,11,Panama,-100
+2268,NA,Mar-21,12,Panama,-100
+2269,NA,Apr-21,13,Panama,-100
+2270,NA,May-21,14,Panama,-100
+2271,NA,Jun-21,15,Panama,-100
+2272,NA,Jul-21,16,Panama,-100
+2273,NA,Apr-20,1,Antigua/Barbuda,0
+2274,NA,May-20,2,Antigua/Barbuda,0
+2275,NA,Jun-20,3,Antigua/Barbuda,0
+2276,NA,Jul-20,4,Antigua/Barbuda,0
+2277,NA,Aug-20,5,Antigua/Barbuda,0
+2278,NA,Sep-20,6,Antigua/Barbuda,0
+2279,NA,Oct-20,7,Antigua/Barbuda,0
+2280,NA,Nov-20,8,Antigua/Barbuda,0
+2281,NA,Dec-20,9,Antigua/Barbuda,0
+2282,NA,Jan-21,10,Antigua/Barbuda,0
+2283,NA,Feb-21,11,Antigua/Barbuda,0
+2284,NA,Mar-21,12,Antigua/Barbuda,0
+2285,NA,Apr-21,13,Antigua/Barbuda,0
+2286,NA,May-21,14,Antigua/Barbuda,0
+2287,NA,Jun-21,15,Antigua/Barbuda,0
+2288,NA,Jul-21,16,Antigua/Barbuda,0
+2289,NA,Apr-20,1,Bahamas,-100
+2290,NA,May-20,2,Bahamas,-100
+2291,NA,Jun-20,3,Bahamas,-100
+2292,NA,Jul-20,4,Bahamas,-100
+2293,NA,Aug-20,5,Bahamas,-100
+2294,NA,Sep-20,6,Bahamas,-100
+2295,NA,Oct-20,7,Bahamas,-100
+2296,NA,Nov-20,8,Bahamas,-100
+2297,NA,Dec-20,9,Bahamas,-100
+2298,NA,Jan-21,10,Bahamas,-100
+2299,NA,Feb-21,11,Bahamas,-100
+2300,NA,Mar-21,12,Bahamas,-100
+2301,NA,Apr-21,13,Bahamas,-100
+2302,NA,May-21,14,Bahamas,-100
+2303,NA,Jun-21,15,Bahamas,-100
+2304,NA,Jul-21,16,Bahamas,-100
+2305,NA,Apr-20,1,Barbados,-100
+2306,NA,May-20,2,Barbados,-100
+2307,NA,Jun-20,3,Barbados,-100
+2308,NA,Jul-20,4,Barbados,-100
+2309,NA,Aug-20,5,Barbados,-100
+2310,NA,Sep-20,6,Barbados,-100
+2311,NA,Oct-20,7,Barbados,-100
+2312,NA,Nov-20,8,Barbados,-100
+2313,NA,Dec-20,9,Barbados,-100
+2314,NA,Jan-21,10,Barbados,-100
+2315,NA,Feb-21,11,Barbados,-100
+2316,NA,Mar-21,12,Barbados,-100
+2317,NA,Apr-21,13,Barbados,-100
+2318,NA,May-21,14,Barbados,-100
+2319,NA,Jun-21,15,Barbados,-100
+2320,NA,Jul-21,16,Barbados,-100
+2321,NA,Apr-20,1,Cayman Islands,0
+2322,NA,May-20,2,Cayman Islands,0
+2323,NA,Jun-20,3,Cayman Islands,0
+2324,NA,Jul-20,4,Cayman Islands,0
+2325,NA,Aug-20,5,Cayman Islands,0
+2326,NA,Sep-20,6,Cayman Islands,0
+2327,NA,Oct-20,7,Cayman Islands,0
+2328,NA,Nov-20,8,Cayman Islands,0
+2329,NA,Dec-20,9,Cayman Islands,0
+2330,NA,Jan-21,10,Cayman Islands,0
+2331,NA,Feb-21,11,Cayman Islands,0
+2332,NA,Mar-21,12,Cayman Islands,0
+2333,NA,Apr-21,13,Cayman Islands,0
+2334,NA,May-21,14,Cayman Islands,0
+2335,NA,Jun-21,15,Cayman Islands,0
+2336,NA,Jul-21,16,Cayman Islands,0
+2337,NA,Apr-20,1,Cuba,-100
+2338,NA,May-20,2,Cuba,-100
+2339,NA,Jun-20,3,Cuba,-100
+2340,NA,Jul-20,4,Cuba,-100
+2341,NA,Aug-20,5,Cuba,-100
+2342,NA,Sep-20,6,Cuba,-100
+2343,NA,Oct-20,7,Cuba,-100
+2344,NA,Nov-20,8,Cuba,-100
+2345,NA,Dec-20,9,Cuba,-100
+2346,NA,Jan-21,10,Cuba,-100
+2347,NA,Feb-21,11,Cuba,-100
+2348,NA,Mar-21,12,Cuba,-100
+2349,NA,Apr-21,13,Cuba,-100
+2350,NA,May-21,14,Cuba,-100
+2351,NA,Jun-21,15,Cuba,-100
+2352,NA,Jul-21,16,Cuba,-100
+2353,NA,Apr-20,1,Dominica,-100
+2354,NA,May-20,2,Dominica,-100
+2355,NA,Jun-20,3,Dominica,-100
+2356,NA,Jul-20,4,Dominica,-100
+2357,NA,Aug-20,5,Dominica,-100
+2358,NA,Sep-20,6,Dominica,-100
+2359,NA,Oct-20,7,Dominica,-100
+2360,NA,Nov-20,8,Dominica,-100
+2361,NA,Dec-20,9,Dominica,-100
+2362,NA,Jan-21,10,Dominica,-100
+2363,NA,Feb-21,11,Dominica,-100
+2364,NA,Mar-21,12,Dominica,-100
+2365,NA,Apr-21,13,Dominica,-100
+2366,NA,May-21,14,Dominica,-100
+2367,NA,Jun-21,15,Dominica,-100
+2368,NA,Jul-21,16,Dominica,-100
+2369,NA,Apr-20,1,Dominican Rep,-100
+2370,NA,May-20,2,Dominican Rep,-100
+2371,NA,Jun-20,3,Dominican Rep,-100
+2372,NA,Jul-20,4,Dominican Rep,-100
+2373,NA,Aug-20,5,Dominican Rep,-100
+2374,NA,Sep-20,6,Dominican Rep,-100
+2375,NA,Oct-20,7,Dominican Rep,-100
+2376,NA,Nov-20,8,Dominican Rep,-100
+2377,NA,Dec-20,9,Dominican Rep,-100
+2378,NA,Jan-21,10,Dominican Rep,-100
+2379,NA,Feb-21,11,Dominican Rep,-100
+2380,NA,Mar-21,12,Dominican Rep,-100
+2381,NA,Apr-21,13,Dominican Rep,-100
+2382,NA,May-21,14,Dominican Rep,-100
+2383,NA,Jun-21,15,Dominican Rep,-100
+2384,NA,Jul-21,16,Dominican Rep,-100
+2385,NA,Apr-20,1,Grenada,0
+2386,NA,May-20,2,Grenada,0
+2387,NA,Jun-20,3,Grenada,0
+2388,NA,Jul-20,4,Grenada,0
+2389,NA,Aug-20,5,Grenada,0
+2390,NA,Sep-20,6,Grenada,0
+2391,NA,Oct-20,7,Grenada,0
+2392,NA,Nov-20,8,Grenada,0
+2393,NA,Dec-20,9,Grenada,0
+2394,NA,Jan-21,10,Grenada,0
+2395,NA,Feb-21,11,Grenada,0
+2396,NA,Mar-21,12,Grenada,0
+2397,NA,Apr-21,13,Grenada,0
+2398,NA,May-21,14,Grenada,0
+2399,NA,Jun-21,15,Grenada,0
+2400,NA,Jul-21,16,Grenada,0
+2401,NA,Apr-20,1,Haiti,0
+2402,NA,May-20,2,Haiti,0
+2403,NA,Jun-20,3,Haiti,0
+2404,NA,Jul-20,4,Haiti,0
+2405,NA,Aug-20,5,Haiti,0
+2406,NA,Sep-20,6,Haiti,0
+2407,NA,Oct-20,7,Haiti,0
+2408,NA,Nov-20,8,Haiti,0
+2409,NA,Dec-20,9,Haiti,0
+2410,NA,Jan-21,10,Haiti,0
+2411,NA,Feb-21,11,Haiti,0
+2412,NA,Mar-21,12,Haiti,0
+2413,NA,Apr-21,13,Haiti,0
+2414,NA,May-21,14,Haiti,0
+2415,NA,Jun-21,15,Haiti,0
+2416,NA,Jul-21,16,Haiti,0
+2417,NA,Apr-20,1,Jamaica,-100
+2418,NA,May-20,2,Jamaica,-100
+2419,NA,Jun-20,3,Jamaica,-100
+2420,NA,Jul-20,4,Jamaica,-100
+2421,NA,Aug-20,5,Jamaica,-100
+2422,NA,Sep-20,6,Jamaica,-100
+2423,NA,Oct-20,7,Jamaica,-100
+2424,NA,Nov-20,8,Jamaica,-50
+2425,NA,Dec-20,9,Jamaica,-100
+2426,NA,Jan-21,10,Jamaica,-50
+2427,NA,Feb-21,11,Jamaica,-100
+2428,NA,Mar-21,12,Jamaica,-100
+2429,NA,Apr-21,13,Jamaica,-50
+2430,NA,May-21,14,Jamaica,-100
+2431,NA,Jun-21,15,Jamaica,-100
+2432,NA,Jul-21,16,Jamaica,-100
+2433,NA,Apr-20,1,St Kitts/Nevis,0
+2434,NA,May-20,2,St Kitts/Nevis,0
+2435,NA,Jun-20,3,St Kitts/Nevis,0
+2436,NA,Jul-20,4,St Kitts/Nevis,0
+2437,NA,Aug-20,5,St Kitts/Nevis,0
+2438,NA,Sep-20,6,St Kitts/Nevis,0
+2439,NA,Oct-20,7,St Kitts/Nevis,0
+2440,NA,Nov-20,8,St Kitts/Nevis,0
+2441,NA,Dec-20,9,St Kitts/Nevis,0
+2442,NA,Jan-21,10,St Kitts/Nevis,0
+2443,NA,Feb-21,11,St Kitts/Nevis,0
+2444,NA,Mar-21,12,St Kitts/Nevis,0
+2445,NA,Apr-21,13,St Kitts/Nevis,0
+2446,NA,May-21,14,St Kitts/Nevis,0
+2447,NA,Jun-21,15,St Kitts/Nevis,0
+2448,NA,Jul-21,16,St Kitts/Nevis,0
+2449,NA,Apr-20,1,St Lucia,0
+2450,NA,May-20,2,St Lucia,0
+2451,NA,Jun-20,3,St Lucia,0
+2452,NA,Jul-20,4,St Lucia,0
+2453,NA,Aug-20,5,St Lucia,0
+2454,NA,Sep-20,6,St Lucia,0
+2455,NA,Oct-20,7,St Lucia,0
+2456,NA,Nov-20,8,St Lucia,0
+2457,NA,Dec-20,9,St Lucia,0
+2458,NA,Jan-21,10,St Lucia,0
+2459,NA,Feb-21,11,St Lucia,0
+2460,NA,Mar-21,12,St Lucia,0
+2461,NA,Apr-21,13,St Lucia,0
+2462,NA,May-21,14,St Lucia,0
+2463,NA,Jun-21,15,St Lucia,0
+2464,NA,Jul-21,16,St Lucia,0
+2465,NA,Apr-20,1,St Vinc/Grenad,0
+2466,NA,May-20,2,St Vinc/Grenad,0
+2467,NA,Jun-20,3,St Vinc/Grenad,0
+2468,NA,Jul-20,4,St Vinc/Grenad,0
+2469,NA,Aug-20,5,St Vinc/Grenad,0
+2470,NA,Sep-20,6,St Vinc/Grenad,0
+2471,NA,Oct-20,7,St Vinc/Grenad,0
+2472,NA,Nov-20,8,St Vinc/Grenad,0
+2473,NA,Dec-20,9,St Vinc/Grenad,0
+2474,NA,Jan-21,10,St Vinc/Grenad,0
+2475,NA,Feb-21,11,St Vinc/Grenad,0
+2476,NA,Mar-21,12,St Vinc/Grenad,0
+2477,NA,Apr-21,13,St Vinc/Grenad,0
+2478,NA,May-21,14,St Vinc/Grenad,0
+2479,NA,Jun-21,15,St Vinc/Grenad,0
+2480,NA,Jul-21,16,St Vinc/Grenad,0
+2481,NA,Apr-20,1,Trinidad/Tobago,-100
+2482,NA,May-20,2,Trinidad/Tobago,-100
+2483,NA,Jun-20,3,Trinidad/Tobago,-100
+2484,NA,Jul-20,4,Trinidad/Tobago,-100
+2485,NA,Aug-20,5,Trinidad/Tobago,-100
+2486,NA,Sep-20,6,Trinidad/Tobago,-100
+2487,NA,Oct-20,7,Trinidad/Tobago,-100
+2488,NA,Nov-20,8,Trinidad/Tobago,-100
+2489,NA,Dec-20,9,Trinidad/Tobago,-100
+2490,NA,Jan-21,10,Trinidad/Tobago,-100
+2491,NA,Feb-21,11,Trinidad/Tobago,-100
+2492,NA,Mar-21,12,Trinidad/Tobago,-100
+2493,NA,Apr-21,13,Trinidad/Tobago,-100
+2494,NA,May-21,14,Trinidad/Tobago,-100
+2495,NA,Jun-21,15,Trinidad/Tobago,-100
+2496,NA,Jul-21,16,Trinidad/Tobago,-100
+2497,NA,Apr-20,1,"Virgin Is, Brit",0
+2498,NA,May-20,2,"Virgin Is, Brit",0
+2499,NA,Jun-20,3,"Virgin Is, Brit",0
+2500,NA,Jul-20,4,"Virgin Is, Brit",0
+2501,NA,Aug-20,5,"Virgin Is, Brit",0
+2502,NA,Sep-20,6,"Virgin Is, Brit",0
+2503,NA,Oct-20,7,"Virgin Is, Brit",0
+2504,NA,Nov-20,8,"Virgin Is, Brit",0
+2505,NA,Dec-20,9,"Virgin Is, Brit",0
+2506,NA,Jan-21,10,"Virgin Is, Brit",0
+2507,NA,Feb-21,11,"Virgin Is, Brit",0
+2508,NA,Mar-21,12,"Virgin Is, Brit",0
+2509,NA,Apr-21,13,"Virgin Is, Brit",0
+2510,NA,May-21,14,"Virgin Is, Brit",0
+2511,NA,Jun-21,15,"Virgin Is, Brit",0
+2512,NA,Jul-21,16,"Virgin Is, Brit",0
+2513,NA,Apr-20,1,Benin,0
+2514,NA,May-20,2,Benin,0
+2515,NA,Jun-20,3,Benin,0
+2516,NA,Jul-20,4,Benin,0
+2517,NA,Aug-20,5,Benin,0
+2518,NA,Sep-20,6,Benin,0
+2519,NA,Oct-20,7,Benin,0
+2520,NA,Nov-20,8,Benin,0
+2521,NA,Dec-20,9,Benin,0
+2522,NA,Jan-21,10,Benin,0
+2523,NA,Feb-21,11,Benin,0
+2524,NA,Mar-21,12,Benin,0
+2525,NA,Apr-21,13,Benin,0
+2526,NA,May-21,14,Benin,0
+2527,NA,Jun-21,15,Benin,0
+2528,NA,Jul-21,16,Benin,0
+2529,NA,Apr-20,1,Burkina Faso,0
+2530,NA,May-20,2,Burkina Faso,0
+2531,NA,Jun-20,3,Burkina Faso,0
+2532,NA,Jul-20,4,Burkina Faso,0
+2533,NA,Aug-20,5,Burkina Faso,0
+2534,NA,Sep-20,6,Burkina Faso,0
+2535,NA,Oct-20,7,Burkina Faso,0
+2536,NA,Nov-20,8,Burkina Faso,0
+2537,NA,Dec-20,9,Burkina Faso,0
+2538,NA,Jan-21,10,Burkina Faso,0
+2539,NA,Feb-21,11,Burkina Faso,0
+2540,NA,Mar-21,12,Burkina Faso,0
+2541,NA,Apr-21,13,Burkina Faso,0
+2542,NA,May-21,14,Burkina Faso,0
+2543,NA,Jun-21,15,Burkina Faso,0
+2544,NA,Jul-21,16,Burkina Faso,0
+2545,NA,Apr-20,1,Cameroon,-100
+2546,NA,May-20,2,Cameroon,-100
+2547,NA,Jun-20,3,Cameroon,-100
+2548,NA,Jul-20,4,Cameroon,-100
+2549,NA,Aug-20,5,Cameroon,-100
+2550,NA,Sep-20,6,Cameroon,-100
+2551,NA,Oct-20,7,Cameroon,-100
+2552,NA,Nov-20,8,Cameroon,-100
+2553,NA,Dec-20,9,Cameroon,-100
+2554,NA,Jan-21,10,Cameroon,-100
+2555,NA,Feb-21,11,Cameroon,-100
+2556,NA,Mar-21,12,Cameroon,-100
+2557,NA,Apr-21,13,Cameroon,-100
+2558,NA,May-21,14,Cameroon,-100
+2559,NA,Jun-21,15,Cameroon,-100
+2560,NA,Jul-21,16,Cameroon,-100
+2561,NA,Apr-20,1,Cabo Verde,0
+2562,NA,May-20,2,Cabo Verde,0
+2563,NA,Jun-20,3,Cabo Verde,0
+2564,NA,Jul-20,4,Cabo Verde,0
+2565,NA,Aug-20,5,Cabo Verde,0
+2566,NA,Sep-20,6,Cabo Verde,0
+2567,NA,Oct-20,7,Cabo Verde,0
+2568,NA,Nov-20,8,Cabo Verde,0
+2569,NA,Dec-20,9,Cabo Verde,0
+2570,NA,Jan-21,10,Cabo Verde,0
+2571,NA,Feb-21,11,Cabo Verde,0
+2572,NA,Mar-21,12,Cabo Verde,0
+2573,NA,Apr-21,13,Cabo Verde,0
+2574,NA,May-21,14,Cabo Verde,0
+2575,NA,Jun-21,15,Cabo Verde,0
+2576,NA,Jul-21,16,Cabo Verde,0
+2577,NA,Apr-20,1,Central African Rep.,0
+2578,NA,May-20,2,Central African Rep.,0
+2579,NA,Jun-20,3,Central African Rep.,0
+2580,NA,Jul-20,4,Central African Rep.,0
+2581,NA,Aug-20,5,Central African Rep.,0
+2582,NA,Sep-20,6,Central African Rep.,0
+2583,NA,Oct-20,7,Central African Rep.,0
+2584,NA,Nov-20,8,Central African Rep.,0
+2585,NA,Dec-20,9,Central African Rep.,0
+2586,NA,Jan-21,10,Central African Rep.,0
+2587,NA,Feb-21,11,Central African Rep.,0
+2588,NA,Mar-21,12,Central African Rep.,0
+2589,NA,Apr-21,13,Central African Rep.,0
+2590,NA,May-21,14,Central African Rep.,0
+2591,NA,Jun-21,15,Central African Rep.,0
+2592,NA,Jul-21,16,Central African Rep.,0
+2593,NA,Apr-20,1,Chad,0
+2594,NA,May-20,2,Chad,0
+2595,NA,Jun-20,3,Chad,0
+2596,NA,Jul-20,4,Chad,0
+2597,NA,Aug-20,5,Chad,0
+2598,NA,Sep-20,6,Chad,0
+2599,NA,Oct-20,7,Chad,0
+2600,NA,Nov-20,8,Chad,0
+2601,NA,Dec-20,9,Chad,0
+2602,NA,Jan-21,10,Chad,0
+2603,NA,Feb-21,11,Chad,0
+2604,NA,Mar-21,12,Chad,0
+2605,NA,Apr-21,13,Chad,0
+2606,NA,May-21,14,Chad,0
+2607,NA,Jun-21,15,Chad,0
+2608,NA,Jul-21,16,Chad,0
+2609,NA,Apr-20,1,Congo,0
+2610,NA,May-20,2,Congo,0
+2611,NA,Jun-20,3,Congo,0
+2612,NA,Jul-20,4,Congo,0
+2613,NA,Aug-20,5,Congo,0
+2614,NA,Sep-20,6,Congo,0
+2615,NA,Oct-20,7,Congo,0
+2616,NA,Nov-20,8,Congo,0
+2617,NA,Dec-20,9,Congo,0
+2618,NA,Jan-21,10,Congo,0
+2619,NA,Feb-21,11,Congo,0
+2620,NA,Mar-21,12,Congo,0
+2621,NA,Apr-21,13,Congo,0
+2622,NA,May-21,14,Congo,0
+2623,NA,Jun-21,15,Congo,0
+2624,NA,Jul-21,16,Congo,0
+2625,NA,Apr-20,1,Dem. Rep. Congo,-100
+2626,NA,May-20,2,Dem. Rep. Congo,-100
+2627,NA,Jun-20,3,Dem. Rep. Congo,-100
+2628,NA,Jul-20,4,Dem. Rep. Congo,-100
+2629,NA,Aug-20,5,Dem. Rep. Congo,-100
+2630,NA,Sep-20,6,Dem. Rep. Congo,-100
+2631,NA,Oct-20,7,Dem. Rep. Congo,-100
+2632,NA,Nov-20,8,Dem. Rep. Congo,-100
+2633,NA,Dec-20,9,Dem. Rep. Congo,-60
+2634,NA,Jan-21,10,Dem. Rep. Congo,-100
+2635,NA,Feb-21,11,Dem. Rep. Congo,-100
+2636,NA,Mar-21,12,Dem. Rep. Congo,-80
+2637,NA,Apr-21,13,Dem. Rep. Congo,-80
+2638,NA,May-21,14,Dem. Rep. Congo,-60
+2639,NA,Jun-21,15,Dem. Rep. Congo,-100
+2640,NA,Jul-21,16,Dem. Rep. Congo,-100
+2641,NA,Apr-20,1,Cote d'Ivoire,-100
+2642,NA,May-20,2,Cote d'Ivoire,-100
+2643,NA,Jun-20,3,Cote d'Ivoire,-100
+2644,NA,Jul-20,4,Cote d'Ivoire,-100
+2645,NA,Aug-20,5,Cote d'Ivoire,-100
+2646,NA,Sep-20,6,Cote d'Ivoire,-100
+2647,NA,Oct-20,7,Cote d'Ivoire,-100
+2648,NA,Nov-20,8,Cote d'Ivoire,-100
+2649,NA,Dec-20,9,Cote d'Ivoire,-100
+2650,NA,Jan-21,10,Cote d'Ivoire,-100
+2651,NA,Feb-21,11,Cote d'Ivoire,-100
+2652,NA,Mar-21,12,Cote d'Ivoire,-100
+2653,NA,Apr-21,13,Cote d'Ivoire,-100
+2654,NA,May-21,14,Cote d'Ivoire,-100
+2655,NA,Jun-21,15,Cote d'Ivoire,-100
+2656,NA,Jul-21,16,Cote d'Ivoire,-100
+2657,NA,Apr-20,1,Equator Guinea,0
+2658,NA,May-20,2,Equator Guinea,0
+2659,NA,Jun-20,3,Equator Guinea,0
+2660,NA,Jul-20,4,Equator Guinea,0
+2661,NA,Aug-20,5,Equator Guinea,0
+2662,NA,Sep-20,6,Equator Guinea,0
+2663,NA,Oct-20,7,Equator Guinea,0
+2664,NA,Nov-20,8,Equator Guinea,0
+2665,NA,Dec-20,9,Equator Guinea,0
+2666,NA,Jan-21,10,Equator Guinea,0
+2667,NA,Feb-21,11,Equator Guinea,0
+2668,NA,Mar-21,12,Equator Guinea,0
+2669,NA,Apr-21,13,Equator Guinea,0
+2670,NA,May-21,14,Equator Guinea,0
+2671,NA,Jun-21,15,Equator Guinea,0
+2672,NA,Jul-21,16,Equator Guinea,0
+2673,NA,Apr-20,1,Gabon,0
+2674,NA,May-20,2,Gabon,0
+2675,NA,Jun-20,3,Gabon,0
+2676,NA,Jul-20,4,Gabon,0
+2677,NA,Aug-20,5,Gabon,0
+2678,NA,Sep-20,6,Gabon,0
+2679,NA,Oct-20,7,Gabon,0
+2680,NA,Nov-20,8,Gabon,0
+2681,NA,Dec-20,9,Gabon,0
+2682,NA,Jan-21,10,Gabon,0
+2683,NA,Feb-21,11,Gabon,0
+2684,NA,Mar-21,12,Gabon,0
+2685,NA,Apr-21,13,Gabon,0
+2686,NA,May-21,14,Gabon,0
+2687,NA,Jun-21,15,Gabon,0
+2688,NA,Jul-21,16,Gabon,0
+2689,NA,Apr-20,1,Gambia,0
+2690,NA,May-20,2,Gambia,0
+2691,NA,Jun-20,3,Gambia,0
+2692,NA,Jul-20,4,Gambia,0
+2693,NA,Aug-20,5,Gambia,0
+2694,NA,Sep-20,6,Gambia,0
+2695,NA,Oct-20,7,Gambia,0
+2696,NA,Nov-20,8,Gambia,0
+2697,NA,Dec-20,9,Gambia,0
+2698,NA,Jan-21,10,Gambia,0
+2699,NA,Feb-21,11,Gambia,0
+2700,NA,Mar-21,12,Gambia,0
+2701,NA,Apr-21,13,Gambia,0
+2702,NA,May-21,14,Gambia,0
+2703,NA,Jun-21,15,Gambia,0
+2704,NA,Jul-21,16,Gambia,0
+2705,NA,Apr-20,1,Ghana,-88.88888889
+2706,NA,May-20,2,Ghana,-100
+2707,NA,Jun-20,3,Ghana,-100
+2708,NA,Jul-20,4,Ghana,-100
+2709,NA,Aug-20,5,Ghana,-100
+2710,NA,Sep-20,6,Ghana,-100
+2711,NA,Oct-20,7,Ghana,-88.88888889
+2712,NA,Nov-20,8,Ghana,-88.88888889
+2713,NA,Dec-20,9,Ghana,-88.88888889
+2714,NA,Jan-21,10,Ghana,-100
+2715,NA,Feb-21,11,Ghana,-88.88888889
+2716,NA,Mar-21,12,Ghana,-88.88888889
+2717,NA,Apr-21,13,Ghana,-88.88888889
+2718,NA,May-21,14,Ghana,-55.55555556
+2719,NA,Jun-21,15,Ghana,-77.77777778
+2720,NA,Jul-21,16,Ghana,-77.7777778
+2721,NA,Apr-20,1,Guinea,0
+2722,NA,May-20,2,Guinea,0
+2723,NA,Jun-20,3,Guinea,0
+2724,NA,Jul-20,4,Guinea,0
+2725,NA,Aug-20,5,Guinea,0
+2726,NA,Sep-20,6,Guinea,0
+2727,NA,Oct-20,7,Guinea,0
+2728,NA,Nov-20,8,Guinea,0
+2729,NA,Dec-20,9,Guinea,0
+2730,NA,Jan-21,10,Guinea,0
+2731,NA,Feb-21,11,Guinea,0
+2732,NA,Mar-21,12,Guinea,0
+2733,NA,Apr-21,13,Guinea,0
+2734,NA,May-21,14,Guinea,0
+2735,NA,Jun-21,15,Guinea,0
+2736,NA,Jul-21,16,Guinea,0
+2737,NA,Apr-20,1,Guinea-Bissau,0
+2738,NA,May-20,2,Guinea-Bissau,0
+2739,NA,Jun-20,3,Guinea-Bissau,0
+2740,NA,Jul-20,4,Guinea-Bissau,0
+2741,NA,Aug-20,5,Guinea-Bissau,0
+2742,NA,Sep-20,6,Guinea-Bissau,0
+2743,NA,Oct-20,7,Guinea-Bissau,0
+2744,NA,Nov-20,8,Guinea-Bissau,0
+2745,NA,Dec-20,9,Guinea-Bissau,0
+2746,NA,Jan-21,10,Guinea-Bissau,0
+2747,NA,Feb-21,11,Guinea-Bissau,0
+2748,NA,Mar-21,12,Guinea-Bissau,0
+2749,NA,Apr-21,13,Guinea-Bissau,0
+2750,NA,May-21,14,Guinea-Bissau,0
+2751,NA,Jun-21,15,Guinea-Bissau,0
+2752,NA,Jul-21,16,Guinea-Bissau,0
+2753,NA,Apr-20,1,Liberia,-100
+2754,NA,May-20,2,Liberia,-100
+2755,NA,Jun-20,3,Liberia,-100
+2756,NA,Jul-20,4,Liberia,-100
+2757,NA,Aug-20,5,Liberia,-100
+2758,NA,Sep-20,6,Liberia,-100
+2759,NA,Oct-20,7,Liberia,-100
+2760,NA,Nov-20,8,Liberia,-100
+2761,NA,Dec-20,9,Liberia,-100
+2762,NA,Jan-21,10,Liberia,-100
+2763,NA,Feb-21,11,Liberia,-100
+2764,NA,Mar-21,12,Liberia,-100
+2765,NA,Apr-21,13,Liberia,0
+2766,NA,May-21,14,Liberia,0
+2767,NA,Jun-21,15,Liberia,0
+2768,NA,Jul-21,16,Liberia,-100
+2769,NA,Apr-20,1,Mali,-100
+2770,NA,May-20,2,Mali,-100
+2771,NA,Jun-20,3,Mali,-100
+2772,NA,Jul-20,4,Mali,-100
+2773,NA,Aug-20,5,Mali,-100
+2774,NA,Sep-20,6,Mali,-100
+2775,NA,Oct-20,7,Mali,-100
+2776,NA,Nov-20,8,Mali,-100
+2777,NA,Dec-20,9,Mali,-100
+2778,NA,Jan-21,10,Mali,-100
+2779,NA,Feb-21,11,Mali,-100
+2780,NA,Mar-21,12,Mali,-100
+2781,NA,Apr-21,13,Mali,-100
+2782,NA,May-21,14,Mali,-100
+2783,NA,Jun-21,15,Mali,-100
+2784,NA,Jul-21,16,Mali,-100
+2785,NA,Apr-20,1,Mauritania,0
+2786,NA,May-20,2,Mauritania,0
+2787,NA,Jun-20,3,Mauritania,0
+2788,NA,Jul-20,4,Mauritania,0
+2789,NA,Aug-20,5,Mauritania,0
+2790,NA,Sep-20,6,Mauritania,0
+2791,NA,Oct-20,7,Mauritania,0
+2792,NA,Nov-20,8,Mauritania,0
+2793,NA,Dec-20,9,Mauritania,0
+2794,NA,Jan-21,10,Mauritania,0
+2795,NA,Feb-21,11,Mauritania,0
+2796,NA,Mar-21,12,Mauritania,0
+2797,NA,Apr-21,13,Mauritania,0
+2798,NA,May-21,14,Mauritania,0
+2799,NA,Jun-21,15,Mauritania,0
+2800,NA,Jul-21,16,Mauritania,0
+2801,NA,Apr-20,1,Niger,0
+2802,NA,May-20,2,Niger,0
+2803,NA,Jun-20,3,Niger,0
+2804,NA,Jul-20,4,Niger,0
+2805,NA,Aug-20,5,Niger,0
+2806,NA,Sep-20,6,Niger,0
+2807,NA,Oct-20,7,Niger,0
+2808,NA,Nov-20,8,Niger,0
+2809,NA,Dec-20,9,Niger,0
+2810,NA,Jan-21,10,Niger,0
+2811,NA,Feb-21,11,Niger,0
+2812,NA,Mar-21,12,Niger,0
+2813,NA,Apr-21,13,Niger,0
+2814,NA,May-21,14,Niger,0
+2815,NA,Jun-21,15,Niger,0
+2816,NA,Jul-21,16,Niger,0
+2817,NA,Apr-20,1,Nigeria,-100
+2818,NA,May-20,2,Nigeria,-100
+2819,NA,Jun-20,3,Nigeria,-100
+2820,NA,Jul-20,4,Nigeria,-100
+2821,NA,Aug-20,5,Nigeria,-100
+2822,NA,Sep-20,6,Nigeria,-96.42857143
+2823,NA,Oct-20,7,Nigeria,-92.85714286
+2824,NA,Nov-20,8,Nigeria,-92.85714286
+2825,NA,Dec-20,9,Nigeria,-82.14285714
+2826,NA,Jan-21,10,Nigeria,-89.28571429
+2827,NA,Feb-21,11,Nigeria,-89.28571429
+2828,NA,Mar-21,12,Nigeria,-82.14285714
+2829,NA,Apr-21,13,Nigeria,-82.14285714
+2830,NA,May-21,14,Nigeria,-71.42857143
+2831,NA,Jun-21,15,Nigeria,-75
+2832,NA,Jul-21,16,Nigeria,-85.7142857
+2833,NA,Apr-20,1,Sao Tome/Princ,0
+2834,NA,May-20,2,Sao Tome/Princ,0
+2835,NA,Jun-20,3,Sao Tome/Princ,0
+2836,NA,Jul-20,4,Sao Tome/Princ,0
+2837,NA,Aug-20,5,Sao Tome/Princ,0
+2838,NA,Sep-20,6,Sao Tome/Princ,0
+2839,NA,Oct-20,7,Sao Tome/Princ,0
+2840,NA,Nov-20,8,Sao Tome/Princ,0
+2841,NA,Dec-20,9,Sao Tome/Princ,0
+2842,NA,Jan-21,10,Sao Tome/Princ,0
+2843,NA,Feb-21,11,Sao Tome/Princ,0
+2844,NA,Mar-21,12,Sao Tome/Princ,0
+2845,NA,Apr-21,13,Sao Tome/Princ,0
+2846,NA,May-21,14,Sao Tome/Princ,0
+2847,NA,Jun-21,15,Sao Tome/Princ,0
+2848,NA,Jul-21,16,Sao Tome/Princ,0
+2849,NA,Apr-20,1,Senegal,0
+2850,NA,May-20,2,Senegal,0
+2851,NA,Jun-20,3,Senegal,0
+2852,NA,Jul-20,4,Senegal,0
+2853,NA,Aug-20,5,Senegal,0
+2854,NA,Sep-20,6,Senegal,0
+2855,NA,Oct-20,7,Senegal,0
+2856,NA,Nov-20,8,Senegal,0
+2857,NA,Dec-20,9,Senegal,0
+2858,NA,Jan-21,10,Senegal,0
+2859,NA,Feb-21,11,Senegal,0
+2860,NA,Mar-21,12,Senegal,0
+2861,NA,Apr-21,13,Senegal,0
+2862,NA,May-21,14,Senegal,0
+2863,NA,Jun-21,15,Senegal,0
+2864,NA,Jul-21,16,Senegal,0
+2865,NA,Apr-20,1,Sierra Leone,-100
+2866,NA,May-20,2,Sierra Leone,-100
+2867,NA,Jun-20,3,Sierra Leone,-100
+2868,NA,Jul-20,4,Sierra Leone,-100
+2869,NA,Aug-20,5,Sierra Leone,-100
+2870,NA,Sep-20,6,Sierra Leone,-100
+2871,NA,Oct-20,7,Sierra Leone,-100
+2872,NA,Nov-20,8,Sierra Leone,-100
+2873,NA,Dec-20,9,Sierra Leone,-100
+2874,NA,Jan-21,10,Sierra Leone,-100
+2875,NA,Feb-21,11,Sierra Leone,-100
+2876,NA,Mar-21,12,Sierra Leone,-100
+2877,NA,Apr-21,13,Sierra Leone,-100
+2878,NA,May-21,14,Sierra Leone,0
+2879,NA,Jun-21,15,Sierra Leone,-100
+2880,NA,Jul-21,16,Sierra Leone,0
+2881,NA,Apr-20,1,Togo,0
+2882,NA,May-20,2,Togo,0
+2883,NA,Jun-20,3,Togo,0
+2884,NA,Jul-20,4,Togo,0
+2885,NA,Aug-20,5,Togo,0
+2886,NA,Sep-20,6,Togo,0
+2887,NA,Oct-20,7,Togo,0
+2888,NA,Nov-20,8,Togo,0
+2889,NA,Dec-20,9,Togo,0
+2890,NA,Jan-21,10,Togo,0
+2891,NA,Feb-21,11,Togo,0
+2892,NA,Mar-21,12,Togo,0
+2893,NA,Apr-21,13,Togo,0
+2894,NA,May-21,14,Togo,0
+2895,NA,Jun-21,15,Togo,0
+2896,NA,Jul-21,16,Togo,0
+2897,NA,Apr-20,1,Angola,0
+2898,NA,May-20,2,Angola,0
+2899,NA,Jun-20,3,Angola,0
+2900,NA,Jul-20,4,Angola,0
+2901,NA,Aug-20,5,Angola,0
+2902,NA,Sep-20,6,Angola,0
+2903,NA,Oct-20,7,Angola,0
+2904,NA,Nov-20,8,Angola,0
+2905,NA,Dec-20,9,Angola,0
+2906,NA,Jan-21,10,Angola,0
+2907,NA,Feb-21,11,Angola,0
+2908,NA,Mar-21,12,Angola,0
+2909,NA,Apr-21,13,Angola,0
+2910,NA,May-21,14,Angola,0
+2911,NA,Jun-21,15,Angola,0
+2912,NA,Jul-21,16,Angola,0
+2913,NA,Apr-20,1,Botswana,-100
+2914,NA,May-20,2,Botswana,-100
+2915,NA,Jun-20,3,Botswana,-100
+2916,NA,Jul-20,4,Botswana,-100
+2917,NA,Aug-20,5,Botswana,-100
+2918,NA,Sep-20,6,Botswana,-100
+2919,NA,Oct-20,7,Botswana,-100
+2920,NA,Nov-20,8,Botswana,-100
+2921,NA,Dec-20,9,Botswana,-66.66666667
+2922,NA,Jan-21,10,Botswana,-100
+2923,NA,Feb-21,11,Botswana,-100
+2924,NA,Mar-21,12,Botswana,-100
+2925,NA,Apr-21,13,Botswana,-100
+2926,NA,May-21,14,Botswana,-100
+2927,NA,Jun-21,15,Botswana,-100
+2928,NA,Jul-21,16,Botswana,-100
+2929,NA,Apr-20,1,Burundi,-100
+2930,NA,May-20,2,Burundi,-100
+2931,NA,Jun-20,3,Burundi,-100
+2932,NA,Jul-20,4,Burundi,-100
+2933,NA,Aug-20,5,Burundi,-100
+2934,NA,Sep-20,6,Burundi,-100
+2935,NA,Oct-20,7,Burundi,-100
+2936,NA,Nov-20,8,Burundi,-100
+2937,NA,Dec-20,9,Burundi,-100
+2938,NA,Jan-21,10,Burundi,-100
+2939,NA,Feb-21,11,Burundi,-100
+2940,NA,Mar-21,12,Burundi,100
+2941,NA,Apr-21,13,Burundi,0
+2942,NA,May-21,14,Burundi,-100
+2943,NA,Jun-21,15,Burundi,-100
+2944,NA,Jul-21,16,Burundi,-100
+2945,NA,Apr-20,1,Comoros,0
+2946,NA,May-20,2,Comoros,0
+2947,NA,Jun-20,3,Comoros,0
+2948,NA,Jul-20,4,Comoros,0
+2949,NA,Aug-20,5,Comoros,0
+2950,NA,Sep-20,6,Comoros,0
+2951,NA,Oct-20,7,Comoros,0
+2952,NA,Nov-20,8,Comoros,0
+2953,NA,Dec-20,9,Comoros,0
+2954,NA,Jan-21,10,Comoros,0
+2955,NA,Feb-21,11,Comoros,0
+2956,NA,Mar-21,12,Comoros,0
+2957,NA,Apr-21,13,Comoros,0
+2958,NA,May-21,14,Comoros,0
+2959,NA,Jun-21,15,Comoros,0
+2960,NA,Jul-21,16,Comoros,0
+2961,NA,Apr-20,1,Djibouti,0
+2962,NA,May-20,2,Djibouti,0
+2963,NA,Jun-20,3,Djibouti,0
+2964,NA,Jul-20,4,Djibouti,0
+2965,NA,Aug-20,5,Djibouti,0
+2966,NA,Sep-20,6,Djibouti,0
+2967,NA,Oct-20,7,Djibouti,0
+2968,NA,Nov-20,8,Djibouti,0
+2969,NA,Dec-20,9,Djibouti,0
+2970,NA,Jan-21,10,Djibouti,0
+2971,NA,Feb-21,11,Djibouti,0
+2972,NA,Mar-21,12,Djibouti,0
+2973,NA,Apr-21,13,Djibouti,0
+2974,NA,May-21,14,Djibouti,0
+2975,NA,Jun-21,15,Djibouti,0
+2976,NA,Jul-21,16,Djibouti,0
+2977,NA,Apr-20,1,Eritrea,-100
+2978,NA,May-20,2,Eritrea,-100
+2979,NA,Jun-20,3,Eritrea,-100
+2980,NA,Jul-20,4,Eritrea,-100
+2981,NA,Aug-20,5,Eritrea,-100
+2982,NA,Sep-20,6,Eritrea,-100
+2983,NA,Oct-20,7,Eritrea,-85.71428571
+2984,NA,Nov-20,8,Eritrea,-100
+2985,NA,Dec-20,9,Eritrea,-85.71428571
+2986,NA,Jan-21,10,Eritrea,-100
+2987,NA,Feb-21,11,Eritrea,-100
+2988,NA,Mar-21,12,Eritrea,-85.71428571
+2989,NA,Apr-21,13,Eritrea,-85.71428571
+2990,NA,May-21,14,Eritrea,-85.71428571
+2991,NA,Jun-21,15,Eritrea,-100
+2992,NA,Jul-21,16,Eritrea,-100
+2993,NA,Apr-20,1,Ethiopia,-100
+2994,NA,May-20,2,Ethiopia,-91.66666667
+2995,NA,Jun-20,3,Ethiopia,-100
+2996,NA,Jul-20,4,Ethiopia,-91.66666667
+2997,NA,Aug-20,5,Ethiopia,-91.66666667
+2998,NA,Sep-20,6,Ethiopia,-100
+2999,NA,Oct-20,7,Ethiopia,-91.66666667
+3000,NA,Nov-20,8,Ethiopia,-91.66666667
+3001,NA,Dec-20,9,Ethiopia,-91.66666667
+3002,NA,Jan-21,10,Ethiopia,-91.66666667
+3003,NA,Feb-21,11,Ethiopia,-91.66666667
+3004,NA,Mar-21,12,Ethiopia,-83.33333333
+3005,NA,Apr-21,13,Ethiopia,-91.66666667
+3006,NA,May-21,14,Ethiopia,-66.66666667
+3007,NA,Jun-21,15,Ethiopia,-66.66666667
+3008,NA,Jul-21,16,Ethiopia,-83.3333333
+3009,NA,Apr-20,1,Kenya,-100
+3010,NA,May-20,2,Kenya,-97.36842105
+3011,NA,Jun-20,3,Kenya,-97.36842105
+3012,NA,Jul-20,4,Kenya,-100
+3013,NA,Aug-20,5,Kenya,-97.36842105
+3014,NA,Sep-20,6,Kenya,-97.36842105
+3015,NA,Oct-20,7,Kenya,-94.73684211
+3016,NA,Nov-20,8,Kenya,-94.73684211
+3017,NA,Dec-20,9,Kenya,-92.10526316
+3018,NA,Jan-21,10,Kenya,-97.36842105
+3019,NA,Feb-21,11,Kenya,-97.36842105
+3020,NA,Mar-21,12,Kenya,-92.10526316
+3021,NA,Apr-21,13,Kenya,-94.73684211
+3022,NA,May-21,14,Kenya,-92.10526316
+3023,NA,Jun-21,15,Kenya,-92.10526316
+3024,NA,Jul-21,16,Kenya,-92.1052632
+3025,NA,Apr-20,1,Lesotho,-100
+3026,NA,May-20,2,Lesotho,-100
+3027,NA,Jun-20,3,Lesotho,-100
+3028,NA,Jul-20,4,Lesotho,-100
+3029,NA,Aug-20,5,Lesotho,-100
+3030,NA,Sep-20,6,Lesotho,-100
+3031,NA,Oct-20,7,Lesotho,-100
+3032,NA,Nov-20,8,Lesotho,-100
+3033,NA,Dec-20,9,Lesotho,-100
+3034,NA,Jan-21,10,Lesotho,-100
+3035,NA,Feb-21,11,Lesotho,-100
+3036,NA,Mar-21,12,Lesotho,-100
+3037,NA,Apr-21,13,Lesotho,-100
+3038,NA,May-21,14,Lesotho,-100
+3039,NA,Jun-21,15,Lesotho,-100
+3040,NA,Jul-21,16,Lesotho,-100
+3041,NA,Apr-20,1,Madagascar,-100
+3042,NA,May-20,2,Madagascar,-100
+3043,NA,Jun-20,3,Madagascar,-100
+3044,NA,Jul-20,4,Madagascar,-100
+3045,NA,Aug-20,5,Madagascar,-100
+3046,NA,Sep-20,6,Madagascar,-100
+3047,NA,Oct-20,7,Madagascar,-100
+3048,NA,Nov-20,8,Madagascar,-100
+3049,NA,Dec-20,9,Madagascar,-100
+3050,NA,Jan-21,10,Madagascar,-100
+3051,NA,Feb-21,11,Madagascar,-100
+3052,NA,Mar-21,12,Madagascar,-100
+3053,NA,Apr-21,13,Madagascar,-100
+3054,NA,May-21,14,Madagascar,-100
+3055,NA,Jun-21,15,Madagascar,-100
+3056,NA,Jul-21,16,Madagascar,-100
+3057,NA,Apr-20,1,Malawi,-100
+3058,NA,May-20,2,Malawi,-100
+3059,NA,Jun-20,3,Malawi,-100
+3060,NA,Jul-20,4,Malawi,-100
+3061,NA,Aug-20,5,Malawi,-100
+3062,NA,Sep-20,6,Malawi,-100
+3063,NA,Oct-20,7,Malawi,-100
+3064,NA,Nov-20,8,Malawi,-100
+3065,NA,Dec-20,9,Malawi,-100
+3066,NA,Jan-21,10,Malawi,-100
+3067,NA,Feb-21,11,Malawi,-100
+3068,NA,Mar-21,12,Malawi,-100
+3069,NA,Apr-21,13,Malawi,-100
+3070,NA,May-21,14,Malawi,-100
+3071,NA,Jun-21,15,Malawi,-100
+3072,NA,Jul-21,16,Malawi,-100
+3073,NA,Apr-20,1,Mauritius,-100
+3074,NA,May-20,2,Mauritius,-100
+3075,NA,Jun-20,3,Mauritius,-96
+3076,NA,Jul-20,4,Mauritius,-100
+3077,NA,Aug-20,5,Mauritius,-100
+3078,NA,Sep-20,6,Mauritius,-100
+3079,NA,Oct-20,7,Mauritius,-100
+3080,NA,Nov-20,8,Mauritius,-98
+3081,NA,Dec-20,9,Mauritius,-100
+3082,NA,Jan-21,10,Mauritius,-100
+3083,NA,Feb-21,11,Mauritius,-98
+3084,NA,Mar-21,12,Mauritius,-98
+3085,NA,Apr-21,13,Mauritius,-98
+3086,NA,May-21,14,Mauritius,-96
+3087,NA,Jun-21,15,Mauritius,-98
+3088,NA,Jul-21,16,Mauritius,-98
+3089,NA,Apr-20,1,Mozambique,-100
+3090,NA,May-20,2,Mozambique,-100
+3091,NA,Jun-20,3,Mozambique,-100
+3092,NA,Jul-20,4,Mozambique,-100
+3093,NA,Aug-20,5,Mozambique,-100
+3094,NA,Sep-20,6,Mozambique,-100
+3095,NA,Oct-20,7,Mozambique,-100
+3096,NA,Nov-20,8,Mozambique,-100
+3097,NA,Dec-20,9,Mozambique,-100
+3098,NA,Jan-21,10,Mozambique,-100
+3099,NA,Feb-21,11,Mozambique,-100
+3100,NA,Mar-21,12,Mozambique,0
+3101,NA,Apr-21,13,Mozambique,-100
+3102,NA,May-21,14,Mozambique,-100
+3103,NA,Jun-21,15,Mozambique,-100
+3104,NA,Jul-21,16,Mozambique,-100
+3105,NA,Apr-20,1,Namibia,-100
+3106,NA,May-20,2,Namibia,-100
+3107,NA,Jun-20,3,Namibia,-100
+3108,NA,Jul-20,4,Namibia,-100
+3109,NA,Aug-20,5,Namibia,-100
+3110,NA,Sep-20,6,Namibia,-100
+3111,NA,Oct-20,7,Namibia,-100
+3112,NA,Nov-20,8,Namibia,-100
+3113,NA,Dec-20,9,Namibia,-100
+3114,NA,Jan-21,10,Namibia,-100
+3115,NA,Feb-21,11,Namibia,-100
+3116,NA,Mar-21,12,Namibia,-100
+3117,NA,Apr-21,13,Namibia,-100
+3118,NA,May-21,14,Namibia,-100
+3119,NA,Jun-21,15,Namibia,-100
+3120,NA,Jul-21,16,Namibia,-100
+3121,NA,Apr-20,1,Reunion,0
+3122,NA,May-20,2,Reunion,0
+3123,NA,Jun-20,3,Reunion,0
+3124,NA,Jul-20,4,Reunion,0
+3125,NA,Aug-20,5,Reunion,0
+3126,NA,Sep-20,6,Reunion,0
+3127,NA,Oct-20,7,Reunion,0
+3128,NA,Nov-20,8,Reunion,0
+3129,NA,Dec-20,9,Reunion,0
+3130,NA,Jan-21,10,Reunion,0
+3131,NA,Feb-21,11,Reunion,0
+3132,NA,Mar-21,12,Reunion,0
+3133,NA,Apr-21,13,Reunion,0
+3134,NA,May-21,14,Reunion,0
+3135,NA,Jun-21,15,Reunion,0
+3136,NA,Jul-21,16,Reunion,0
+3137,NA,Apr-20,1,Rwanda,-100
+3138,NA,May-20,2,Rwanda,-100
+3139,NA,Jun-20,3,Rwanda,-100
+3140,NA,Jul-20,4,Rwanda,-100
+3141,NA,Aug-20,5,Rwanda,-100
+3142,NA,Sep-20,6,Rwanda,-100
+3143,NA,Oct-20,7,Rwanda,-100
+3144,NA,Nov-20,8,Rwanda,-100
+3145,NA,Dec-20,9,Rwanda,-100
+3146,NA,Jan-21,10,Rwanda,-100
+3147,NA,Feb-21,11,Rwanda,-100
+3148,NA,Mar-21,12,Rwanda,-100
+3149,NA,Apr-21,13,Rwanda,0
+3150,NA,May-21,14,Rwanda,-100
+3151,NA,Jun-21,15,Rwanda,-100
+3152,NA,Jul-21,16,Rwanda,-100
+3153,NA,Apr-20,1,Seychelles,-100
+3154,NA,May-20,2,Seychelles,-100
+3155,NA,Jun-20,3,Seychelles,-100
+3156,NA,Jul-20,4,Seychelles,-100
+3157,NA,Aug-20,5,Seychelles,-100
+3158,NA,Sep-20,6,Seychelles,-100
+3159,NA,Oct-20,7,Seychelles,-100
+3160,NA,Nov-20,8,Seychelles,-100
+3161,NA,Dec-20,9,Seychelles,-100
+3162,NA,Jan-21,10,Seychelles,-100
+3163,NA,Feb-21,11,Seychelles,-100
+3164,NA,Mar-21,12,Seychelles,-100
+3165,NA,Apr-21,13,Seychelles,-100
+3166,NA,May-21,14,Seychelles,-100
+3167,NA,Jun-21,15,Seychelles,-100
+3168,NA,Jul-21,16,Seychelles,-100
+3169,NA,Apr-20,1,Somalia,-100
+3170,NA,May-20,2,Somalia,-50
+3171,NA,Jun-20,3,Somalia,-100
+3172,NA,Jul-20,4,Somalia,-100
+3173,NA,Aug-20,5,Somalia,-100
+3174,NA,Sep-20,6,Somalia,-100
+3175,NA,Oct-20,7,Somalia,-100
+3176,NA,Nov-20,8,Somalia,-100
+3177,NA,Dec-20,9,Somalia,-100
+3178,NA,Jan-21,10,Somalia,-100
+3179,NA,Feb-21,11,Somalia,-50
+3180,NA,Mar-21,12,Somalia,-50
+3181,NA,Apr-21,13,Somalia,0
+3182,NA,May-21,14,Somalia,-50
+3183,NA,Jun-21,15,Somalia,-100
+3184,NA,Jul-21,16,Somalia,-50
+3185,NA,Apr-20,1,South Africa,-95.82309582
+3186,NA,May-20,2,South Africa,-95.82309582
+3187,NA,Jun-20,3,South Africa,-91.89189189
+3188,NA,Jul-20,4,South Africa,-98.77149877
+3189,NA,Aug-20,5,South Africa,-97.54299754
+3190,NA,Sep-20,6,South Africa,-98.03439803
+3191,NA,Oct-20,7,South Africa,-92.87469287
+3192,NA,Nov-20,8,South Africa,-90.66339066
+3193,NA,Dec-20,9,South Africa,-88.6977887
+3194,NA,Jan-21,10,South Africa,-92.62899263
+3195,NA,Feb-21,11,South Africa,-95.08599509
+3196,NA,Mar-21,12,South Africa,-93.61179361
+3197,NA,Apr-21,13,South Africa,-91.64619165
+3198,NA,May-21,14,South Africa,-88.6977887
+3199,NA,Jun-21,15,South Africa,-90.90909091
+3200,NA,Jul-21,16,South Africa,-93.8574939
+3201,NA,Apr-20,1,Eswatini,0
+3202,NA,May-20,2,Eswatini,0
+3203,NA,Jun-20,3,Eswatini,0
+3204,NA,Jul-20,4,Eswatini,0
+3205,NA,Aug-20,5,Eswatini,0
+3206,NA,Sep-20,6,Eswatini,0
+3207,NA,Oct-20,7,Eswatini,0
+3208,NA,Nov-20,8,Eswatini,0
+3209,NA,Dec-20,9,Eswatini,0
+3210,NA,Jan-21,10,Eswatini,0
+3211,NA,Feb-21,11,Eswatini,0
+3212,NA,Mar-21,12,Eswatini,0
+3213,NA,Apr-21,13,Eswatini,0
+3214,NA,May-21,14,Eswatini,0
+3215,NA,Jun-21,15,Eswatini,0
+3216,NA,Jul-21,16,Eswatini,0
+3217,NA,Apr-20,1,Tanzania,-100
+3218,NA,May-20,2,Tanzania,-100
+3219,NA,Jun-20,3,Tanzania,-100
+3220,NA,Jul-20,4,Tanzania,-100
+3221,NA,Aug-20,5,Tanzania,-100
+3222,NA,Sep-20,6,Tanzania,-100
+3223,NA,Oct-20,7,Tanzania,-80
+3224,NA,Nov-20,8,Tanzania,-100
+3225,NA,Dec-20,9,Tanzania,-100
+3226,NA,Jan-21,10,Tanzania,-100
+3227,NA,Feb-21,11,Tanzania,-100
+3228,NA,Mar-21,12,Tanzania,-100
+3229,NA,Apr-21,13,Tanzania,-100
+3230,NA,May-21,14,Tanzania,-100
+3231,NA,Jun-21,15,Tanzania,-80
+3232,NA,Jul-21,16,Tanzania,-100
+3233,NA,Apr-20,1,Uganda,-100
+3234,NA,May-20,2,Uganda,-100
+3235,NA,Jun-20,3,Uganda,-100
+3236,NA,Jul-20,4,Uganda,-100
+3237,NA,Aug-20,5,Uganda,-100
+3238,NA,Sep-20,6,Uganda,-100
+3239,NA,Oct-20,7,Uganda,-100
+3240,NA,Nov-20,8,Uganda,-75
+3241,NA,Dec-20,9,Uganda,-100
+3242,NA,Jan-21,10,Uganda,-100
+3243,NA,Feb-21,11,Uganda,-75
+3244,NA,Mar-21,12,Uganda,-100
+3245,NA,Apr-21,13,Uganda,-75
+3246,NA,May-21,14,Uganda,-100
+3247,NA,Jun-21,15,Uganda,-100
+3248,NA,Jul-21,16,Uganda,-75
+3249,NA,Apr-20,1,Zambia,-100
+3250,NA,May-20,2,Zambia,-100
+3251,NA,Jun-20,3,Zambia,-100
+3252,NA,Jul-20,4,Zambia,-100
+3253,NA,Aug-20,5,Zambia,-80
+3254,NA,Sep-20,6,Zambia,-100
+3255,NA,Oct-20,7,Zambia,-80
+3256,NA,Nov-20,8,Zambia,-100
+3257,NA,Dec-20,9,Zambia,-80
+3258,NA,Jan-21,10,Zambia,-80
+3259,NA,Feb-21,11,Zambia,-100
+3260,NA,Mar-21,12,Zambia,-80
+3261,NA,Apr-21,13,Zambia,-60
+3262,NA,May-21,14,Zambia,-60
+3263,NA,Jun-21,15,Zambia,-80
+3264,NA,Jul-21,16,Zambia,-80
+3265,NA,Apr-20,1,Zimbabwe,-100
+3266,NA,May-20,2,Zimbabwe,-97.05882353
+3267,NA,Jun-20,3,Zimbabwe,-97.05882353
+3268,NA,Jul-20,4,Zimbabwe,-97.05882353
+3269,NA,Aug-20,5,Zimbabwe,-100
+3270,NA,Sep-20,6,Zimbabwe,-97.05882353
+3271,NA,Oct-20,7,Zimbabwe,-97.05882353
+3272,NA,Nov-20,8,Zimbabwe,-88.23529412
+3273,NA,Dec-20,9,Zimbabwe,-85.29411765
+3274,NA,Jan-21,10,Zimbabwe,-94.11764706
+3275,NA,Feb-21,11,Zimbabwe,-82.35294118
+3276,NA,Mar-21,12,Zimbabwe,-85.29411765
+3277,NA,Apr-21,13,Zimbabwe,-88.23529412
+3278,NA,May-21,14,Zimbabwe,-85.29411765
+3279,NA,Jun-21,15,Zimbabwe,-88.23529412
+3280,NA,Jul-21,16,Zimbabwe,-94.1176471
