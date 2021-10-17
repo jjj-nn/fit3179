@@ -1,0 +1,36 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": { "url": "https://raw.githubusercontent.com/jjj-nn/fit3179/main/longstudyvisa.csv"},
+  "title":"Number of Arrivals in Australia by Student Visa Type ",
+  "width": {"step": 12},
+  "mark": "bar",
+  "encoding": {
+    "column": {
+      "field": "Student Visa", "type": "nominal", "spacing": 10,
+      "header": {"orient": "bottom", "labelAngle": -45, "labelAnchor": "end"}
+    },
+    "y": {
+      "aggregate": "sum", "field": "Population",
+      "title": "Population",
+      "axis": {"grid": false}
+    },
+    "x": {
+      "field": "Month",
+      "axis": null
+    },
+    "color": {
+      "field": "Month",
+      "title": "Month",
+      "scale": {"range": ["#084081", "#7bccc4"]}
+    },
+    "tooltip": [
+      {"field": "Student Visa", "type" : "nominal"},
+      {"field": "Month"},
+      {"field": "Population", "type": "quantitative"}
+    ]
+  },
+  "config": {
+    "view": {"stroke": "transparent"},
+    "axis": {"domainWidth": 1}
+  }
+}
